@@ -1,0 +1,135 @@
+{
+    "food": {
+        "fruits": {
+            "apple": {
+                "id": "fruit1",
+                "description": "A popular fruit",
+                "price": {
+                    "USD": {
+                        "default": "0.72",
+                        "formatted": "$0.72/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": "1 medium",
+                            "grams": 182
+                        },
+                        "calories": "95",
+                        "total fat": "0.3 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "2 milligrams",
+                        "potassium": "195 milligrams",
+                        "total carbohydrates": "25 grams",
+                        "protein": "0.5 grams"
+                    }
+                }
+            },
+            "bannana": {
+                "id": "fruit2",
+                "description": "A popular fruit rich in potassium",
+                "price": {
+                    "USD": {
+                        "default": "0.22",
+                        "formatted": "$0.22/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": "1 medium",
+                            "grams": 118
+                        },
+                        "calories": "105",
+                        "total fat": "0.4 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "1 milligrams",
+                        "potassium": "422 milligrams",
+                        "total carbohydrates": "27 grams",
+                        "protein": "1.3 grams"
+                    }
+                }
+            },
+            "grape": {
+                "id": "fruit3",
+                "description": "A popular berry used in wine, jam, and juice production",
+                "price": {
+                    "USD": {
+                        "default": "2.36",
+                        "formatted": "$2.36/lb",
+                        "formatted2": "$2.35/pound"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "cups": 1,
+                            "grams": 92
+                        },
+                        "calories": "62",
+                        "total fat": "0.3 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "2 milligrams",
+                        "potassium": "176 milligrams",
+                        "total carbohydrates": "16 grams",
+                        "protein": "0.6 grams"
+                    }
+                }
+            },
+            "lemon": {
+                "id": "fruit4",
+                "description": "A citrus fruit known for its sour taste",
+                "price": {
+                    "USD": {
+                        "default": "0.52",
+                        "formatted": "$0.52/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": 1,
+                            "grams": 58
+                        },
+                        "calories": "17",
+                        "total fat": "0.2 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "1 milligrams",
+                        "potassium": "80 milligrams",
+                        "total carbohydrates": "5 grams",
+                        "protein": "0.6 grams"
+                    }
+                }
+            },
+            "grapefruit": {
+                "id": "fruit5",
+                "description": "A tropical citrus fruit known for a sweet and sour taste",
+                "price": {
+                    "USD": {
+                        "default": "0.98",
+                        "formatted": "$0.98/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": 0.5,
+                            "grams": 123
+                        },
+                        "calories": "52",
+                        "total fat": "0.2 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "0 milligrams",
+                        "potassium": "166 milligrams",
+                        "total carbohydrates": "13 grams",
+                        "protein": "0.9 grams"
+                    }
+                }
+            }
+
+        }
+
+    }
+
+}
