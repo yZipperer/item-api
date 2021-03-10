@@ -6,7 +6,7 @@ const {
     fruit
 } = require("../controllers/food.js");
 
-router.get("/food", everything);
+router.get("/food", allFruits);
 router.get("/food/fruit", fruit);
 
 module.exports = router;
