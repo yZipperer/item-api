@@ -20,6 +20,6 @@ Running:
   
 Routes:
 
-  / Returns the route documentation
-  /food Returns all the food data
-  /food/fruits Returns all the fruits
+- / Returns the route documentation
+- /food Returns all the food data
+- /food/fruits Returns all the fruits
