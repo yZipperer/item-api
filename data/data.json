@@ -2,7 +2,7 @@
     "food": {
         "fruits": {
             "apple": {
-                "id": "fruit1",
+                "id": "ffa137",
                 "description": "A popular fruit",
                 "price": {
                     "USD": {
@@ -27,7 +27,7 @@
                 }
             },
             "bannana": {
-                "id": "fruit2",
+                "id": "ffb138",
                 "description": "A popular fruit rich in potassium",
                 "price": {
                     "USD": {
@@ -52,7 +52,7 @@
                 }
             },
             "grape": {
-                "id": "fruit3",
+                "id": "ffg139",
                 "description": "A popular berry used in wine, jam, and juice production",
                 "price": {
                     "USD": {
@@ -78,7 +78,7 @@
                 }
             },
             "lemon": {
-                "id": "fruit4",
+                "id": "ffl140",
                 "description": "A citrus fruit known for its sour taste",
                 "price": {
                     "USD": {
@@ -103,7 +103,7 @@
                 }
             },
             "grapefruit": {
-                "id": "fruit5",
+                "id": "ffg141",
                 "description": "A tropical citrus fruit known for a sweet and sour taste",
                 "price": {
                     "USD": {
