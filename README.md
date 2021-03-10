@@ -2,12 +2,12 @@
 
 Overview:
   This is a simple API made for fake product data. So far it contains:
-    5 total items
-    5 fruits
-    names
-    descriptions
-    prices in USD
-    USDA nutrition data
+- 5 total items
+- 5 fruits
+- names
+- descriptions
+- prices in USD
+- USDA nutrition data
         
 
 Installation:
@@ -20,6 +20,6 @@ Running:
   
 Routes:
 
-  / Returns the route documentation
-  /food Returns all the food data
-  /food/fruits Returns all the fruits
+- / Returns the route documentation
+- /food Returns all the food data
+- /food/fruits Returns all the fruits
