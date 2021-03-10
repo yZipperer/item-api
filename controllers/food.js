@@ -1,9 +1,10 @@
-const data = require('../data.json');
+const fruitData = require('../data/food/fruit.json');
 
-exports.allFruits = (req, res) => {
-    return res.status(200).json(data.food.fruits);
+exports.allFood = (req, res) => {
+    const allFood = [fruitData]
+    return res.status(200).json(allFood);
 };
 
-exports.fruit = (req, res) => {
-    return res.status(200).json(data.food.fruits);
+exports.allFruit = (req, res) => {
+    return res.status(200).json(fruitData);
 };

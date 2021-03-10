@@ -5,7 +5,7 @@ const food = require("./routes/food");
 
 app.use("/", food);
 
-app.get("/", (req, res) => {
+/*app.get("/", (req, res) => {
     fs.readFile("docs.json", (err, data) => {
         if (err) {
             res.status(400).json({
@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
         const docs = JSON.parse(data);
         res.json(docs);
     });
-});
+});*/
 
 
 
