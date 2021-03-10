@@ -1,21 +1,13 @@
 const express = require("express");
 const app = express();
+const mainData = require("./data/data.json");
 
 const food = require("./routes/food");
-
 app.use("/", food);
 
-/*app.get("/", (req, res) => {
-    fs.readFile("docs.json", (err, data) => {
-        if (err) {
-            res.status(400).json({
-                error: err
-            });
-        }
-        const docs = JSON.parse(data);
-        res.json(docs);
-    });
-});*/
+app.get("/", (req, res) => {
+    return res.status(200).json(mainData);
+});
 
 
 
