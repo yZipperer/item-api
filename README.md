@@ -1,7 +1,7 @@
 # item-api
 
 ## Overview:
-  An API for fake product data.
+  A product API for grocery data. This API will return information including prices, names, descriptions, ids, and even USDA nutrition information.
   
   ### By the Numbers:
     * 5 total items
@@ -28,13 +28,14 @@
   
 ## Running and Usage:
 
-  1. Navigate into the cloned folder and type 'node app.js' to start the server
+  1. Navigate into the cloned folder and type ```node app.js``` to start the server
   2. Once the server is running use the command line to call the routes
+  
     ```
     curl http://localhost:8080/
     ```
   
-##Routes:
+## Routes:
 
   ```
   http:localhost:8080/ /*returns all data*/
