@@ -126,6 +126,159 @@
                         "protein": "0.9 grams"
                     }
                 }
+            },
+            "cherry": {
+                "id": "ffc142",
+                "description": "Cherries are small fruits that come as tart or sweet. They are perfect for cooking and topping off ice cream.",
+                "price": {
+                    "USD": {
+                        "default": "3.21",
+                        "formatted": "$3.21/lb",
+                        "formatted2": "$3.21/pound"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "cups": 1,
+                            "grams": 155
+                        },
+                        "calories": "77",
+                        "total fat": "0.5 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "5 milligrams",
+                        "potassium": "268 milligrams",
+                        "total carbohydrates": "19 grams",
+                        "protein": "1.6 grams"
+                    }
+                }
+            },
+            "strawberry": {
+                "id": "ffs143",
+                "description": "Strawberries are a sweet berry popular as a snack.",
+                "price": {
+                    "USD": {
+                        "default": "3.34",
+                        "formatted": "$3.34/lb",
+                        "formatted2": "$3.34/pound"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": "1 medium",
+                            "grams": 12
+                        },
+                        "calories": "4",
+                        "total fat": "0 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "0 milligrams",
+                        "potassium": "18 milligrams",
+                        "total carbohydrates": "0.9 grams",
+                        "protein": "0.1 grams"
+                    }
+                }
+            },
+            "pineapple": {
+                "id": "ffp144",
+                "description": "Pineapples are tropical fruits full of vitamins and antioxidants.",
+                "price": {
+                    "USD": {
+                        "default": "1.98",
+                        "formatted": "$1.98/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": 1,
+                            "grams": 905
+                        },
+                        "calories": "452",
+                        "total fat": "1.1 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "9 milligrams",
+                        "potassium": "986 milligrams",
+                        "total carbohydrates": "119 grams",
+                        "protein": "4.9 grams"
+                    }
+                }
+            },
+            "lime": {
+                "id": "ffl145",
+                "description": "Limes are a citrus fruit commonly used in deserts and drinks.",
+                "price": {
+                    "USD": {
+                        "default": "0.32",
+                        "formatted": "$0.32/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "amount": 1,
+                            "grams": 67
+                        },
+                        "calories": "20",
+                        "total fat": "0.1 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "1 milligrams",
+                        "potassium": "68 milligrams",
+                        "total carbohydrates": "7 grams",
+                        "protein": "0.5 grams"
+                    }
+                }
+            },
+            "apricot": {
+                "id": "ffa146",
+                "description": "Apricots are a sweet fruit rich in beta-carotene.",
+                "price": {
+                    "USD": {
+                        "default": "3.09",
+                        "formatted": "$3.09/lb",
+                        "formatted2": "$3.09/pound"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "cups": 1,
+                            "grams": 165
+                        },
+                        "calories": "79",
+                        "total fat": "0.6 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "2 milligrams",
+                        "potassium": "427 milligrams",
+                        "total carbohydrates": "18 grams",
+                        "protein": "2.3 grams"
+                    }
+                }
+            },
+            "avacado": {
+                "id": "ffa147",
+                "description": "The avacado is a popular fruit known for its monounsaturated fatty acids.",
+                "price": {
+                    "USD": {
+                        "default": "0.78",
+                        "formatted": "$0.78/each"
+                    }
+                },
+                "nutrition": {
+                    "USDA": {
+                        "serving size": {
+                            "cups": 1,
+                            "grams": 146
+                        },
+                        "calories": "234",
+                        "total fat": "21 grams",
+                        "cholesterol": "0 milligrams",
+                        "sodium": "10 milligrams",
+                        "potassium": "708 milligrams",
+                        "total carbohydrates": "12 grams",
+                        "protein": "2.9 grams"
+                    }
+                }
             }
 
         }
