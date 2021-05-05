@@ -281,7 +281,84 @@
                 }
             }
 
+        },
+        "canned": {
+            "Golden Sweet Corn": {
+                "id": "fcc148",
+                "description": "Golden Sweet Corn is a perfect side for any dish. Its ready to be eaten right out of the can.",
+                "weight": "14.5 oz",
+                "price": {
+                    "USD": {
+                        "default": "0.50",
+                        "formatted": "$0.50/each"
+                    }
+                },
+                "nutrition": {
+                    "serving size": {
+                        "cups": "1/2 cup",
+                        "grams": 120
+                    },
+                    "calories": "45",
+                    "total fat": "0.5 grams",
+                    "cholesterol": "0 milligrams",
+                    "sodium": "200 milligrams",
+                    "potassium": "125 milligrams",
+                    "total carbohydrates": "9 grams",
+                    "protein": "2 grams"
+                }
+            },
+            "Green Beans": {
+                "id": "fcb149",
+                "description": "Green Beans are a delicious way to to add flavor and nutrients to green bean casseroles, stews, soups, stir-fry, bean salads, and vegetarian dishes.",
+                "weight": "14.5 oz",
+                "price": {
+                    "USD": {
+                        "default": "0.50",
+                        "formatted": "$0.50/each"
+                    }
+                },
+                "nutrition": {
+                    "serving size": {
+                         "cups": "1/2 cup",
+                        "grams": 120
+                    },
+                    "calories": "20",
+                    "total fat": "0 grams",
+                    "cholesterol": "0 milligrams",
+                    "sodium": "350 milligrams",
+                    "potassium": "75 milligrams",
+                    "total carbohydrates": "4 grams",
+                    "protein": "0 grams"
+                }
+            },
+            "Sliced Peaches in 100% Juice": {
+                "id": "fcp150",
+                "description": "Peaches are known to contain a hefty amount of the healthy antioxidant vitamin C, and may also reduce LDL cholesterol associated with cardiovascular disease.",
+                "weight": "15 oz",
+                "price": {
+                    "USD": {
+                        "default": "0.92",
+                        "formatted": "$0.92/each"
+                    }
+                },
+                "nutrition": {
+                    "serving size": {
+                        "cups": "1/2 cup",
+                        "grams": "unknown"
+                    },
+                    "calories": "60",
+                    "total fat": "0 grams",
+                    "cholesterol": "0 milligrams",
+                    "sodium": "0 milligrams",
+                    "potassium": "152 milligrams",
+                    "total carbohydrates": "14 grams",
+                    "protein": "1 gram"
+                }
+            }
+            
         }
+
+
 
     }
 

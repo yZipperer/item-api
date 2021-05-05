@@ -1,5 +1,6 @@
 {
     "/": "api documentation",
     "/food": "all food",
-    "/food/fruits": "all fruits"
+    "/food/fruits": "all fruits",
+    "/food/canned": "all canned items"
 }
