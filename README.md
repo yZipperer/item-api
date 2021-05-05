@@ -42,3 +42,6 @@
   http:localhost:8080/food            /*returns all food data*/
   http:localhost:8080/food/fruit            /*returns all fruit data*/
   ```
+
+## Contributions:
+  Contributions are welcome, especially for product data. Just open up an issue with what you would like to add.
