@@ -3,10 +3,12 @@ const router = express.Router();
 
 const {
     allFood,
-    allFruit
+    allFruit,
+    allCanned
 } = require("../controllers/food.js");
 
 router.get("/food", allFood);
 router.get("/food/fruit", allFruit);
+router.get("/food/canned", allCanned);
 
 module.exports = router;

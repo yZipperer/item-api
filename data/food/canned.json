@@ -1,0 +1,27 @@
+{
+    "Golden Sweet Corn": {
+        "id": "ffa147",
+        "description": "Golden Sweet Corn is a perfect side for any dish. Its ready to be eaten right out of the can.",
+        "price": {
+            "USD": {
+                "default": "0.50",
+                "formatted": "$0.50/each"
+            }
+        },
+        "nutrition": {
+            "USDA": {
+                "serving size": {
+                    "cups": "1/2 cup",
+                    "grams": 120
+                },
+                "calories": "45",
+                "total fat": "0.5 grams",
+                "cholesterol": "0 milligrams",
+                "sodium": "200 milligrams",
+                "potassium": "125 milligrams",
+                "total carbohydrates": "9 grams",
+                "protein": "2 grams"
+            }
+        }
+    }
+}
