@@ -1,9 +1,12 @@
 const express = require("express");
 const app = express();
 const mainData = require("./data/data.json");
+const dotenv = require("dotenv");
 
 const food = require("./routes/food");
 app.use("/", food);
+
+app.use(express.static(__dirname + '/images'));
 
 app.get("/", (req, res) => {
     return res.status(200).json(mainData);

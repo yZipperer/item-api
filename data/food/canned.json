@@ -9,6 +9,7 @@
                 "formatted": "$0.50/each"
             }
         },
+        "image": "http://localhost:8080/fcc148.png",
         "nutrition": {
             "serving size": {
                 "cups": "1/2 cup",
