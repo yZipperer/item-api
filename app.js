@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const mainData = require("./data/data.json");
-const dotenv = require("dotenv");
 
 const food = require("./routes/food");
 app.use("/", food);

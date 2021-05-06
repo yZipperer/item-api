@@ -8,6 +8,7 @@
                 "formatted": "$0.72/each"
             }
         },
+        "image": "http://localhost:8080/ffa137.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -33,6 +34,7 @@
                 "formatted": "$0.22/each"
             }
         },
+        "image": "http://localhost:8080/ffb138.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -59,6 +61,7 @@
                 "formatted2": "$2.35/pound"
             }
         },
+        "image": "http://localhost:8080/ffg139.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -84,6 +87,7 @@
                 "formatted": "$0.52/each"
             }
         },
+        "image": "http://localhost:8080/ffl140.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -109,6 +113,7 @@
                 "formatted": "$0.98/each"
             }
         },
+        "image": "http://localhost:8080/ffg141.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -135,6 +140,7 @@
                 "formatted2": "$3.21/pound"
             }
         },
+        "image": "http://localhost:8080/ffc142.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -161,6 +167,7 @@
                 "formatted2": "$3.34/pound"
             }
         },
+        "image": "http://localhost:8080/ffs143.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -186,6 +193,7 @@
                 "formatted": "$1.98/each"
             }
         },
+        "image": "http://localhost:8080/ffp144.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -211,6 +219,7 @@
                 "formatted": "$0.32/each"
             }
         },
+        "image": "http://localhost:8080/ffl145.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -237,6 +246,7 @@
                 "formatted2": "$3.09/pound"
             }
         },
+        "image": "http://localhost:8080/ffa146.jpg",
         "nutrition": {
             "USDA": {
                 "serving size": {
@@ -262,6 +272,7 @@
                 "formatted": "$0.78/each"
             }
         },
+        "image": "ffa147",
         "nutrition": {
             "USDA": {
                 "serving size": {
