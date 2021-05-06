@@ -12,6 +12,7 @@
         "nutrition": {
             "serving size": {
                 "cups": "1/2 cup",
+                "amount": "unknown",
                 "servings per container": "3.5",
                 "grams": 120
             },
@@ -37,7 +38,8 @@
         },
         "nutrition": {
             "serving size": {
-                 "cups": "1/2 cup",
+                "cups": "1/2 cup",
+                "amount": "unknown",
                 "grams": 120
             },
             "calories": "20",
@@ -88,6 +90,7 @@
         "nutrition": {
             "serving size": {
                 "cups": "1/2 cup",
+                "amount": "unknown",
                 "grams": "unknown"
             },
             "calories": "110",
@@ -112,6 +115,7 @@
         "nutrition": {
             "serving size": {
                 "cups": "unknown",
+                "amount": "unknown",
                 "servings per container": "3.5",
                 "grams": "63 grams"
             },
@@ -137,6 +141,7 @@
         "nutrition": {
             "serving size": {
                 "cups": "1/2 cup",
+                "amount": "unknown",
                 "servings per container": "4",
                 "grams": "unknown"
             },
@@ -148,6 +153,189 @@
             "total carbohydrates": "20 grams",
             "protein": "<1 grams"
         }
+    },
+    "Rosarita Traditional Refried Beans": {
+        "id": "fcb153",
+        "description": "For over 70 years Rosarita has continued to make delicious Mexican sauces, beans, and refried beans. When it comes to your family's Mexican food night, serve them the taste of true Mexican heritage with Rosarita. With Rosarita Traditional Refried Beans, you can give your family a delicious Mexican-style meal. Add Rosarita original-recipe, Mexican-style refried beans for authentic and delicious Mexican-style dishes and sides. ",
+        "weight": "16 oz",
+        "price": {
+            "USD": {
+                "default": "1.00",
+                "formatted": "$1.00/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "unknown",
+                "amount": "unknown",
+                "servings per container": "3.5",
+                "grams": "128 grams"
+            },
+            "calories": "100",
+            "total fat": "2.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "580 milligrams",
+            "potassium": "360 milligrams",
+            "total carbohydrates": "15 grams",
+            "protein": "5 grams"
+        }
+    },
+    "Medium Black Olives": {
+        "id": "fco154",
+        "description": "These olives are infused with a mild, zesty flavor that adds a touch of Mediterranean cuisine to your meals. These salted medium black olives have been imported from the finest olive groves in Spain, and are ready to eat. They offer a convenient eating experience as they have been pitted to remove their seed. You can use them for garnishing your pizzas, hot dogs and sandwiches, or adding to salads, pastas, sauces, chicken and salmon dishes.",
+        "weight": "6 oz",
+        "price": {
+            "USD": {
+                "default": "1.54",
+                "formatted": "$1.54/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "unknown",
+                "amount": "5 olives",
+                "servings per container": "11",
+                "grams": "15 grams"
+            },
+            "calories": "25",
+            "total fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "115 milligrams",
+            "potassium": "360 milligrams",
+            "total carbohydrates": "0 grams",
+            "protein": "0 grams"
+        }
+    },
+    "Sweet Peas": {
+        "id": "fcp155",
+        "description": "Thses peas consist of the finest sweet peas available. Our peas are picked fresh from the farm and packed on the same day to maintain their freshness and provide you with a great flavor to add to your favorite meals. Use them to add texture in a rich and creamy alfredo dish, for a pop of color in fried rice, or mix them into a vegetable casserole with cheese on top to create a stunning side dish that will having you coming back for more.",
+        "weight": "6 oz",
+        "price": {
+            "USD": {
+                "default": "0.50",
+                "formatted": "$0.50/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "1/2 cup",
+                "amount": "unknown",
+                "servings per container": "3.5",
+                "grams": "125 grams"
+            },
+            "calories": "60",
+            "total fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "290 milligrams",
+            "potassium": "133 milligrams",
+            "total carbohydrates": "11 grams",
+            "protein": "4 grams"
+        }
+    },
+    "Diced Tomatoes in Tomato Juice": {
+        "id": "fct156",
+        "description": "Diced Tomatoes. Grown in California, these tomatoes bring the best of peak-season produce to your table. We use steam to remove the peels to help preserve the natural flavor of the tomatoes. Add a can to soup or chili to make a thick and hearty meal. Create a delicious tomato sauce for pasta or add to casseroles for a savory bite.",
+        "weight": "14.5 oz",
+        "price": {
+            "USD": {
+                "default": "0.72",
+                "formatted": "$0.72/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "unknown",
+                "amount": "unknown",
+                "servings per container": "3.5",
+                "grams": "121 grams"
+            },
+            "calories": "25",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "180 milligrams",
+            "potassium": "210 milligrams",
+            "total carbohydrates": "5 grams",
+            "protein": "1 gram"
+        }
+    },
+    "Manwich Original Sloppy Joe": {
+        "id": "fcm157",
+        "description": "Manwich Original Sloppy Joe Sauce delivers that classic, deliciously messy favorite the entire family loves. Made with a tomato base and the perfect seasonings, not only is Manwich Original Sloppy Joe Sauce perfect for a classic sloppy joe sandwich, but it's also great with tacos, meatloaf and party dips.",
+        "weight": "15 oz",
+        "price": {
+            "USD": {
+                "default": "1.00",
+                "formatted": "$1.00/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "unknown",
+                "amount": "unknown",
+                "servings per container": "6",
+                "grams": "64 grams"
+            },
+            "calories": "35",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "310 milligrams",
+            "potassium": "150 milligrams",
+            "total carbohydrates": "8 grams",
+            "protein": "<1 gram"
+        }
+    },
+    "Chef Boyardee Mini Beef Ravioli": {
+        "id": "fcr158",
+        "description": "Chef Boyardee Mini Ravioli is a delicious and convenient meal that is ready to eat in minutes and has delighted families for generations. Made with enriched pasta, smothered in rich, Italian-flavored tomato sauce, and stuffed with real beef, Chef Boyardee Mini Ravioli has the timeless flavor everyone loves in a fun, bite-sized package.",
+        "weight": "15 oz",
+        "price": {
+            "USD": {
+                "default": "0.88",
+                "formatted": "$0.88/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "unknown",
+                "amount": "unknown",
+                "servings per container": "2",
+                "grams": "244 grams"
+            },
+            "calories": "180",
+            "total fat": "4.5 grams",
+            "cholesterol": "5 milligrams",
+            "sodium": "780 milligrams",
+            "potassium": "130 milligrams",
+            "total carbohydrates": "30 grams",
+            "protein": "5 grams"
+        }
+    },
+    "Mushroom Pieces and Stems": {
+        "id": "fcm159",
+        "description": "These mushrooms can be served as a simple side dish drizzled with olive oil and topped with parsley or used in a variety of sauce, dip, and soup recipes. Cook a roasted chicken in a creamy mushroom sauce, whip up a cheesy caramelized onion mushroom dip, or serve a hearty cream of mushroom soup.",
+        "weight": "4 oz",
+        "price": {
+            "USD": {
+                "default": "0.54",
+                "formatted": "$0.54/each"
+            }
+        },
+        "nutrition": {
+            "serving size": {
+                "cups": "1/2 cup",
+                "amount": "unknown",
+                "servings per container": "1",
+                "grams": "unknown grams"
+            },
+            "calories": "25",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "390 milligrams",
+            "potassium": "0 milligrams",
+            "total carbohydrates": "4 grams",
+            "protein": "3 grams"
+        }
     }
+
 
 }
