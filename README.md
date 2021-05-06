@@ -11,6 +11,7 @@
 
   ### Contents
     * price data in USD
+    * images for every product
     * USDA nutrition information
     * descriptions and names
     * 24 products including:

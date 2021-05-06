@@ -272,7 +272,7 @@
                 "formatted": "$0.78/each"
             }
         },
-        "image": "ffa147",
+        "image": "http://localhost:8080/ffa147.jpeg",
         "nutrition": {
             "USDA": {
                 "serving size": {
