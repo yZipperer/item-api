@@ -1,7 +1,7 @@
 # item-api
 
 ## Overview:
-  A product API for grocery data. This API will return information including prices, names, descriptions, ids, and even USDA nutrition information.
+  This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, and even USDA nutrition information.
   
   ### By the Numbers:
     * 24 total items
