@@ -25,5 +25,87 @@
             "total carbohydrates": "23 grams",
             "protein": "3 grams"
         }
+    },
+    "C&H Premium Pure Cane Sugar": {
+        "id": "fds161",
+        "description": "Make your day a little sweeter with C&H Granulated Sugar. We refine our sugar into extra fine crystals so you can easily stir it, sprinkle it, or mix it into recipes.",
+        "weight": "4 pounds",
+        "price": {
+            "USD": {
+                "default": "3.42",
+                "formatted": "$3.42/each"
+            }
+        },
+        "image": "http://localhost:8080/fds161.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "1 teaspoon",
+                "amount": "unknown",
+                "servings per container": "454",
+                "grams": "4 grams"
+            },
+            "calories": "15",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "total carbohydrates": "4 grams",
+            "protein": "0 grams"
+        }
+    },
+    "C&H Premium Pure Golden Brown Sugar": {
+        "id": "fds162",
+        "description": "Sweeten your next creation with C&H Golden Brown Sugar. Its nutty, caramel flavor makes it perfect for tasty treats of all kinds. From spiced cakes and cinnamon rolls to brownies, cookies and more, you'll add 'wow' to every recipe with C&H Golden Brown Sugar.",
+        "weight": "2 pounds",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fds162.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "1 teaspoon",
+                "amount": "unknown",
+                "servings per container": "227",
+                "grams": "4 grams"
+            },
+            "calories": "15",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "total carbohydrates": "4 grams",
+            "protein": "0 grams"
+        }
+    },
+    "Quaker Oats Old Fashioned Oatmeal": {
+        "id": "fdo163",
+        "description": "Get a perfect start to your day. Dive into a bowlful of hot, delicious Quaker Oats Old Fashioned Oats. Throw in a few fresh berries, some toasted nuts, maple syrup or cinnamon. Just like the day itself, the possibilities are limitless.",
+        "weight": "42 ounces",
+        "price": {
+            "USD": {
+                "default": "3.98",
+                "formatted": "$3.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fdo163.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "1/2 cup",
+                "amount": "unknown",
+                "servings per container": "30",
+                "grams": "40 grams"
+            },
+            "calories": "150",
+            "total fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "150 milligrams",
+            "total carbohydrates": "27 grams",
+            "protein": "5 grams"
+        }
     }
+
 }
