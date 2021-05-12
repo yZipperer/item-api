@@ -42,10 +42,11 @@
 ## Routes:
 
   ```
-  http:localhost:8080/            /*returns all data*/
-  http:localhost:8080/food            /*returns all food data*/
-  http:localhost:8080/food/fruit            /*returns all fruit data*/
-  http:localhost:8080/food/canned            /*returns all canned item data*/           
+  http://localhost:8080/            /*returns all data*/
+  http://localhost:8080/food            /*returns all food data*/
+  http://localhost:8080/food/fruit            /*returns all fruit data*/
+  http://localhost:8080/food/canned            /*returns all canned item data*/
+  http://localhost:8080/food/drygoods            /*returns all dry goods item data*/          
   ```
 
 ## Contributions:
