@@ -4,11 +4,13 @@ const router = express.Router();
 const {
     allFood,
     allFruit,
-    allCanned
+    allCanned,
+    allDryGoods
 } = require("../controllers/food.js");
 
 router.get("/food", allFood);
 router.get("/food/fruit", allFruit);
 router.get("/food/canned", allCanned);
+router.get("/food/drygoods", allDryGoods);
 
 module.exports = router;

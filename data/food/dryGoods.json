@@ -1,0 +1,29 @@
+{
+    "Gold Medal All-Purpose Flour": {
+        "id": "fdf160",
+        "description": "The most versatile flour for any recipe that simply calls for 'flour.' Strong enough to take high-rising yeast breads to new heights. And mellow enough to make your family's favorite pie crust recipe to flaky perfection",
+        "weight": "10 pounds",
+        "price": {
+            "USD": {
+                "default": "4.66",
+                "formatted": "$4.66/each"
+            }
+        },
+        "image": "http://localhost:8080/fdf160.png",
+        "nutrition": {
+            "serving size": {
+                "cups": "1/4 cup",
+                "amount": "unknown",
+                "servings per container": "151",
+                "grams": "30 grams"
+            },
+            "calories": "110",
+            "total fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "total carbohydrates": "23 grams",
+            "protein": "3 grams"
+        }
+    }
+}
