@@ -14,7 +14,7 @@
     * images for every product
     * USDA nutrition information
     * descriptions and names
-    * 24 products including:
+    * 29 products including:
       * fruits
       * canned items
       * dry goods
