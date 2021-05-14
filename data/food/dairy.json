@@ -1,0 +1,57 @@
+{
+    "Eggland's Best Large White Grade A Eggs, 12 Eggs": {
+        "id": "fde164",
+        "description": "Eggland's Best eggs are an excellent source of vitamins B12, B2 and B5, a good source of folate, and provide 38% more lutein than regular eggs. Plus, Eggland's Best Large eggs provide a good source of complete protein and an excellent source of choline. Eggland’s Best eggs come from hens fed a wholesome, all-vegetarian diet consisting of healthy grains, canola oil, and a supplement of rice bran, alfalfa, sea kelp, and vitamin E.",
+        "weight": "unknown",
+        "price": {
+            "USD": {
+                "default": "2.67",
+                "formatted": "$2.67/each"
+            }
+        },
+        "image": "http://localhost:8080/fde164.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "unkown",
+                "amount": "1 egg",
+                "servings per container": "12",
+                "grams": "unknown"
+            },
+            "calories": "60",
+            "total fat": "4 grams",
+            "cholesterol": "175 milligrams",
+            "sodium": "65 milligrams",
+            "potassium": "70 milligrams",
+            "total carbohydrates": "0 grams",
+            "protein": "6 grams"
+        }
+    },
+    "Sargento Creamy Cliced Cheddar Cheese, 10 Slices": {
+        "id": "fdc165",
+        "description": "Sargento® Creamery Sliced Cheddar Cheese is sliced from 100% real, natural cheese and delivers an amazing melt thanks to the simple addition of real cream. This delicious cheese adds creamy texture and a melty indulgence to all your favorite handhelds like grilled cheese, cheeseburgers, and patty melts. The convenient 6-ounce Fresh-Lock® seal package contains 10 slices of cheese.        ",
+        "weight": "unknown",
+        "price": {
+            "USD": {
+                "default": "2.95",
+                "formatted": "$2.95/each"
+            }
+        },
+        "image": "http://localhost:8080/fdc165.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "unkown",
+                "amount": "1 slice",
+                "servings per container": "10",
+                "grams": "17 grams"
+            },
+            "calories": "70",
+            "total fat": "6 grams",
+            "cholesterol": "20 milligrams",
+            "sodium": "115 milligrams",
+            "potassium": "20 milligrams",
+            "total carbohydrates": "0 grams",
+            "protein": "3 grams"
+        }
+    }
+
+}
