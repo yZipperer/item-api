@@ -52,6 +52,60 @@
             "total carbohydrates": "0 grams",
             "protein": "3 grams"
         }
+    },
+    "Meadow Gold Whole Milk": {
+        "id": "fdm166",
+        "description": "Meadow Gold Dairy Vitamin D Milk is whole milk with vitamin D, making it a great choice for the entire family. Creamy and delicious, this fresh milk is a good source of protein and calcium.",
+        "weight": "1 gallon",
+        "price": {
+            "USD": {
+                "default": "3.86",
+                "formatted": "$3.86/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm166.png",
+        "nutrition": {
+            "serving size": {
+                "cups": "1 cup",
+                "amount": "unknown",
+                "servings per container": "16",
+                "grams": "unknown"
+            },
+            "calories": "150",
+            "total fat": "8 grams",
+            "cholesterol": "35 milligrams",
+            "sodium": "120 milligrams",
+            "potassium": "unknown",
+            "total carbohydrates": "12 grams",
+            "protein": "8 grams"
+        }
+    },
+    "Trumoo Chocolate Whole Milk": {
+        "id": "fdm167",
+        "description": "",
+        "weight": "1/2 gallon (64 ounces)",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm167.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "1",
+                "amount": "unknown",
+                "servings per container": "8",
+                "grams": "unknown"
+            },
+            "calories": "220",
+            "total fat": "8 grams",
+            "cholesterol": "35 milligrams",
+            "sodium": "180 milligrams",
+            "potassium": "420 milligrams",
+            "total carbohydrates": "29 grams",
+            "protein": "8 grams"
+        }
     }
 
 }
