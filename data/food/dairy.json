@@ -18,11 +18,11 @@
                 "grams": "unknown"
             },
             "calories": "60",
-            "total fat": "4 grams",
+            "fat": "4 grams",
             "cholesterol": "175 milligrams",
             "sodium": "65 milligrams",
             "potassium": "70 milligrams",
-            "total carbohydrates": "0 grams",
+            "carbohydrates": "0 grams",
             "protein": "6 grams"
         }
     },
@@ -45,11 +45,11 @@
                 "grams": "17 grams"
             },
             "calories": "70",
-            "total fat": "6 grams",
+            "fat": "6 grams",
             "cholesterol": "20 milligrams",
             "sodium": "115 milligrams",
             "potassium": "20 milligrams",
-            "total carbohydrates": "0 grams",
+            "carbohydrates": "0 grams",
             "protein": "3 grams"
         }
     },
@@ -72,17 +72,17 @@
                 "grams": "unknown"
             },
             "calories": "150",
-            "total fat": "8 grams",
+            "fat": "8 grams",
             "cholesterol": "35 milligrams",
             "sodium": "120 milligrams",
             "potassium": "unknown",
-            "total carbohydrates": "12 grams",
+            "carbohydrates": "12 grams",
             "protein": "8 grams"
         }
     },
-    "Trumoo Chocolate Whole Milk": {
+    "TruMoo Chocolate Whole Milk": {
         "id": "fdm167",
-        "description": "",
+        "description": "TruMoo includes essential nutrients that active, growing bodies need. After long days spent outside, kids will love the delicious taste of a chocolate drink.",
         "weight": "1/2 gallon (64 ounces)",
         "price": {
             "USD": {
@@ -99,11 +99,38 @@
                 "grams": "unknown"
             },
             "calories": "220",
-            "total fat": "8 grams",
+            "fat": "8 grams",
             "cholesterol": "35 milligrams",
             "sodium": "180 milligrams",
             "potassium": "420 milligrams",
-            "total carbohydrates": "29 grams",
+            "carbohydrates": "29 grams",
+            "protein": "8 grams"
+        }
+    },
+    "TruMoo 1% Low-Fat Strawberry Milk": {
+        "id": "fdm168",
+        "description": "Milk, Strawberry Flavored, Tru Moo, 1% Lowfat, Bottle 1 PT Naturally flavored. Vitamin A & D. 130 calories per serving. ",
+        "weight": "1 pint",
+        "price": {
+            "USD": {
+                "default": "1.08",
+                "formatted": "$1.08/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm168.jpeg",
+        "nutrition": {
+            "serving size": {
+                "cups": "240 milliliters",
+                "amount": "unknown",
+                "servings per container": "1",
+                "grams": "unknown"
+            },
+            "calories": "130",
+            "fat": "2.5 grams",
+            "cholesterol": "15 milligrams",
+            "sodium": "125 milligrams",
+            "potassium": "400 milligrams",
+            "carbohydrates": "19 grams",
             "protein": "8 grams"
         }
     }

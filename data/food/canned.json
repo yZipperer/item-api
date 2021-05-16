@@ -18,11 +18,11 @@
                 "grams": 120
             },
             "calories": "45",
-            "total fat": "0.5 grams",
+            "fat": "0.5 grams",
             "cholesterol": "0 milligrams",
             "sodium": "200 milligrams",
             "potassium": "125 milligrams",
-            "total carbohydrates": "9 grams",
+            "carbohydrates": "9 grams",
             "protein": "2 grams"
         }
     },
@@ -45,11 +45,11 @@
                 "grams": 120
             },
             "calories": "20",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "350 milligrams",
             "potassium": "75 milligrams",
-            "total carbohydrates": "4 grams",
+            "carbohydrates": "4 grams",
             "protein": "0 grams"
         }
     },
@@ -71,11 +71,11 @@
                 "grams": "unknown"
             },
             "calories": "60",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "152 milligrams",
-            "total carbohydrates": "14 grams",
+            "carbohydrates": "14 grams",
             "protein": "1 gram"
         }
     },
@@ -98,11 +98,11 @@
                 "grams": "unknown"
             },
             "calories": "110",
-            "total fat": "0.5 grams",
+            "fat": "0.5 grams",
             "cholesterol": "0 milligrams",
             "sodium": "270 milligrams",
             "potassium": "340 milligrams",
-            "total carbohydrates": "22 grams",
+            "carbohydrates": "22 grams",
             "protein": "7 grams"
         }
     },
@@ -125,11 +125,11 @@
                 "grams": "63 grams"
             },
             "calories": "20",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "260 milligrams",
             "potassium": "0 milligrams",
-            "total carbohydrates": "4 grams",
+            "carbohydrates": "4 grams",
             "protein": "1 gram"
         }
     },
@@ -152,11 +152,11 @@
                 "grams": "unknown"
             },
             "calories": "80",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "240 milligrams",
-            "total carbohydrates": "20 grams",
+            "carbohydrates": "20 grams",
             "protein": "<1 grams"
         }
     },
@@ -179,11 +179,11 @@
                 "grams": "128 grams"
             },
             "calories": "100",
-            "total fat": "2.5 grams",
+            "fat": "2.5 grams",
             "cholesterol": "0 milligrams",
             "sodium": "580 milligrams",
             "potassium": "360 milligrams",
-            "total carbohydrates": "15 grams",
+            "carbohydrates": "15 grams",
             "protein": "5 grams"
         }
     },
@@ -206,11 +206,11 @@
                 "grams": "15 grams"
             },
             "calories": "25",
-            "total fat": "3 grams",
+            "fat": "3 grams",
             "cholesterol": "0 milligrams",
             "sodium": "115 milligrams",
             "potassium": "360 milligrams",
-            "total carbohydrates": "0 grams",
+            "carbohydrates": "0 grams",
             "protein": "0 grams"
         }
     },
@@ -233,11 +233,11 @@
                 "grams": "125 grams"
             },
             "calories": "60",
-            "total fat": "3 grams",
+            "fat": "3 grams",
             "cholesterol": "0 milligrams",
             "sodium": "290 milligrams",
             "potassium": "133 milligrams",
-            "total carbohydrates": "11 grams",
+            "carbohydrates": "11 grams",
             "protein": "4 grams"
         }
     },
@@ -260,11 +260,11 @@
                 "grams": "121 grams"
             },
             "calories": "25",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "180 milligrams",
             "potassium": "210 milligrams",
-            "total carbohydrates": "5 grams",
+            "carbohydrates": "5 grams",
             "protein": "1 gram"
         }
     },
@@ -287,11 +287,11 @@
                 "grams": "64 grams"
             },
             "calories": "35",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "310 milligrams",
             "potassium": "150 milligrams",
-            "total carbohydrates": "8 grams",
+            "carbohydrates": "8 grams",
             "protein": "<1 gram"
         }
     },
@@ -314,11 +314,11 @@
                 "grams": "244 grams"
             },
             "calories": "180",
-            "total fat": "4.5 grams",
+            "fat": "4.5 grams",
             "cholesterol": "5 milligrams",
             "sodium": "780 milligrams",
             "potassium": "130 milligrams",
-            "total carbohydrates": "30 grams",
+            "carbohydrates": "30 grams",
             "protein": "5 grams"
         }
     },
@@ -341,11 +341,11 @@
                 "grams": "unknown grams"
             },
             "calories": "25",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "390 milligrams",
             "potassium": "0 milligrams",
-            "total carbohydrates": "4 grams",
+            "carbohydrates": "4 grams",
             "protein": "3 grams"
         }
     }

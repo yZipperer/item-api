@@ -18,11 +18,11 @@
                 "grams": "30 grams"
             },
             "calories": "110",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "0 milligrams",
-            "total carbohydrates": "23 grams",
+            "carbohydrates": "23 grams",
             "protein": "3 grams"
         }
     },
@@ -45,11 +45,11 @@
                 "grams": "4 grams"
             },
             "calories": "15",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "0 milligrams",
-            "total carbohydrates": "4 grams",
+            "carbohydrates": "4 grams",
             "protein": "0 grams"
         }
     },
@@ -72,11 +72,11 @@
                 "grams": "4 grams"
             },
             "calories": "15",
-            "total fat": "0 grams",
+            "fat": "0 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "0 milligrams",
-            "total carbohydrates": "4 grams",
+            "carbohydrates": "4 grams",
             "protein": "0 grams"
         }
     },
@@ -99,11 +99,11 @@
                 "grams": "40 grams"
             },
             "calories": "150",
-            "total fat": "3 grams",
+            "fat": "3 grams",
             "cholesterol": "0 milligrams",
             "sodium": "0 milligrams",
             "potassium": "150 milligrams",
-            "total carbohydrates": "27 grams",
+            "carbohydrates": "27 grams",
             "protein": "5 grams"
         }
     }
