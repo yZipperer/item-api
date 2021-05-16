@@ -4,23 +4,30 @@
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, and even USDA nutrition information.
   
   ### By the Numbers:
-    * 29 total items
+    * 32 total items
     * 4 categories
-    * $44.14 worth of products
-    * 36,862.5 total calories
+    * $51.96 worth of products
+    * 41,152.5 total calories
 
   ### Contents
     * price data in USD
     * images for every product
     * USDA nutrition information
     * descriptions and names
-    * 29 products including:
+    * 32 products including:
       * fruits
       * canned items
+        * canned vegetables
+        * canned fruits
+        * canned meats
       * dry goods
+        * flour
+        * sugar
+        * oats
       * dairy
-    
-
+        * cheese
+        * eggs
+        * milk
 
 ## Requirements
 
