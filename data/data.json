@@ -10,6 +10,7 @@
                         "formatted": "$0.72/each"
                     }
                 },
+                "image": "http://localhost:8080/ffa137.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -17,11 +18,11 @@
                             "grams": 182
                         },
                         "calories": "95",
-                        "total fat": "0.3 grams",
+                        "fat": "0.3 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "2 milligrams",
                         "potassium": "195 milligrams",
-                        "total carbohydrates": "25 grams",
+                        "carbohydrates": "25 grams",
                         "protein": "0.5 grams"
                     }
                 }
@@ -35,6 +36,7 @@
                         "formatted": "$0.22/each"
                     }
                 },
+                "image": "http://localhost:8080/ffb138.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -42,11 +44,11 @@
                             "grams": 118
                         },
                         "calories": "105",
-                        "total fat": "0.4 grams",
+                        "fat": "0.4 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "1 milligrams",
                         "potassium": "422 milligrams",
-                        "total carbohydrates": "27 grams",
+                        "carbohydrates": "27 grams",
                         "protein": "1.3 grams"
                     }
                 }
@@ -61,6 +63,7 @@
                         "formatted2": "$2.35/pound"
                     }
                 },
+                "image": "http://localhost:8080/ffg139.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -68,11 +71,11 @@
                             "grams": 92
                         },
                         "calories": "62",
-                        "total fat": "0.3 grams",
+                        "fat": "0.3 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "2 milligrams",
                         "potassium": "176 milligrams",
-                        "total carbohydrates": "16 grams",
+                        "carbohydrates": "16 grams",
                         "protein": "0.6 grams"
                     }
                 }
@@ -86,6 +89,7 @@
                         "formatted": "$0.52/each"
                     }
                 },
+                "image": "http://localhost:8080/ffl140.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -93,11 +97,11 @@
                             "grams": 58
                         },
                         "calories": "17",
-                        "total fat": "0.2 grams",
+                        "fat": "0.2 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "1 milligrams",
                         "potassium": "80 milligrams",
-                        "total carbohydrates": "5 grams",
+                        "carbohydrates": "5 grams",
                         "protein": "0.6 grams"
                     }
                 }
@@ -111,6 +115,7 @@
                         "formatted": "$0.98/each"
                     }
                 },
+                "image": "http://localhost:8080/ffg141.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -118,11 +123,11 @@
                             "grams": 123
                         },
                         "calories": "52",
-                        "total fat": "0.2 grams",
+                        "fat": "0.2 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "0 milligrams",
                         "potassium": "166 milligrams",
-                        "total carbohydrates": "13 grams",
+                        "carbohydrates": "13 grams",
                         "protein": "0.9 grams"
                     }
                 }
@@ -137,6 +142,7 @@
                         "formatted2": "$3.21/pound"
                     }
                 },
+                "image": "http://localhost:8080/ffc142.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -144,11 +150,11 @@
                             "grams": 155
                         },
                         "calories": "77",
-                        "total fat": "0.5 grams",
+                        "fat": "0.5 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "5 milligrams",
                         "potassium": "268 milligrams",
-                        "total carbohydrates": "19 grams",
+                        "carbohydrates": "19 grams",
                         "protein": "1.6 grams"
                     }
                 }
@@ -163,6 +169,7 @@
                         "formatted2": "$3.34/pound"
                     }
                 },
+                "image": "http://localhost:8080/ffs143.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -170,11 +177,11 @@
                             "grams": 12
                         },
                         "calories": "4",
-                        "total fat": "0 grams",
+                        "fat": "0 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "0 milligrams",
                         "potassium": "18 milligrams",
-                        "total carbohydrates": "0.9 grams",
+                        "carbohydrates": "0.9 grams",
                         "protein": "0.1 grams"
                     }
                 }
@@ -188,6 +195,7 @@
                         "formatted": "$1.98/each"
                     }
                 },
+                "image": "http://localhost:8080/ffp144.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -195,11 +203,11 @@
                             "grams": 905
                         },
                         "calories": "452",
-                        "total fat": "1.1 grams",
+                        "fat": "1.1 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "9 milligrams",
                         "potassium": "986 milligrams",
-                        "total carbohydrates": "119 grams",
+                        "carbohydrates": "119 grams",
                         "protein": "4.9 grams"
                     }
                 }
@@ -213,6 +221,7 @@
                         "formatted": "$0.32/each"
                     }
                 },
+                "image": "http://localhost:8080/ffl145.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -220,11 +229,11 @@
                             "grams": 67
                         },
                         "calories": "20",
-                        "total fat": "0.1 grams",
+                        "fat": "0.1 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "1 milligrams",
                         "potassium": "68 milligrams",
-                        "total carbohydrates": "7 grams",
+                        "carbohydrates": "7 grams",
                         "protein": "0.5 grams"
                     }
                 }
@@ -239,6 +248,7 @@
                         "formatted2": "$3.09/pound"
                     }
                 },
+                "image": "http://localhost:8080/ffa146.jpg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -246,11 +256,11 @@
                             "grams": 165
                         },
                         "calories": "79",
-                        "total fat": "0.6 grams",
+                        "fat": "0.6 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "2 milligrams",
                         "potassium": "427 milligrams",
-                        "total carbohydrates": "18 grams",
+                        "carbohydrates": "18 grams",
                         "protein": "2.3 grams"
                     }
                 }
@@ -264,6 +274,7 @@
                         "formatted": "$0.78/each"
                     }
                 },
+                "image": "http://localhost:8080/ffa147.jpeg",
                 "nutrition": {
                     "USDA": {
                         "serving size": {
@@ -271,16 +282,16 @@
                             "grams": 146
                         },
                         "calories": "234",
-                        "total fat": "21 grams",
+                        "fat": "21 grams",
                         "cholesterol": "0 milligrams",
                         "sodium": "10 milligrams",
                         "potassium": "708 milligrams",
-                        "total carbohydrates": "12 grams",
+                        "carbohydrates": "12 grams",
                         "protein": "2.9 grams"
                     }
                 }
             }
-
+        
         },
         "canned": {
             "Golden Sweet Corn": {
@@ -293,6 +304,7 @@
                         "formatted": "$0.50/each"
                     }
                 },
+                "image": "http://localhost:8080/fcc148.png",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -301,11 +313,11 @@
                         "grams": 120
                     },
                     "calories": "45",
-                    "total fat": "0.5 grams",
+                    "fat": "0.5 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "200 milligrams",
                     "potassium": "125 milligrams",
-                    "total carbohydrates": "9 grams",
+                    "carbohydrates": "9 grams",
                     "protein": "2 grams"
                 }
             },
@@ -320,6 +332,7 @@
                         "formatted": "$0.50/each"
                     }
                 },
+                "image": "http://localhost:8080/fcb149.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -327,11 +340,11 @@
                         "grams": 120
                     },
                     "calories": "20",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "350 milligrams",
                     "potassium": "75 milligrams",
-                    "total carbohydrates": "4 grams",
+                    "carbohydrates": "4 grams",
                     "protein": "0 grams"
                 }
             },
@@ -345,6 +358,7 @@
                         "formatted": "$0.92/each"
                     }
                 },
+                "image": "http://localhost:8080/fcp150.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -352,11 +366,11 @@
                         "grams": "unknown"
                     },
                     "calories": "60",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "152 milligrams",
-                    "total carbohydrates": "14 grams",
+                    "carbohydrates": "14 grams",
                     "protein": "1 gram"
                 }
             },
@@ -371,6 +385,7 @@
                         "formatted": "$0.62/each"
                     }
                 },
+                "image": "http://localhost:8080/fcb151.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -378,11 +393,11 @@
                         "grams": "unknown"
                     },
                     "calories": "110",
-                    "total fat": "0.5 grams",
+                    "fat": "0.5 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "270 milligrams",
                     "potassium": "340 milligrams",
-                    "total carbohydrates": "22 grams",
+                    "carbohydrates": "22 grams",
                     "protein": "7 grams"
                 }
             },
@@ -396,6 +411,7 @@
                         "formatted": "$0.26/each"
                     }
                 },
+                "image": "http://localhost:8080/fcs152.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -404,11 +420,11 @@
                         "grams": "63 grams"
                     },
                     "calories": "20",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "260 milligrams",
                     "potassium": "0 milligrams",
-                    "total carbohydrates": "4 grams",
+                    "carbohydrates": "4 grams",
                     "protein": "1 gram"
                 }
             },
@@ -422,6 +438,7 @@
                         "formatted": "$1.06/each"
                     }
                 },
+                "image": "http://localhost:8080/fcp152.png",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -430,11 +447,11 @@
                         "grams": "unknown"
                     },
                     "calories": "80",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "240 milligrams",
-                    "total carbohydrates": "20 grams",
+                    "carbohydrates": "20 grams",
                     "protein": "<1 grams"
                 }
             },
@@ -448,6 +465,7 @@
                         "formatted": "$1.00/each"
                     }
                 },
+                "image": "http://localhost:8080/fcb153.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -456,11 +474,11 @@
                         "grams": "128 grams"
                     },
                     "calories": "100",
-                    "total fat": "2.5 grams",
+                    "fat": "2.5 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "580 milligrams",
                     "potassium": "360 milligrams",
-                    "total carbohydrates": "15 grams",
+                    "carbohydrates": "15 grams",
                     "protein": "5 grams"
                 }
             },
@@ -474,6 +492,7 @@
                         "formatted": "$1.54/each"
                     }
                 },
+                "image": "http://localhost:8080/fco154.jpeg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -482,11 +501,11 @@
                         "grams": "15 grams"
                     },
                     "calories": "25",
-                    "total fat": "3 grams",
+                    "fat": "3 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "115 milligrams",
                     "potassium": "360 milligrams",
-                    "total carbohydrates": "0 grams",
+                    "carbohydrates": "0 grams",
                     "protein": "0 grams"
                 }
             },
@@ -500,6 +519,7 @@
                         "formatted": "$0.50/each"
                     }
                 },
+                "image": "http://localhost:8080/fcp155.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -508,11 +528,11 @@
                         "grams": "125 grams"
                     },
                     "calories": "60",
-                    "total fat": "3 grams",
+                    "fat": "3 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "290 milligrams",
                     "potassium": "133 milligrams",
-                    "total carbohydrates": "11 grams",
+                    "carbohydrates": "11 grams",
                     "protein": "4 grams"
                 }
             },
@@ -526,6 +546,7 @@
                         "formatted": "$0.72/each"
                     }
                 },
+                "image": "http://localhost:8080/fct156.jpg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -534,11 +555,11 @@
                         "grams": "121 grams"
                     },
                     "calories": "25",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "180 milligrams",
                     "potassium": "210 milligrams",
-                    "total carbohydrates": "5 grams",
+                    "carbohydrates": "5 grams",
                     "protein": "1 gram"
                 }
             },
@@ -552,6 +573,7 @@
                         "formatted": "$1.00/each"
                     }
                 },
+                "image": "http://localhost:8080/fcm157.jpeg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -560,11 +582,11 @@
                         "grams": "64 grams"
                     },
                     "calories": "35",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "310 milligrams",
                     "potassium": "150 milligrams",
-                    "total carbohydrates": "8 grams",
+                    "carbohydrates": "8 grams",
                     "protein": "<1 gram"
                 }
             },
@@ -578,6 +600,7 @@
                         "formatted": "$0.88/each"
                     }
                 },
+                "image": "http://localhost:8080/fcr158.jpeg",
                 "nutrition": {
                     "serving size": {
                         "cups": "unknown",
@@ -586,11 +609,11 @@
                         "grams": "244 grams"
                     },
                     "calories": "180",
-                    "total fat": "4.5 grams",
+                    "fat": "4.5 grams",
                     "cholesterol": "5 milligrams",
                     "sodium": "780 milligrams",
                     "potassium": "130 milligrams",
-                    "total carbohydrates": "30 grams",
+                    "carbohydrates": "30 grams",
                     "protein": "5 grams"
                 }
             },
@@ -604,6 +627,7 @@
                         "formatted": "$0.54/each"
                     }
                 },
+                "image": "http://localhost:8080/fcm159.jpeg",
                 "nutrition": {
                     "serving size": {
                         "cups": "1/2 cup",
@@ -612,16 +636,16 @@
                         "grams": "unknown grams"
                     },
                     "calories": "25",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "390 milligrams",
                     "potassium": "0 milligrams",
-                    "total carbohydrates": "4 grams",
+                    "carbohydrates": "4 grams",
                     "protein": "3 grams"
                 }
             }
-            
-            
+        
+        
         },
         "dryGoods": {
             "Gold Medal All-Purpose Flour": {
@@ -643,11 +667,11 @@
                         "grams": "30 grams"
                     },
                     "calories": "110",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "0 milligrams",
-                    "total carbohydrates": "23 grams",
+                    "carbohydrates": "23 grams",
                     "protein": "3 grams"
                 }
             },
@@ -670,11 +694,11 @@
                         "grams": "4 grams"
                     },
                     "calories": "15",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "0 milligrams",
-                    "total carbohydrates": "4 grams",
+                    "carbohydrates": "4 grams",
                     "protein": "0 grams"
                 }
             },
@@ -697,11 +721,11 @@
                         "grams": "4 grams"
                     },
                     "calories": "15",
-                    "total fat": "0 grams",
+                    "fat": "0 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "0 milligrams",
-                    "total carbohydrates": "4 grams",
+                    "carbohydrates": "4 grams",
                     "protein": "0 grams"
                 }
             },
@@ -724,11 +748,11 @@
                         "grams": "40 grams"
                     },
                     "calories": "150",
-                    "total fat": "3 grams",
+                    "fat": "3 grams",
                     "cholesterol": "0 milligrams",
                     "sodium": "0 milligrams",
                     "potassium": "150 milligrams",
-                    "total carbohydrates": "27 grams",
+                    "carbohydrates": "27 grams",
                     "protein": "5 grams"
                 }
             }
@@ -754,11 +778,11 @@
                         "grams": "unknown"
                     },
                     "calories": "60",
-                    "total fat": "4 grams",
+                    "fat": "4 grams",
                     "cholesterol": "175 milligrams",
                     "sodium": "65 milligrams",
                     "potassium": "70 milligrams",
-                    "total carbohydrates": "0 grams",
+                    "carbohydrates": "0 grams",
                     "protein": "6 grams"
                 }
             },
@@ -781,12 +805,93 @@
                         "grams": "17 grams"
                     },
                     "calories": "70",
-                    "total fat": "6 grams",
+                    "fat": "6 grams",
                     "cholesterol": "20 milligrams",
                     "sodium": "115 milligrams",
                     "potassium": "20 milligrams",
-                    "total carbohydrates": "0 grams",
+                    "carbohydrates": "0 grams",
                     "protein": "3 grams"
+                }
+            },
+            "Meadow Gold Whole Milk": {
+                "id": "fdm166",
+                "description": "Meadow Gold Dairy Vitamin D Milk is whole milk with vitamin D, making it a great choice for the entire family. Creamy and delicious, this fresh milk is a good source of protein and calcium.",
+                "weight": "1 gallon",
+                "price": {
+                    "USD": {
+                        "default": "3.86",
+                        "formatted": "$3.86/each"
+                    }
+                },
+                "image": "http://localhost:8080/fdm166.png",
+                "nutrition": {
+                    "serving size": {
+                        "cups": "1 cup",
+                        "amount": "unknown",
+                        "servings per container": "16",
+                        "grams": "unknown"
+                    },
+                    "calories": "150",
+                    "fat": "8 grams",
+                    "cholesterol": "35 milligrams",
+                    "sodium": "120 milligrams",
+                    "potassium": "unknown",
+                    "carbohydrates": "12 grams",
+                    "protein": "8 grams"
+                }
+            },
+            "TruMoo Chocolate Whole Milk": {
+                "id": "fdm167",
+                "description": "TruMoo includes essential nutrients that active, growing bodies need. After long days spent outside, kids will love the delicious taste of a chocolate drink.",
+                "weight": "1/2 gallon (64 ounces)",
+                "price": {
+                    "USD": {
+                        "default": "2.88",
+                        "formatted": "$2.88/each"
+                    }
+                },
+                "image": "http://localhost:8080/fdm167.jpeg",
+                "nutrition": {
+                    "serving size": {
+                        "cups": "1",
+                        "amount": "unknown",
+                        "servings per container": "8",
+                        "grams": "unknown"
+                    },
+                    "calories": "220",
+                    "fat": "8 grams",
+                    "cholesterol": "35 milligrams",
+                    "sodium": "180 milligrams",
+                    "potassium": "420 milligrams",
+                    "carbohydrates": "29 grams",
+                    "protein": "8 grams"
+                }
+            },
+            "TruMoo 1% Low-Fat Strawberry Milk": {
+                "id": "fdm168",
+                "description": "Milk, Strawberry Flavored, Tru Moo, 1% Lowfat, Bottle 1 PT Naturally flavored. Vitamin A & D. 130 calories per serving. ",
+                "weight": "1 pint",
+                "price": {
+                    "USD": {
+                        "default": "1.08",
+                        "formatted": "$1.08/each"
+                    }
+                },
+                "image": "http://localhost:8080/fdm168.jpeg",
+                "nutrition": {
+                    "serving size": {
+                        "cups": "240 milliliters",
+                        "amount": "unknown",
+                        "servings per container": "1",
+                        "grams": "unknown"
+                    },
+                    "calories": "130",
+                    "fat": "2.5 grams",
+                    "cholesterol": "15 milligrams",
+                    "sodium": "125 milligrams",
+                    "potassium": "400 milligrams",
+                    "carbohydrates": "19 grams",
+                    "protein": "8 grams"
                 }
             }
         
