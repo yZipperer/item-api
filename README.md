@@ -4,17 +4,19 @@
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, and even USDA nutrition information.
   
   ### By the Numbers:
-    * 32 total items
-    * 4 categories
-    * $51.96 worth of products
-    * 41,152.5 total calories
+    * 33 total items
+    * 5 categories
+    * $54.74 worth of products
+    * 42,862.5 total calories
 
   ### Contents
     * price data in USD
     * images for every product
     * USDA nutrition information
-    * descriptions and names
-    * 32 products including:
+    * descriptions
+    * names
+    * unique ids
+    * 33 products including:
       * fruits
       * canned items
         * canned vegetables
@@ -28,6 +30,8 @@
         * cheese
         * eggs
         * milk
+      * bakery
+        * bread
 
 ## Requirements
 
@@ -61,7 +65,8 @@
   http://localhost:8080/food/fruit            /*returns all fruit data*/
   http://localhost:8080/food/canned            /*returns all canned item data*/
   http://localhost:8080/food/drygoods            /*returns all dry goods item data*/
-  http://localhost:8080/food/dairy            /*returns all dairy data*/     
+  http://localhost:8080/food/dairy            /*returns all dairy data*/   
+  http://localhost:8080/food/bakery            /*returns all bakery data*/  
   ```
 
 ## Contributions:

@@ -895,6 +895,36 @@
                 }
             }
         
+        },
+        "bakery": {
+            "Grandma Sycamore's Home-Maid White Bread": {
+                "id": "fdb169",
+                "description": "Grandma Sycamore's Homemaid Bread. High quality breads the whole family will enjoy. No artificial colors, flavors or preservatives. No high fructose corn syrup.",
+                "weight": "24 ounces",
+                "price": {
+                    "USD": {
+                        "default": "2.78",
+                        "formatted": "$2.78/each"
+                    }
+                },
+                "image": "http://localhost:8080/fdb169.jpeg",
+                "nutrition": {
+                    "serving size": {
+                        "cups": "unknown",
+                        "amount": "1 slice",
+                        "servings per container": "19",
+                        "grams": "unknown"
+                    },
+                    "calories": "90",
+                    "fat": "0 grams",
+                    "cholesterol": "0 milligrams",
+                    "sodium": "200 milligrams",
+                    "potassium": "35 milligrams",
+                    "carbohydrates": "19 grams",
+                    "protein": "3 grams"
+                }
+            }
+        
         }
 
 
