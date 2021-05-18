@@ -60,7 +60,8 @@
 ## Routes:
 
   ```
-  http://localhost:8080/            /*returns all data*/
+  http://localhost:8080/            /*returns documentation for routes*/
+  http://localhost:8080/all            /*returns all data*/
   http://localhost:8080/food            /*returns all food data*/
   http://localhost:8080/food/fruit            /*returns all fruit data*/
   http://localhost:8080/food/canned            /*returns all canned item data*/
