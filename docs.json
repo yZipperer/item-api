@@ -1,6 +1,10 @@
 {
     "/": "api documentation",
+    "/all":"all data",
     "/food": "all food",
     "/food/fruits": "all fruits",
-    "/food/canned": "all canned items"
+    "/food/canned": "all canned items",
+    "/food/drygoods": "all dry goods",
+    "/food/dairy": "all dairy",
+    "/food/bakery": "all bakery items"
 }
