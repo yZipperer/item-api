@@ -2,10 +2,10 @@ const fruitData = require('../data/food/fruit.json');
 const cannedData = require('../data/food/canned.json');
 const dryGoodsData = require('../data/food/dryGoods.json');
 const dairyData = require('../data/food/dairy.json');
-const bakeryData = require('../data/food/bakery.json');
+const bakeryData = require('../data/food/bakery/bakery.json');
 
 exports.allFood = (req, res) => {
-    const allFood = [fruitData, cannedData, dryGoodsData, dairyData];
+    const allFood = [fruitData, cannedData, dryGoodsData, dairyData, bakeryData];
     return res.status(200).json(allFood);
 };
 

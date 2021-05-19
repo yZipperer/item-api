@@ -106,33 +106,5 @@
             "carbohydrates": "19 grams",
             "protein": "3 grams"
         }
-    },
-    "Franz Hoagie Rolls, 6 count": {
-        "id": "fbb173",
-        "description": "No high fructose corn syrup. Since 1906 family owned. Made with premium Northwest Grown & milled ingredients.",
-        "weight": "16 ounces",
-        "price": {
-            "USD": {
-                "default": "3.08",
-                "formatted": "$3.08/each"
-            }
-        },
-        "image": "http://localhost:8080/fbb173.png",
-        "nutrition": {
-            "serving size": {
-                "cups": "unknown",
-                "amount": "1 roll",
-                "servings per container": "6",
-                "grams": "76 grams"
-            },
-            "calories": "200",
-            "fat": "2.5 grams",
-            "cholesterol": "0 milligrams",
-            "sodium": "360 milligrams",
-            "potassium": "56 milligrams",
-            "carbohydrates": "36 grams",
-            "protein": "7 grams"
-        }
     }
-
 }
