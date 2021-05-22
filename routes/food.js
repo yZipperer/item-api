@@ -7,7 +7,8 @@ const {
     allCanned,
     allDryGoods,
     allDairy,
-    allBakery
+    allBakery,
+    allCookies
 } = require("../controllers/food.js");
 
 router.get("/food", allFood);
@@ -16,5 +17,6 @@ router.get("/food/canned", allCanned);
 router.get("/food/drygoods", allDryGoods);
 router.get("/food/dairy", allDairy);
 router.get("/food/bakery", allBakery);
+router.get("/food/cookies", allCookies)
 
 module.exports = router;

@@ -3,6 +3,7 @@ const cannedData = require('../data/food/canned.json');
 const dryGoodsData = require('../data/food/dryGoods.json');
 const dairyData = require('../data/food/dairy.json');
 const bakeryData = require('../data/food/bakery/bakery.json');
+const cookieData = require('../data/food/cookies.json');
 
 exports.allFood = (req, res) => {
     const allFood = [fruitData, cannedData, dryGoodsData, dairyData, bakeryData];
@@ -27,4 +28,8 @@ exports.allDairy = (req, res) => {
 
 exports.allBakery = (req, res) => {
     return res.status(200).json(bakeryData);
+};
+
+exports.allCookies = (req, res) => {
+    return res.status(200).json(cookieData);
 };

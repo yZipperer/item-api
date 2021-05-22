@@ -71,6 +71,7 @@
   http://localhost:8080/food/drygoods            /*returns all dry goods item data*/
   http://localhost:8080/food/dairy            /*returns all dairy data*/   
   http://localhost:8080/food/bakery            /*returns all bakery data*/  
+  http://localhost:8080/food/cookies            /*returns all cookie data*/
   ```
 
 ## Contributions:
