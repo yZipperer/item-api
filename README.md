@@ -64,15 +64,9 @@
 ## Routes:
 
   ```
-  http://localhost:8080/            /*returns documentation for routes*/
-  http://localhost:8080/all            /*returns all data*/
+  http://localhost:8080/            /*all data*/
+  http://localhost:8080/docs            /*returns the docs for the routes*/
   http://localhost:8080/food            /*returns all food data*/
-  http://localhost:8080/food/fruit            /*returns all fruit data*/
-  http://localhost:8080/food/canned            /*returns all canned item data*/
-  http://localhost:8080/food/drygoods            /*returns all dry goods item data*/
-  http://localhost:8080/food/dairy            /*returns all dairy data*/   
-  http://localhost:8080/food/bakery            /*returns all bakery data*/  
-  http://localhost:8080/food/cookies            /*returns all cookie data*/
   ```
 
 ## Contributions:

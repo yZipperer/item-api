@@ -712,6 +712,206 @@
             "carbohydrates": "19 grams",
             "protein": "8 grams"
         }
+    },
+    "Grandma Sycamore's Home-Maid White Bread": {
+        "id": "fbb169",
+        "category": "bakery",
+        "brand": "Grandma Sycamore's",
+        "weight": "24 ounces",
+        "description": "Grandma Sycamore's Homemaid Bread. High quality breads the whole family will enjoy. No artificial colors, flavors or preservatives. No high fructose corn syrup.",
+        "price": {
+            "USD": {
+                "default": "2.78",
+                "formatted": "$2.78/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb169.jpeg",
+        "nutrition": {
+            "serving size": "1 slice",
+            "servings per container": "19",
+            "calories": "90",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "200 milligrams",
+            "potassium": "35 milligrams",
+            "carbohydrates": "19 grams",
+            "protein": "3 grams"
+        }
+    },
+    "Sara Lee White Bread": {
+        "id": "fbb170",
+        "category": "bakery",
+        "brand": "Sara Lee",
+        "weight": "20 ounces",
+        "description": "Sara Lee’s Classic White Bread sliced bread offers a delectable, straight from the bakery taste. Perfect for creating french toast, indulgent grilled cheese, and more, our white bread is the perfect base for whatever you create. Make incredible avocado toast, skyhigh BLTs, elevate your cranberry and walnut chicken salad sandwiches, or make PB&J and cinnamon toast that the kids will ask for. It’s made without high fructose corn syrup and has no artificial colors or flavors because we only want the best for your family.",
+        "price": {
+            "USD": {
+                "default": "1.98",
+                "formatted": "$1.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb170.jpeg",
+        "nutrition": {
+            "serving size": "2 slices",
+            "servings per container": "10",
+            "calories": "150",
+            "fat": "2 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "270 milligrams",
+            "potassium": "45 milligrams",
+            "carbohydrates": "28 grams",
+            "protein": "4 grams"
+        }
+    },
+    "Great Grains Multigran Flax Seed Premium Bread": {
+        "id": "fbb171",
+        "category": "bakery",
+        "brand": "Great Grains",
+        "weight": "24 ounces",
+        "description": "MULTIGRAIN w/ Flax Seeds & Omega-3 Premium Wide Pan 5/8\" Sliced Bread is packed with whole grains and Omega-3 and tastes DELICIOUS. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. 15 Grams of Whole Grains Per Slice. No Cholesterol. 5 Grams of Protien Per Slice. 5 Grams of Fiber Per Slice. 304mg of Omega-3 Per Slice-An Excellent Source. Always Made With Non-GMO Ingredients.",
+        "price": {
+            "USD": {
+                "default": "2.28",
+                "formatted": "$2.28/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb171.png",
+        "nutrition": {
+            "serving size": "45 grams",
+            "servings per container": "15",
+            "calories": "120",
+            "fat": "1.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "190 milligrams",
+            "potassium": "none",
+            "carbohydrates": "24 grams",
+            "protein": "5 grams"
+        }
+    },
+    "Franz Buttermilk Bread": {
+        "id": "fbb172",
+        "category": "bakery",
+        "brand": "Franz",
+        "weight": "24 ounces",
+        "description": "Franz Old Fashioned Buttermilk Bread is made with sweet cream buttermilk for a homestyle taste that takes you back to your childhood. Our Buttermilk bread is naturally low in fat and has 3 grams of protein per serving. Our Old Fashioned Buttermilk bread is made with natural ingredients, is free from artificial colors or dyes, contains no high fructose corn syrup, artificial preservatives, partially hydrogenated oils and 0 grams trans fat.",
+        "price": {
+            "USD": {
+                "default": "2.48",
+                "formatted": "$2.48/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb172.jpeg",
+        "nutrition": {
+            "serving size": "40 grams",
+            "servings per container": "17",
+            "calories": "100",
+            "fat": "1.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "150 milligrams",
+            "potassium": "56 milligrams",
+            "carbohydrates": "19 grams",
+            "protein": "3 grams"
+        }
+    },
+    "Franz Hoagie Rolls, 6 count": {
+        "id": "fbb173",
+        "category": "bakery",
+        "brand": "Franz",
+        "weight": "16 ounces",
+        "description": "No high fructose corn syrup. Since 1906 family owned. Made with premium Northwest Grown & milled ingredients.",
+        "price": {
+            "USD": {
+                "default": "3.08",
+                "formatted": "$3.08/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb173.png",
+        "nutrition": {
+            "serving size": "1 roll",
+            "servings per container": "6",
+            "calories": "200",
+            "fat": "2.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "360 milligrams",
+            "potassium": "56 milligrams",
+            "carbohydrates": "36 grams",
+            "protein": "7 grams"
+        }
+    },
+    "Franz Hawaiian Rolls, 12 count": {
+        "id": "fbr174",
+        "category": "bakery",
+        "brand": "Franz",
+        "weight": "16 ounces",
+        "description": "Take a bite into our soft and delicious Franz Dinner Rolls which are always a great addition to your meal! For a fun spin, try them with various deli meats for a slider sandwich or use with pulled pork to take your meal to the next level.",
+        "price": {
+            "USD": {
+                "default": "2.83",
+                "formatted": "$2.83/each"
+            }
+        },
+        "image": "http://localhost:8080/fbr174.png",
+        "nutrition": {
+            "serving size": "1 roll",
+            "servings per container": "12",
+            "calories": "100",
+            "fat": "2 grams",
+            "cholesterol": "5 milligrams",
+            "sodium": "170 milligrams",
+            "potassium": "42 milligrams",
+            "carbohydrates": "18 grams",
+            "protein": "3 grams"
+        }
+    },
+    "Sara Lee Sweet Hawaiian Rolls, 12 count": {
+        "id": "fbr175",
+        "category": "bakery",
+        "brand": "Sara Lee",
+        "weight": "16 ounces",
+        "description": "Sara Lee’s Sweet Hawaiian Rolls offers a delectable, straight from the bakery taste. The recipe is simple and delicious for a taste that everyone loves. Warm and serve alongside a roasted pork loin and mashed potatoes or with fried chicken and green beans.",
+        "price": {
+            "USD": {
+                "default": "1.88",
+                "formatted": "$1.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fbr175.jpeg",
+        "nutrition": {
+            "serving size": "1 roll",
+            "servings per container": "12",
+            "calories": "100",
+            "fat": "1 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "180 milligrams",
+            "potassium": "30 milligrams",
+            "carbohydrates": "19 grams",
+            "protein": "3 grams"
+        }
+    },
+    "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count": {
+        "id": "fbr176",
+        "category": "bakery",
+        "brand": "Great Grains",
+        "weight": "24 ounces",
+        "description": "REAL CHEDDAR CHEESE Gourmet sliced Hoagie Bun tastes AMAZING. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. No Cholesterol. 12 Grams of protien per bun. Always Made With Non-GMO Ingredients.",
+        "price": {
+            "USD": {
+                "default": "2.28",
+                "formatted": "$2.28/each"
+            }
+        },
+        "image": "http://localhost:8080/fbr176.jpeg",
+        "nutrition": {
+            "serving size": "1 roll",
+            "servings per container": "6",
+            "calories": "310",
+            "fat": "6 grams",
+            "cholesterol": "unknown",
+            "sodium": "unknown",
+            "potassium": "unknown",
+            "carbohydrates": "52 grams",
+            "protein": "unknown"
+        }
     }
 
 
