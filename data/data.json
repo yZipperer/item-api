@@ -487,6 +487,106 @@
             "carbohydrates": "30 grams",
             "protein": "5 grams"
         }
+    },
+    "Gold Medal All-Purpose Flour": {
+        "id": "fdf160",
+        "category": "dryGoods",
+        "brand": "Gold Medal",
+        "weight": "10 pounds",
+        "description": "The most versatile flour for any recipe that simply calls for 'flour.' Strong enough to take high-rising yeast breads to new heights. And mellow enough to make your family's favorite pie crust recipe to flaky perfection",
+        "price": {
+            "USD": {
+                "default": "4.66",
+                "formatted": "$4.66/each"
+            }
+        },
+        "image": "http://localhost:8080/fdf160.png",
+        "nutrition": {
+            "serving size": "1/4 cup",
+            "servings per container": "151",
+            "calories": "110",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "23 grams",
+            "protein": "3 grams"
+        }
+    },
+    "C&H Premium Pure Cane Sugar": {
+        "id": "fds161",
+        "category": "dryGoods",
+        "brand": "C&H",
+        "weight": "4 pounds",
+        "description": "Make your day a little sweeter with C&H Granulated Sugar. We refine our sugar into extra fine crystals so you can easily stir it, sprinkle it, or mix it into recipes.",
+        "price": {
+            "USD": {
+                "default": "3.42",
+                "formatted": "$3.42/each"
+            }
+        },
+        "image": "http://localhost:8080/fds161.jpeg",
+        "nutrition": {
+            "serving size": "1 teaspoon",
+            "servings per container": "454",
+            "calories": "15",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "4 grams",
+            "protein": "0 grams"
+        }
+    },
+    "C&H Premium Pure Golden Brown Sugar": {
+        "id": "fds162",
+        "category": "dryGoods",
+        "brand": "C&H",
+        "weight": "2 pounds",
+        "description": "Sweeten your next creation with C&H Golden Brown Sugar. Its nutty, caramel flavor makes it perfect for tasty treats of all kinds. From spiced cakes and cinnamon rolls to brownies, cookies and more, you'll add 'wow' to every recipe with C&H Golden Brown Sugar.",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fds162.jpeg",
+        "nutrition": {
+            "serving size": "1 teaspoon",
+            "servings per container": "227",
+            "calories": "15",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "4 grams",
+            "protein": "0 grams"
+        }
+    },
+    "Quaker Oats Old Fashioned Oatmeal": {
+        "id": "fdo163",
+        "category": "dryGoods",
+        "brand": "Quaker",
+        "weight": "42 ounces",
+        "description": "Get a perfect start to your day. Dive into a bowlful of hot, delicious Quaker Oats Old Fashioned Oats. Throw in a few fresh berries, some toasted nuts, maple syrup or cinnamon. Just like the day itself, the possibilities are limitless.",
+        "price": {
+            "USD": {
+                "default": "3.98",
+                "formatted": "$3.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fdo163.jpeg",
+        "nutrition": {
+            "serving size": "1/2 cup",
+            "servings per container": "30",
+            "calories": "150",
+            "fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "150 milligrams",
+            "carbohydrates": "27 grams",
+            "protein": "5 grams"
+        }
     }
 
 
