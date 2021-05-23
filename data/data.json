@@ -587,6 +587,131 @@
             "carbohydrates": "27 grams",
             "protein": "5 grams"
         }
+    },
+    "Eggland's Best Large White Grade A Eggs, 12 Eggs": {
+        "id": "fde164",
+        "category": "dairy",
+        "brand": "Eggland's Best",
+        "weight": "unknown",
+        "description": "Eggland's Best eggs are an excellent source of vitamins B12, B2 and B5, a good source of folate, and provide 38% more lutein than regular eggs. Plus, Eggland's Best Large eggs provide a good source of complete protein and an excellent source of choline. Eggland’s Best eggs come from hens fed a wholesome, all-vegetarian diet consisting of healthy grains, canola oil, and a supplement of rice bran, alfalfa, sea kelp, and vitamin E.",
+        "price": {
+            "USD": {
+                "default": "2.67",
+                "formatted": "$2.67/each"
+            }
+        },
+        "image": "http://localhost:8080/fde164.jpeg",
+        "nutrition": {
+            "serving size": "1 egg",
+            "servings per container": "12",
+            "calories": "60",
+            "fat": "4 grams",
+            "cholesterol": "175 milligrams",
+            "sodium": "65 milligrams",
+            "potassium": "70 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "6 grams"
+        }
+    },
+    "Sargento Creamy Cliced Cheddar Cheese, 10 Slices": {
+        "id": "fdc165",
+        "category": "dairy",
+        "brand": "Sargento",
+        "weight": "unknown",
+        "description": "Sargento® Creamery Sliced Cheddar Cheese is sliced from 100% real, natural cheese and delivers an amazing melt thanks to the simple addition of real cream. This delicious cheese adds creamy texture and a melty indulgence to all your favorite handhelds like grilled cheese, cheeseburgers, and patty melts. The convenient 6-ounce Fresh-Lock® seal package contains 10 slices of cheese.        ",
+        "price": {
+            "USD": {
+                "default": "2.95",
+                "formatted": "$2.95/each"
+            }
+        },
+        "image": "http://localhost:8080/fdc165.jpeg",
+        "nutrition": {
+            "serving size": "1 slice",
+            "servings per container": "10",
+            "calories": "70",
+            "fat": "6 grams",
+            "cholesterol": "20 milligrams",
+            "sodium": "115 milligrams",
+            "potassium": "20 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "3 grams"
+        }
+    },
+    "Meadow Gold Whole Milk": {
+        "id": "fdm166",
+        "category": "dairy",
+        "brand": "Meadow Gold",
+        "weight": "1 gallon",
+        "description": "Meadow Gold Dairy Vitamin D Milk is whole milk with vitamin D, making it a great choice for the entire family. Creamy and delicious, this fresh milk is a good source of protein and calcium.",
+        "price": {
+            "USD": {
+                "default": "3.86",
+                "formatted": "$3.86/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm166.png",
+        "nutrition": {
+            "serving size": "1 cup",
+            "servings per container": "16",
+            "calories": "150",
+            "fat": "8 grams",
+            "cholesterol": "35 milligrams",
+            "sodium": "120 milligrams",
+            "potassium": "unknown",
+            "carbohydrates": "12 grams",
+            "protein": "8 grams"
+        }
+    },
+    "TruMoo Chocolate Whole Milk": {
+        "id": "fdm167",
+        "category": "dairy",
+        "brand": "TruMoo",
+        "weight": "1/2 gallon (64 ounces)",
+        "description": "TruMoo includes essential nutrients that active, growing bodies need. After long days spent outside, kids will love the delicious taste of a chocolate drink.",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm167.jpeg",
+        "nutrition": {
+            "serving size": "1",
+            "servings per container": "8",
+            "calories": "220",
+            "fat": "8 grams",
+            "cholesterol": "35 milligrams",
+            "sodium": "180 milligrams",
+            "potassium": "420 milligrams",
+            "carbohydrates": "29 grams",
+            "protein": "8 grams"
+        }
+    },
+    "TruMoo 1% Low-Fat Strawberry Milk": {
+        "id": "fdm168",
+        "category": "dairy",
+        "brand": "TruMoo",
+        "weight": "1 pint",
+        "description": "Milk, Strawberry Flavored, Tru Moo, 1% Lowfat, Bottle 1 PT Naturally flavored. Vitamin A & D. 130 calories per serving. ",
+        "price": {
+            "USD": {
+                "default": "1.08",
+                "formatted": "$1.08/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm168.jpeg",
+        "nutrition": {
+            "serving size": "240 milliliters",
+            "servings per container": "1",
+            "calories": "130",
+            "fat": "2.5 grams",
+            "cholesterol": "15 milligrams",
+            "sodium": "125 milligrams",
+            "potassium": "400 milligrams",
+            "carbohydrates": "19 grams",
+            "protein": "8 grams"
+        }
     }
 
 
