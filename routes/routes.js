@@ -2,11 +2,11 @@ const express = require("express");
 const router = express.Router();
 
 const {
-    allFood,
+    food,
     allData,
 } = require("../controllers/controllers.js");
 
 router.get("/", allData);
-router.get("/food", allFood);
+router.get("/food", food);
 
 module.exports = router;
