@@ -76,16 +76,19 @@
   3. Use different parameter values to search for what you need
   
   Sample URL:
-  '''
+  
+  ```
   http://localhost:8080/food?cat=putCATEGORYhere&brand=putBRANDhere
-  '''
+  ```
 
   Sample URL Search for Franz Bread:
-  '''
+  
+  ```
   http://localhost:8080/food?cat=bakery&brand=Franz
-  '''
+  ```
 
   ***Note: these are case sensitive***
+  
   Available Categories:
   - bakery
   - dairy
