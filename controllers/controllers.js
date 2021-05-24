@@ -10,10 +10,7 @@ exports.food = (req, res) => {
     const result = [];
     if(category === "none" && brand != "none") {
         for (const item in data) {
-            console.log(item);
-            console.log("brand: ", data[item].brand);
             if (data[item].brand === brand){
-                console.log("found");
                 result.push(data[item]);
             }
         }
@@ -22,13 +19,20 @@ exports.food = (req, res) => {
     else if(brand === "none" && category != "none") {
         for (const item in data) {
             if (data[item].category === category){
-                console.log("found");
                 result.push(data[item]);
             }
         }
         return res.status(200).json(result);
     }
-    else if(category === "none" && brand === "none"){
+    else if(brand != "none" && category != "none") {
+        for (const item in data) {
+            if (data[item].brand === brand && data[item].category === category){
+                result.push(data[item]);
+            }
+        }
+        return res.status(200).json(result);
+    }
+    else if(category === "none" && brand === "none") {
         return res.status(200).json(data);
     }
     
