@@ -490,7 +490,7 @@
     },
     "Gold Medal All-Purpose Flour": {
         "id": "fdf160",
-        "category": "dryGoods",
+        "category": "dry goods",
         "brand": "Gold Medal",
         "weight": "10 pounds",
         "description": "The most versatile flour for any recipe that simply calls for 'flour.' Strong enough to take high-rising yeast breads to new heights. And mellow enough to make your family's favorite pie crust recipe to flaky perfection",
@@ -515,7 +515,7 @@
     },
     "C&H Premium Pure Cane Sugar": {
         "id": "fds161",
-        "category": "dryGoods",
+        "category": "dry goods",
         "brand": "C&H",
         "weight": "4 pounds",
         "description": "Make your day a little sweeter with C&H Granulated Sugar. We refine our sugar into extra fine crystals so you can easily stir it, sprinkle it, or mix it into recipes.",
@@ -540,7 +540,7 @@
     },
     "C&H Premium Pure Golden Brown Sugar": {
         "id": "fds162",
-        "category": "dryGoods",
+        "category": "dry goods",
         "brand": "C&H",
         "weight": "2 pounds",
         "description": "Sweeten your next creation with C&H Golden Brown Sugar. Its nutty, caramel flavor makes it perfect for tasty treats of all kinds. From spiced cakes and cinnamon rolls to brownies, cookies and more, you'll add 'wow' to every recipe with C&H Golden Brown Sugar.",
@@ -565,7 +565,7 @@
     },
     "Quaker Oats Old Fashioned Oatmeal": {
         "id": "fdo163",
-        "category": "dryGoods",
+        "category": "dry goods",
         "brand": "Quaker",
         "weight": "42 ounces",
         "description": "Get a perfect start to your day. Dive into a bowlful of hot, delicious Quaker Oats Old Fashioned Oats. Throw in a few fresh berries, some toasted nuts, maple syrup or cinnamon. Just like the day itself, the possibilities are limitless.",
@@ -911,6 +911,81 @@
             "potassium": "unknown",
             "carbohydrates": "52 grams",
             "protein": "unknown"
+        }
+    },
+    "Aquafina Purified Water, 32 count": {
+        "id": "fwa177",
+        "category": "water",
+        "brand": "Aquafina",
+        "weight": "16.9 fl oz/bottle",
+        "description": "Keep your body hydrated and happy from morning till night with a refreshing drink of Aquafina Purified Water. It's made from a seven-step purification system that leaves you with nothing but pure, crisp and clean tasting water in every sip. Thanks to its low sodium content, this purified mineral water helps in limiting the intake of salt as an essential part of a healthy lifestyle. It's also ideal for convenience stores, concession stands and vending machines. It's available in a 32 pack of 16.9 fluid ounce purified drinking water bottles that are the right size for you to grab on-the-go.",
+        "price": {
+            "USD": {
+                "default": "6.58",
+                "formatted": "$6.58/each"
+            }
+        },
+        "image": "http://localhost:8080/fwa177.jpeg",
+        "nutrition": {
+            "serving size": "1 bottle",
+            "servings per container": "32",
+            "calories": "0",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "0 grams"
+        }
+    },
+    "Nestle Pure Life Purified Water, 32 count": {
+        "id": "fwn177",
+        "category": "water",
+        "brand": "Nestle",
+        "weight": "16.9 fl oz/bottle",
+        "description": "Nestle Pure Life Purified Water (.5-liter / 32-pack) comes in convenient plastic, resealable bottles, for easy, on-the-go hydration. And, with no calories and no sweeteners, water is a smart choice as a refreshing beverage. Our bottled water undergoes a rigorous 12-step quality process as part of our commitment to consistently delivering crisp, clean water. We also enhance our purified water with a light blend of minerals for a distinctive, refreshing taste everyone can enjoy. No wonder it's the #1 bottled water globally. Pure Life Begins Now.",
+        "price": {
+            "USD": {
+                "default": "4.38",
+                "formatted": "$4.38/each"
+            }
+        },
+        "image": "http://localhost:8080/fwn177.jpeg",
+        "nutrition": {
+            "serving size": "1 bottle",
+            "servings per container": "32",
+            "calories": "0",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "0 grams"
+        }
+    },
+    "Crystal Geyser Alpine Spring Water, 1 Gallon": {
+        "id": "fwc177",
+        "category": "water",
+        "brand": "Crystal Geyser",
+        "weight": "1 gallon",
+        "description": "Crystal Geyser Alpine Spring Water, Spring Water Is A Pure And Natural Water Option. With Light Flavor And Carbonation, Crystal Geyser Alpine Spring Water Gives You A Refreshing And Elegant Beverage. The recipe for Crystal Geyser Alpine Spring Water has been handed down by Mother Nature.",
+        "price": {
+            "USD": {
+                "default": "1.08",
+                "formatted": "$1.08/each"
+            }
+        },
+        "image": "http://localhost:8080/fwc177.jpeg",
+        "nutrition": {
+            "serving size": "unknown",
+            "servings per container": "16",
+            "calories": "0",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "0 grams"
         }
     }
 

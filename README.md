@@ -4,13 +4,12 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 37 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 40 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 37 total items
-    * 5 categories
-    * 18 brands
-    * $71.63 worth of products
+    * 40 total items
+    * 6 categories
+    * $83.67 worth of products
     * 52,782 total calories
 
   ### Contents
@@ -20,8 +19,8 @@
     * descriptions
     * names
     * unique ids
-    * 18 different brands
-    * 37 products including:
+    * 21 different brands
+    * 40 products including:
       * fruits
       * canned items
         * canned vegetables
@@ -38,6 +37,8 @@
       * bakery
         * bread
         * rolls
+      * water
+        * bottled
 
 ## Requirements
 
@@ -76,22 +77,26 @@
   3. Use different parameter values to search for what you need
   
   Sample URL:
+
   '''
   http://localhost:8080/food?cat=putCATEGORYhere&brand=putBRANDhere
   '''
 
   Sample URL Search for Franz Bread:
+  
   '''
   http://localhost:8080/food?cat=bakery&brand=Franz
   '''
 
   ***Note: these are case sensitive***
+
   Available Categories:
   - bakery
   - dairy
   - canned
   - fruit
-  - dryGoods
+  - dry goods
+  - water
 
   Available Brands:
   - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -113,6 +118,9 @@
   - Grandma Sycamore's
   - Sara Lee
   - Great Grains
+  - Aquafina
+  - Nestle
+  - Crystal Geyser
 
 ## Getting Images:
 
