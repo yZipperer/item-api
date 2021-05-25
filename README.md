@@ -72,8 +72,10 @@
 
   1. You will begin by typing one of the above routes into either a search bar, or you can make a request through a command line
   2. there are 2 route parameters to know
-    - cat     This parameter is used to search based on category
-    - brand     This parameter is used to search based on brand
+  
+    cat     This parameter is used to search based on category
+    brand     This parameter is used to search based on brand
+    
   3. Use different parameter values to search for what you need
   
   Sample URL:
