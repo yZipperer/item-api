@@ -90,37 +90,39 @@
 
   ***Note: these are case sensitive***
 
+```
   Available Categories:
-  - bakery
-  - dairy
-  - canned
-  - produce
-  - dry goods
-  - water
+    * bakery
+    * dairy
+    * canned
+    * produce
+    * dry goods
+    * water
 
   Available Brands:
-  - unknown (This is for things like produce and products that don't have a clear brand name)
-  - Franz
-  - Del Monte
-  - Bush's
-  - Hunt's
-  - Dole
-  - Rosarita
-  - Manwich
-  - Chef Boyardee
-  - Gold Medal
-  - C&H
-  - Quaker
-  - Eggland's Best
-  - Sargento
-  - Meadow Gold
-  - TruMoo
-  - Grandma Sycamore's
-  - Sara Lee
-  - Great Grains
-  - Aquafina
-  - Nestle
-  - Crystal Geyser
+    * unknown (This is for things like produce and products that don't have a clear brand name)
+    * Franz
+    * Del Monte
+    * Bush's
+    * Hunt's
+    * Dole
+    * Rosarita
+    * Manwich
+    * Chef Boyardee
+    * Gold Medal
+    * C&H
+    * Quaker
+    * Eggland's Best
+    * Sargento
+    * Meadow Gold
+    * TruMoo
+    * Grandma Sycamore's
+    * Sara Lee
+    * Great Grains
+    * Aquafina
+    * Nestle
+    * Crystal Geyser
+```
 
   For a more comprehensive list see the masterList in the data folder.
 
