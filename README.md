@@ -122,6 +122,8 @@
   - Nestle
   - Crystal Geyser
 
+  For a more comprehensive list see the masterList in the data folder.
+
 ## Getting Images:
 
   1. make a request to the desired category
