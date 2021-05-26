@@ -1,7 +1,7 @@
 {
     "apple": {
         "id": "ffa137",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "A popular fruit",
@@ -25,7 +25,7 @@
     },
     "bannana": {
         "id": "ffb138",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "A popular fruit rich in potassium",
@@ -49,7 +49,7 @@
     },
     "grape": {
         "id": "ffg139",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
         "description": "A popular berry used in wine, jam, and juice production",
@@ -73,7 +73,7 @@
     },
     "lemon": {
         "id": "ffl140",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "A citrus fruit known for its sour taste",
@@ -97,7 +97,7 @@
     },
     "grapefruit": {
         "id": "ffg141",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "A tropical citrus fruit known for a sweet and sour taste",
@@ -121,7 +121,7 @@
     },
     "cherry": {
         "id": "ffc142",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
         "description": "Cherries are small fruits that come as tart or sweet. They are perfect for cooking and topping off ice cream.",
@@ -145,7 +145,7 @@
     },
     "strawberry": {
         "id": "ffs143",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
         "description": "Strawberries are a sweet berry popular as a snack.",
@@ -169,7 +169,7 @@
     },
     "pineapple": {
         "id": "ffp144",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "Pineapples are tropical fruits full of vitamins and antioxidants.",
@@ -193,7 +193,7 @@
     },
     "lime": {
         "id": "ffl145",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "Limes are a citrus fruit commonly used in deserts and drinks.",
@@ -217,7 +217,7 @@
     },
     "apricot": {
         "id": "ffa146",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "1 lb",
         "description": "Apricots are a sweet fruit rich in beta-carotene.",
@@ -241,7 +241,7 @@
     },
     "avacado": {
         "id": "ffa147",
-        "category": "fruit",
+        "category": "produce",
         "brand": "unknown",
         "weight": "varies",
         "description": "The avacado is a popular fruit known for its monounsaturated fatty acids.",
