@@ -21,7 +21,7 @@
     * unique ids
     * 21 different brands
     * 40 products including:
-      * fruits
+      * produce
       * canned items
         * canned vegetables
         * canned fruits
@@ -94,7 +94,7 @@
   - bakery
   - dairy
   - canned
-  - fruit
+  - produce
   - dry goods
   - water
 
