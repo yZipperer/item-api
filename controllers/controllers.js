@@ -10,7 +10,6 @@ exports.food = (req, res) => {
     const result = [];
     if(category === "none" && brand != "none") {
         for (const item in data) {
-            console.log(item);
             if (data[item].brand === brand){
                 result.push(data[item]);
             }
@@ -20,6 +19,8 @@ exports.food = (req, res) => {
     else if(brand === "none" && category != "none") {
         for (const item in data) {
             if (data[item].category === category){
+                result.push(data[item]);
+            } else if (data[item].category.includes(category)){
                 result.push(data[item]);
             }
         }
