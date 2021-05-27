@@ -17,6 +17,7 @@
     * images for every product
     * USDA nutrition information
     * descriptions
+    * desired temperatures
     * names
     * unique ids
     * 26 different brands

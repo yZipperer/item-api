@@ -4,6 +4,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "A popular fruit",
         "price": {
             "USD": {
@@ -28,6 +31,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "A popular fruit rich in potassium",
         "price": {
             "USD": {
@@ -52,6 +58,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "A popular berry used in wine, jam, and juice production",
         "price": {
             "USD": {
@@ -76,6 +85,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "A citrus fruit known for its sour taste",
         "price": {
             "USD": {
@@ -100,6 +112,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "A tropical citrus fruit known for a sweet and sour taste",
         "price": {
             "USD": {
@@ -124,6 +139,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Cherries are small fruits that come as tart or sweet. They are perfect for cooking and topping off ice cream.",
         "price": {
             "USD": {
@@ -148,6 +166,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Strawberries are a sweet berry popular as a snack.",
         "price": {
             "USD": {
@@ -172,6 +193,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Pineapples are tropical fruits full of vitamins and antioxidants.",
         "price": {
             "USD": {
@@ -196,6 +220,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Limes are a citrus fruit commonly used in deserts and drinks.",
         "price": {
             "USD": {
@@ -220,6 +247,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "1 lb",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Apricots are a sweet fruit rich in beta-carotene.",
         "price": {
             "USD": {
@@ -244,6 +274,9 @@
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "The avacado is a popular fruit known for its monounsaturated fatty acids.",
         "price": {
             "USD": {
@@ -268,6 +301,9 @@
         "category": "canned",
         "brand": "Del Monte",
         "weight": "15.25 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Fresh Whole Kernel Corn is a perfect side for any dish. Its ready to be eaten right out of the can.",
         "price": {
             "USD": {
@@ -293,6 +329,9 @@
         "category": "canned",
         "brand": "Del Monte",
         "weight": "14.5 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Del Monte Green Beans are a delicious way to to add flavor and nutrients to green bean casseroles, stews, soups, stir-fry, bean salads, and vegetarian dishes.",
         "price": {
             "USD": {
@@ -318,6 +357,9 @@
         "category": "canned",
         "brand": "Del Monte",
         "weight": "15 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Peaches are known to contain a hefty amount of the healthy antioxidant vitamin C, and may also reduce LDL cholesterol associated with cardiovascular disease.",
         "price": {
             "USD": {
@@ -343,6 +385,9 @@
         "category": "canned",
         "brand": "Bush's",
         "weight": "15 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Slow simmer these beans to mouth-watering perfection to enhance any savory meal. Try adding a spoonful to homemade tacos or add them to a hearty pot of soup.",
         "price": {
             "USD": {
@@ -368,6 +413,9 @@
         "category": "canned",
         "brand": "Hunt's",
         "weight": "8 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "This Tomato Sauce is seasoned with a flavorful blend of tomatoes, onions, garlic, sweet bell peppers and other tasty ingredients. Our sauce is made with Ripe California tomatoes that are picked and canned at the peak of freshness within five hours of harvest to preserve freshness and flavor. This tomato sauce is great for a variety of recipes including pasta sauce, chili, soups, stews, casseroles, pizza, meatloaf, enchiladas, salsas and more.",
         "price": {
             "USD": {
@@ -393,6 +441,9 @@
         "category": "canned",
         "brand": "Dole",
         "weight": "20 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Enhance your favorite recipes and give them a tropical touch with Dole Pineapple Chunks in 100% Pineapple Juice. This product is made of all-natural ingredients. You can consume this can of Dole pineapple juice straight out of the packaging as a delicious snack or combine it with your choice of dessert or meal recipes to give them a sweet and flavorful kick.",
         "price": {
             "USD": {
@@ -418,6 +469,9 @@
         "category": "canned",
         "brand": "Rosarita",
         "weight": "16 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "For over 70 years Rosarita has continued to make delicious Mexican sauces, beans, and refried beans. When it comes to your family's Mexican food night, serve them the taste of true Mexican heritage with Rosarita. With Rosarita Traditional Refried Beans, you can give your family a delicious Mexican-style meal. Add Rosarita original-recipe, Mexican-style refried beans for authentic and delicious Mexican-style dishes and sides. ",
         "price": {
             "USD": {
@@ -443,6 +497,9 @@
         "category": "canned",
         "brand": "Manwich",
         "weight": "15 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Manwich Original Sloppy Joe Sauce delivers that classic, deliciously messy favorite the entire family loves. Made with a tomato base and the perfect seasonings, not only is Manwich Original Sloppy Joe Sauce perfect for a classic sloppy joe sandwich, but it's also great with tacos, meatloaf and party dips.",
         "price": {
             "USD": {
@@ -468,6 +525,9 @@
         "category": "canned",
         "brand": "Chef Boyardee",
         "weight": "15 oz",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Chef Boyardee Mini Ravioli is a delicious and convenient meal that is ready to eat in minutes and has delighted families for generations. Made with enriched pasta, smothered in rich, Italian-flavored tomato sauce, and stuffed with real beef, Chef Boyardee Mini Ravioli has the timeless flavor everyone loves in a fun, bite-sized package.",
         "price": {
             "USD": {
@@ -493,6 +553,9 @@
         "category": "dry goods",
         "brand": "Gold Medal",
         "weight": "10 pounds",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "The most versatile flour for any recipe that simply calls for 'flour.' Strong enough to take high-rising yeast breads to new heights. And mellow enough to make your family's favorite pie crust recipe to flaky perfection",
         "price": {
             "USD": {
@@ -518,6 +581,9 @@
         "category": "dry goods",
         "brand": "C&H",
         "weight": "4 pounds",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Make your day a little sweeter with C&H Granulated Sugar. We refine our sugar into extra fine crystals so you can easily stir it, sprinkle it, or mix it into recipes.",
         "price": {
             "USD": {
@@ -543,6 +609,9 @@
         "category": "dry goods",
         "brand": "C&H",
         "weight": "2 pounds",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Sweeten your next creation with C&H Golden Brown Sugar. Its nutty, caramel flavor makes it perfect for tasty treats of all kinds. From spiced cakes and cinnamon rolls to brownies, cookies and more, you'll add 'wow' to every recipe with C&H Golden Brown Sugar.",
         "price": {
             "USD": {
@@ -568,6 +637,9 @@
         "category": "dry goods",
         "brand": "Quaker",
         "weight": "42 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Get a perfect start to your day. Dive into a bowlful of hot, delicious Quaker Oats Old Fashioned Oats. Throw in a few fresh berries, some toasted nuts, maple syrup or cinnamon. Just like the day itself, the possibilities are limitless.",
         "price": {
             "USD": {
@@ -593,6 +665,9 @@
         "category": "dairy",
         "brand": "Eggland's Best",
         "weight": "unknown",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Eggland's Best eggs are an excellent source of vitamins B12, B2 and B5, a good source of folate, and provide 38% more lutein than regular eggs. Plus, Eggland's Best Large eggs provide a good source of complete protein and an excellent source of choline. Eggland’s Best eggs come from hens fed a wholesome, all-vegetarian diet consisting of healthy grains, canola oil, and a supplement of rice bran, alfalfa, sea kelp, and vitamin E.",
         "price": {
             "USD": {
@@ -618,6 +693,9 @@
         "category": "dairy",
         "brand": "Sargento",
         "weight": "unknown",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Sargento® Creamery Sliced Cheddar Cheese is sliced from 100% real, natural cheese and delivers an amazing melt thanks to the simple addition of real cream. This delicious cheese adds creamy texture and a melty indulgence to all your favorite handhelds like grilled cheese, cheeseburgers, and patty melts. The convenient 6-ounce Fresh-Lock® seal package contains 10 slices of cheese.        ",
         "price": {
             "USD": {
@@ -643,6 +721,9 @@
         "category": "dairy",
         "brand": "Meadow Gold",
         "weight": "1 gallon",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Meadow Gold Dairy Vitamin D Milk is whole milk with vitamin D, making it a great choice for the entire family. Creamy and delicious, this fresh milk is a good source of protein and calcium.",
         "price": {
             "USD": {
@@ -668,6 +749,9 @@
         "category": "dairy",
         "brand": "TruMoo",
         "weight": "1/2 gallon (64 ounces)",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "TruMoo includes essential nutrients that active, growing bodies need. After long days spent outside, kids will love the delicious taste of a chocolate drink.",
         "price": {
             "USD": {
@@ -693,6 +777,9 @@
         "category": "dairy",
         "brand": "TruMoo",
         "weight": "1 pint",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Milk, Strawberry Flavored, Tru Moo, 1% Lowfat, Bottle 1 PT Naturally flavored. Vitamin A & D. 130 calories per serving. ",
         "price": {
             "USD": {
@@ -718,6 +805,9 @@
         "category": "bakery",
         "brand": "Grandma Sycamore's",
         "weight": "24 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Grandma Sycamore's Homemaid Bread. High quality breads the whole family will enjoy. No artificial colors, flavors or preservatives. No high fructose corn syrup.",
         "price": {
             "USD": {
@@ -743,6 +833,9 @@
         "category": "bakery",
         "brand": "Sara Lee",
         "weight": "20 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Sara Lee’s Classic White Bread sliced bread offers a delectable, straight from the bakery taste. Perfect for creating french toast, indulgent grilled cheese, and more, our white bread is the perfect base for whatever you create. Make incredible avocado toast, skyhigh BLTs, elevate your cranberry and walnut chicken salad sandwiches, or make PB&J and cinnamon toast that the kids will ask for. It’s made without high fructose corn syrup and has no artificial colors or flavors because we only want the best for your family.",
         "price": {
             "USD": {
@@ -768,6 +861,9 @@
         "category": "bakery",
         "brand": "Great Grains",
         "weight": "24 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "MULTIGRAIN w/ Flax Seeds & Omega-3 Premium Wide Pan 5/8\" Sliced Bread is packed with whole grains and Omega-3 and tastes DELICIOUS. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. 15 Grams of Whole Grains Per Slice. No Cholesterol. 5 Grams of Protien Per Slice. 5 Grams of Fiber Per Slice. 304mg of Omega-3 Per Slice-An Excellent Source. Always Made With Non-GMO Ingredients.",
         "price": {
             "USD": {
@@ -793,6 +889,9 @@
         "category": "bakery",
         "brand": "Franz",
         "weight": "24 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Franz Old Fashioned Buttermilk Bread is made with sweet cream buttermilk for a homestyle taste that takes you back to your childhood. Our Buttermilk bread is naturally low in fat and has 3 grams of protein per serving. Our Old Fashioned Buttermilk bread is made with natural ingredients, is free from artificial colors or dyes, contains no high fructose corn syrup, artificial preservatives, partially hydrogenated oils and 0 grams trans fat.",
         "price": {
             "USD": {
@@ -818,6 +917,9 @@
         "category": "bakery",
         "brand": "Franz",
         "weight": "16 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "No high fructose corn syrup. Since 1906 family owned. Made with premium Northwest Grown & milled ingredients.",
         "price": {
             "USD": {
@@ -843,6 +945,9 @@
         "category": "bakery",
         "brand": "Franz",
         "weight": "16 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Take a bite into our soft and delicious Franz Dinner Rolls which are always a great addition to your meal! For a fun spin, try them with various deli meats for a slider sandwich or use with pulled pork to take your meal to the next level.",
         "price": {
             "USD": {
@@ -868,6 +973,9 @@
         "category": "bakery",
         "brand": "Sara Lee",
         "weight": "16 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Sara Lee’s Sweet Hawaiian Rolls offers a delectable, straight from the bakery taste. The recipe is simple and delicious for a taste that everyone loves. Warm and serve alongside a roasted pork loin and mashed potatoes or with fried chicken and green beans.",
         "price": {
             "USD": {
@@ -893,6 +1001,9 @@
         "category": "bakery",
         "brand": "Great Grains",
         "weight": "24 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "REAL CHEDDAR CHEESE Gourmet sliced Hoagie Bun tastes AMAZING. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. No Cholesterol. 12 Grams of protien per bun. Always Made With Non-GMO Ingredients.",
         "price": {
             "USD": {
@@ -918,6 +1029,9 @@
         "category": "water",
         "brand": "Aquafina",
         "weight": "16.9 fl oz/bottle",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Keep your body hydrated and happy from morning till night with a refreshing drink of Aquafina Purified Water. It's made from a seven-step purification system that leaves you with nothing but pure, crisp and clean tasting water in every sip. Thanks to its low sodium content, this purified mineral water helps in limiting the intake of salt as an essential part of a healthy lifestyle. It's also ideal for convenience stores, concession stands and vending machines. It's available in a 32 pack of 16.9 fluid ounce purified drinking water bottles that are the right size for you to grab on-the-go.",
         "price": {
             "USD": {
@@ -943,6 +1057,9 @@
         "category": "water",
         "brand": "Nestle",
         "weight": "16.9 fl oz/bottle",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Nestle Pure Life Purified Water (.5-liter / 32-pack) comes in convenient plastic, resealable bottles, for easy, on-the-go hydration. And, with no calories and no sweeteners, water is a smart choice as a refreshing beverage. Our bottled water undergoes a rigorous 12-step quality process as part of our commitment to consistently delivering crisp, clean water. We also enhance our purified water with a light blend of minerals for a distinctive, refreshing taste everyone can enjoy. No wonder it's the #1 bottled water globally. Pure Life Begins Now.",
         "price": {
             "USD": {
@@ -968,6 +1085,9 @@
         "category": "water",
         "brand": "Crystal Geyser",
         "weight": "1 gallon",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Crystal Geyser Alpine Spring Water, Spring Water Is A Pure And Natural Water Option. With Light Flavor And Carbonation, Crystal Geyser Alpine Spring Water Gives You A Refreshing And Elegant Beverage. The recipe for Crystal Geyser Alpine Spring Water has been handed down by Mother Nature.",
         "price": {
             "USD": {
@@ -993,6 +1113,9 @@
         "category": "produce",
         "brand": "Dole",
         "weight": "varies",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "promote healthy bones by adding Fresh Celery to your diet. Celery is a low-calorie vegetable that consists mostly of water but is packed full of antioxidants and fiber. Cut off the leafy tops and bulky bottoms and enjoy them as a crisp and healthy snack or chop them up and create a fresh salad with romaine lettuce, carrots, cherry tomatoes, and croutons. They're also delicious when stuffed with peanut butter and dried fruit, like raisins and cranberries.",
         "price": {
             "USD": {
@@ -1018,6 +1141,9 @@
         "category": "bakery",
         "brand": "Sara Lee",
         "weight": "20 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Sara Lee’s Butter Bread sliced bread offers a delectable, straight from the bakery taste. Perfect for creating french toast, indulgent grilled cheese, and more, our rich Butter Bread is the perfect base for whatever you create. Make incredible avocado toast, skyhigh BLTs, elevate your cranberry and walnut chicken salad sandwiches, or make PB&J and cinnamon toast that the kids will ask for. It’s made without high fructose corn syrup and has no artificial colors or flavors because we only want the best for your family. Celebrate the goodness in life with our Butter Bread – a true favorite your family will love.",
         "price": {
             "USD": {
@@ -1043,6 +1169,9 @@
         "category": "bakery",
         "brand": "Sara Lee",
         "weight": "20 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Sara Lee’s Honey Wheat sliced bread offers a delectable, straight from the bakery taste. We’ve added golden honey to our classic wheat bread for a taste that everyone loves. Perfect for creating french toast, indulgent grilled cheese, and more, our classic honey wheat bread offers a hint of sweetness to every savory flavor you add to it. Make incredible avocado toast, skyhigh BLTs, elevate your cranberry and walnut chicken salad sandwiches, or make PB&J and cinnamon toast that the kids will ask for.",
         "price": {
             "USD": {
@@ -1068,6 +1197,9 @@
         "category": "bakery",
         "brand": "Ball Park",
         "weight": "13 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "Just because you can’t always make it to the ballpark doesn’t mean you can’t have a taste of it whenever the mood strikes. Ball Park Hot Dog Buns are an American favorite. Soft and delicious, they are the perfect partner for a lightly grilled dog and a swirl of ketchup to share with teammates after the big game. Our buns make the perfect base for chili dogs with a sprinkling of onions and cheese or a loaded Chicagostyle dog for a buildyourown dog tailgating party before the Superbowl. Not in the mood for a hot dog? Use our hot dog buns for hoagiestyle sandwiches for dinner around the campfire.",
         "price": {
             "USD": {
@@ -1093,6 +1225,9 @@
         "category": "produce",
         "brand": "Bolthouse Farms",
         "weight": "2 pounds",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "35 calories per serving. Rich in vitamin A. Since 1915. Why you should feel good about what's in this bag: Since 1915, Bolthouse Farms has been providing premium fresh carrots grown in America's fertile farmland. They are special varieties bred for their sweet, rich flavor and abundant carotenoids. These are the antioxidants responsible not only for the bright orange color of carrots, but also for many of their benefits.",
         "price": {
             "USD": {
@@ -1118,6 +1253,9 @@
         "category": "candy",
         "brand": "Hershey's",
         "weight": "1.55 oz/bar",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
         "description": "There's happy, and then there's HERSHEY'S happy. Made of the delectable, creamy milk chocolate that's been a classic for decades, HERSHEY'S milk chocolate bars make life more delicious whether they're enjoyed alone or shared with loved ones. These full-size candies are the perfect treat for countless special and everyday occasions.",
         "price": {
             "USD": {
@@ -1143,6 +1281,9 @@
         "category": "dairy",
         "brand": "Yoplait",
         "weight": "6 ounces",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Each Yoplait Original Harvest Peach Yogurt Cup helps you stop and enjoy the moment with every smooth and delicious bite. Delight in the perfectly sweet harvest peach flavor made with real fruit. Pack this gluten-free yogurt cup in your lunchbox or take it on the road for an on-the-go snack.",
         "price": {
             "USD": {
@@ -1168,6 +1309,9 @@
         "category": "dairy",
         "brand": "Kraft",
         "weight": "16 ounces",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
         "description": "Kraft Singles American Slices feature the melty, great taste that you love with no artificial preservatives or flavors. Our sliced cheese has a smooth, creamy texture and mild flavor. Pre-sliced for your convenience, this cheese melts beautifully over all your favorite summer grilling foods. Kraft Singles American slices are made with quality ingredients, like pasteurized milk, so you can feel good about feeding them to your family. Place a slice of this deli style cheese on top of a juicy burger at any of your summer barbecues.",
         "price": {
             "USD": {
