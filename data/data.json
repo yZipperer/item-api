@@ -1331,6 +1331,90 @@
             "carbohydrates": "2 grams",
             "protein": "3 grams"
         }
+    },
+    "Campbell's SpaghettiOs with Meatballs": {
+        "id": "fcp188",
+        "category": "canned",
+        "brand": "Campbell's",
+        "weight": "15.6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Our fun-loving lineup of SpaghettiOs features delicious o-shaped pasta and a familiar cast of friends that add character to every bite! Grab a spoon (or a fork) and dig in to something the whole family can enjoy.",
+        "price": {
+            "USD": {
+                "default": "0.98",
+                "formatted": "$0.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fcp188.jpeg",
+        "nutrition": {
+            "serving size": "1 container",
+            "servings per container": "1",
+            "calories": "230",
+            "fat": "7 grams",
+            "cholesterol": "30 milligrams",
+            "sodium": "600 milligrams",
+            "potassium": "320 milligrams",
+            "carbohydrates": "31 grams",
+            "protein": "11 grams"
+        }
+    },
+    "Chef Boyardee Spaghetti and Meatballs": {
+        "id": "fcp189",
+        "category": "canned",
+        "brand": "Chef Boyardee",
+        "weight": "14.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Chef Boyardee Spaghetti and Meatballs is a delicious and convenient meal that is ready to eat in minutes and has delighted families for generations. Made with enriched pasta, rich, Italian-flavored tomato sauce, and tasty meatballs made with real beef, pork, and chicken, Chef Boyardee Spaghetti and Meatballs has the timeless flavor everyone loves. When you need a quick meal, Chef Boyardee has your back. Just pop off the easy-open lid, and in 90 seconds, dinner is ready to serve.",
+        "price": {
+            "USD": {
+                "default": "0.88",
+                "formatted": "$0.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fcp189.jpeg",
+        "nutrition": {
+            "serving size": "257 grams",
+            "servings per container": "2",
+            "calories": "250",
+            "fat": "10 grams",
+            "cholesterol": "25 milligrams",
+            "sodium": "770 milligrams",
+            "potassium": "160 milligrams",
+            "carbohydrates": "30 grams",
+            "protein": "9 grams"
+        }
+    },
+    "StarKist Solid White Albacore Tuna in Water, 12 Ounces": {
+        "id": "fcs190",
+        "category": ["canned", "seafood"],
+        "brand": "StarKist",
+        "weight": "12 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "StarKist® Solid White Albacore Tuna in Water can contains a solid fillet of delicious wild caught albacore tuna that you can enjoy in a wrap or on a salad - StarKist® makes it easy to incorporate seafood into your lifestyle .",
+        "price": {
+            "USD": {
+                "default": "3.28",
+                "formatted": "$3.28/each"
+            }
+        },
+        "image": "http://localhost:8080/fcs190.jpeg",
+        "nutrition": {
+            "serving size": "1/3 can",
+            "servings per container": "3",
+            "calories": "90",
+            "fat": "1 gram",
+            "cholesterol": "30 milligrams",
+            "sodium": "280 milligrams",
+            "potassium": "150 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "19 grams"
+        }
     }
 
 
