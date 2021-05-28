@@ -1,5 +1,6 @@
-{
-    "apple": {
+[
+    {
+        "name": "apple",
         "id": "ffa137",
         "category": "produce",
         "brand": "unknown",
@@ -26,7 +27,8 @@
             "protein": "0.5 grams"
         }
     },
-    "bannana": {
+    {
+        "name": "bannana",
         "id": "ffb138",
         "category": "produce",
         "brand": "unknown",
@@ -53,7 +55,8 @@
             "protein": "1.3 grams"
         }
     },
-    "grape": {
+    {
+        "name": "grape",
         "id": "ffg139",
         "category": "produce",
         "brand": "unknown",
@@ -80,7 +83,8 @@
             "protein": "0.6 grams"
         }
     },
-    "lemon": {
+    {
+        "name": "lemon",
         "id": "ffl140",
         "category": "produce",
         "brand": "unknown",
@@ -107,7 +111,8 @@
             "protein": "0.6 grams"
         }
     },
-    "grapefruit": {
+    {
+        "name": "grapefruit",
         "id": "ffg141",
         "category": "produce",
         "brand": "unknown",
@@ -134,7 +139,8 @@
             "protein": "0.9 grams"
         }
     },
-    "cherry": {
+    {
+        "name": "cherry",
         "id": "ffc142",
         "category": "produce",
         "brand": "unknown",
@@ -161,7 +167,8 @@
             "protein": "1.6 grams"
         }
     },
-    "strawberry": {
+    {
+        "name": "strawberry",
         "id": "ffs143",
         "category": "produce",
         "brand": "unknown",
@@ -188,7 +195,8 @@
             "protein": "0.1 grams"
         }
     },
-    "pineapple": {
+    {
+        "name": "pineapple",
         "id": "ffp144",
         "category": "produce",
         "brand": "unknown",
@@ -215,7 +223,8 @@
             "protein": "4.9 grams"
         }
     },
-    "lime": {
+    {
+        "name": "lime",
         "id": "ffl145",
         "category": "produce",
         "brand": "unknown",
@@ -242,7 +251,8 @@
             "protein": "0.5 grams"
         }
     },
-    "apricot": {
+    {
+        "name": "apricot",
         "id": "ffa146",
         "category": "produce",
         "brand": "unknown",
@@ -269,7 +279,8 @@
             "protein": "2.3 grams"
         }
     },
-    "avacado": {
+    {
+        "name": "avacado",
         "id": "ffa147",
         "category": "produce",
         "brand": "unknown",
@@ -296,7 +307,8 @@
             "protein": "2.9 grams"
         }
     },
-    "Del Monte Fresh Whole Kernel Corn": {
+    {
+        "name": "Del Monte Fresh Whole Kernel Corn",
         "id": "fcc148",
         "category": "canned",
         "brand": "Del Monte",
@@ -324,7 +336,8 @@
             "protein": "1 gram"
         }
     },
-    "Del Monte Green Beans": {
+    {
+        "name": "Del Monte Green Beans",
         "id": "fcb149",
         "category": "canned",
         "brand": "Del Monte",
@@ -352,7 +365,8 @@
             "protein": "1 gram"
         }
     },
-    "Del Monte Sliced Peaches in 100% Juice": {
+    {
+        "name": "Del Monte Sliced Peaches in 100% Juice",
         "id": "fcp150",
         "category": "canned",
         "brand": "Del Monte",
@@ -380,7 +394,8 @@
             "protein": "0 grams"
         }
     },
-    "Bush's Black Beans": {
+    {
+        "name": "Bush's Black Beans",
         "id": "fcb151",
         "category": "canned",
         "brand": "Bush's",
@@ -408,7 +423,8 @@
             "protein": "7 grams"
         }
     },
-    "Hunt's Tomato Sauce": {
+    {
+        "name": "Hunt's Tomato Sauce",
         "id": "fcs152",
         "category": "canned",
         "brand": "Hunt's",
@@ -436,7 +452,8 @@
             "protein": "1 gram"
         }
     },
-    "Dole Pineapple Chunks in 100% Pineapple Juice": {
+    {
+        "name": "Dole Pineapple Chunks in 100% Pineapple Juice",
         "id": "fcp152",
         "category": "canned",
         "brand": "Dole",
@@ -464,7 +481,8 @@
             "protein": "<1 gram"
         }
     },
-    "Rosarita Traditional Refried Beans": {
+    {
+        "name": "Rosarita Traditional Refried Beans",
         "id": "fcb153",
         "category": "canned",
         "brand": "Rosarita",
@@ -492,7 +510,8 @@
             "protein": "5 grams"
         }
     },
-    "Manwich Original Sloppy Joe": {
+    {
+        "name": "Manwich Original Sloppy Joe",
         "id": "fcm157",
         "category": "canned",
         "brand": "Manwich",
@@ -520,7 +539,8 @@
             "protein": "<1 gram"
         }
     },
-    "Chef Boyardee Mini Beef Ravioli": {
+    {
+        "name": "Chef Boyardee Mini Beef Ravioli",
         "id": "fcr158",
         "category": "canned",
         "brand": "Chef Boyardee",
@@ -548,7 +568,8 @@
             "protein": "5 grams"
         }
     },
-    "Gold Medal All-Purpose Flour": {
+    {
+        "name": "Gold Medal All-Purpose Flour",
         "id": "fdf160",
         "category": "dry goods",
         "brand": "Gold Medal",
@@ -576,7 +597,8 @@
             "protein": "3 grams"
         }
     },
-    "C&H Premium Pure Cane Sugar": {
+    {
+        "name": "C&H Premium Pure Cane Sugar",
         "id": "fds161",
         "category": "dry goods",
         "brand": "C&H",
@@ -604,7 +626,8 @@
             "protein": "0 grams"
         }
     },
-    "C&H Premium Pure Golden Brown Sugar": {
+    {
+        "name": "C&H Premium Pure Golden Brown Sugar",
         "id": "fds162",
         "category": "dry goods",
         "brand": "C&H",
@@ -632,7 +655,8 @@
             "protein": "0 grams"
         }
     },
-    "Quaker Oats Old Fashioned Oatmeal": {
+    {
+        "name": "Quaker Oats Old Fashioned Oatmeal",
         "id": "fdo163",
         "category": "dry goods",
         "brand": "Quaker",
@@ -660,7 +684,8 @@
             "protein": "5 grams"
         }
     },
-    "Eggland's Best Large White Grade A Eggs, 12 Eggs": {
+    {
+        "name": "Eggland's Best Large White Grade A Eggs, 12 Eggs",
         "id": "fde164",
         "category": "dairy",
         "brand": "Eggland's Best",
@@ -688,7 +713,8 @@
             "protein": "6 grams"
         }
     },
-    "Sargento Creamy Cliced Cheddar Cheese, 10 Slices": {
+    {
+        "name": "Sargento Creamy Cliced Cheddar Cheese, 10 Slices",
         "id": "fdc165",
         "category": "dairy",
         "brand": "Sargento",
@@ -716,7 +742,8 @@
             "protein": "3 grams"
         }
     },
-    "Meadow Gold Whole Milk": {
+    {
+        "name": "Meadow Gold Whole Milk",
         "id": "fdm166",
         "category": "dairy",
         "brand": "Meadow Gold",
@@ -744,7 +771,8 @@
             "protein": "8 grams"
         }
     },
-    "TruMoo Chocolate Whole Milk": {
+    {
+        "name": "TruMoo Chocolate Whole Milk",
         "id": "fdm167",
         "category": "dairy",
         "brand": "TruMoo",
@@ -772,7 +800,8 @@
             "protein": "8 grams"
         }
     },
-    "TruMoo 1% Low-Fat Strawberry Milk": {
+    {
+        "name": "TruMoo 1% Low-Fat Strawberry Milk",
         "id": "fdm168",
         "category": "dairy",
         "brand": "TruMoo",
@@ -800,7 +829,8 @@
             "protein": "8 grams"
         }
     },
-    "Grandma Sycamore's Home-Maid White Bread": {
+    {
+        "name": "Grandma Sycamore's Home-Maid White Bread",
         "id": "fbb169",
         "category": "bakery",
         "brand": "Grandma Sycamore's",
@@ -828,7 +858,8 @@
             "protein": "3 grams"
         }
     },
-    "Sara Lee White Bread, 20 Slices": {
+    {
+        "name": "Sara Lee White Bread, 20 Slices",
         "id": "fbb170",
         "category": "bakery",
         "brand": "Sara Lee",
@@ -856,7 +887,8 @@
             "protein": "4 grams"
         }
     },
-    "Great Grains Multigran Flax Seed Premium Bread": {
+    {
+        "name": "Great Grains Multigran Flax Seed Premium Bread",
         "id": "fbb171",
         "category": "bakery",
         "brand": "Great Grains",
@@ -884,7 +916,8 @@
             "protein": "5 grams"
         }
     },
-    "Franz Buttermilk Bread": {
+    {
+        "name": "Franz Buttermilk Bread",
         "id": "fbb172",
         "category": "bakery",
         "brand": "Franz",
@@ -912,7 +945,8 @@
             "protein": "3 grams"
         }
     },
-    "Franz Hoagie Rolls, 6 count": {
+    {
+        "name": "Franz Hoagie Rolls, 6 count",
         "id": "fbb173",
         "category": "bakery",
         "brand": "Franz",
@@ -940,7 +974,8 @@
             "protein": "7 grams"
         }
     },
-    "Franz Hawaiian Rolls, 12 count": {
+    {
+        "name": "Franz Hawaiian Rolls, 12 count",
         "id": "fbr174",
         "category": "bakery",
         "brand": "Franz",
@@ -968,7 +1003,8 @@
             "protein": "3 grams"
         }
     },
-    "Sara Lee Sweet Hawaiian Rolls, 12 count": {
+    {
+        "name": "Sara Lee Sweet Hawaiian Rolls, 12 count",
         "id": "fbr175",
         "category": "bakery",
         "brand": "Sara Lee",
@@ -996,7 +1032,8 @@
             "protein": "3 grams"
         }
     },
-    "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count": {
+    {
+        "name": "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count",
         "id": "fbr176",
         "category": "bakery",
         "brand": "Great Grains",
@@ -1024,7 +1061,8 @@
             "protein": "unknown"
         }
     },
-    "Aquafina Purified Water, 32 count": {
+    {
+        "name": "Aquafina Purified Water, 32 count",
         "id": "fwa177",
         "category": "water",
         "brand": "Aquafina",
@@ -1052,7 +1090,8 @@
             "protein": "0 grams"
         }
     },
-    "Nestle Pure Life Purified Water, 32 count": {
+    {
+        "name": "Nestle Pure Life Purified Water, 32 count",
         "id": "fwn186",
         "category": "water",
         "brand": "Nestle",
@@ -1080,7 +1119,8 @@
             "protein": "0 grams"
         }
     },
-    "Crystal Geyser Alpine Spring Water, 1 Gallon": {
+    {
+        "name": "Crystal Geyser Alpine Spring Water, 1 Gallon",
         "id": "fwc185",
         "category": "water",
         "brand": "Crystal Geyser",
@@ -1108,7 +1148,8 @@
             "protein": "0 grams"
         }
     },
-    "Dole Celery Stalk": {
+    {
+        "name": "Dole Celery Stalk",
         "id": "fpd178",
         "category": "produce",
         "brand": "Dole",
@@ -1136,7 +1177,8 @@
             "protein": "1 gram"
         }
     },
-    "Sara Lee Butter Bread, 22 Slices": {
+    {
+        "name": "Sara Lee Butter Bread, 22 Slices",
         "id": "fbb179",
         "category": "bakery",
         "brand": "Sara Lee",
@@ -1164,7 +1206,8 @@
             "protein": "2 grams"
         }
     },
-    "Sara Lee Honey Wheat Bread, 22 Slices": {
+    {
+        "name": "Sara Lee Honey Wheat Bread, 22 Slices",
         "id": "fbb180",
         "category": "bakery",
         "brand": "Sara Lee",
@@ -1192,7 +1235,8 @@
             "protein": "2 grams"
         }
     },
-    "Ball Park Classic White Hot Dog Buns, 8-Pack": {
+    {
+        "name": "Ball Park Classic White Hot Dog Buns, 8-Pack",
         "id": "fbb181",
         "category": "bakery",
         "brand": "Ball Park",
@@ -1220,7 +1264,8 @@
             "protein": "4 grams"
         }
     },
-    "Bolthouse Farms Baby Carrots, 2lb bag": {
+    {
+        "name": "Bolthouse Farms Baby Carrots, 2lb bag",
         "id": "fpc182",
         "category": "produce",
         "brand": "Bolthouse Farms",
@@ -1248,7 +1293,8 @@
             "protein": "1 gram"
         }
     },
-    "Hershey's Milk Chocolate Candy Bars, 6 Pack": {
+    {
+        "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
         "id": "fcc183",
         "category": "candy",
         "brand": "Hershey's",
@@ -1276,7 +1322,8 @@
             "protein": "3 grams"
         }
     },
-    "Yoplait Harvest Peach Yogurt, 1 Cup": {
+    {
+        "name": "Yoplait Harvest Peach Yogurt, 1 Cup",
         "id": "fdy184",
         "category": "dairy",
         "brand": "Yoplait",
@@ -1304,7 +1351,8 @@
             "protein": "6 grams"
         }
     },
-    "Kraft Singles American Cheese, 24 Slices": {
+    {
+        "name": "Kraft Singles American Cheese, 24 Slices",
         "id": "fdc187",
         "category": "dairy",
         "brand": "Kraft",
@@ -1332,7 +1380,8 @@
             "protein": "3 grams"
         }
     },
-    "Campbell's SpaghettiOs with Meatballs": {
+    {
+        "name": "Campbell's SpaghettiOs with Meatballs",
         "id": "fcp188",
         "category": "canned",
         "brand": "Campbell's",
@@ -1360,7 +1409,8 @@
             "protein": "11 grams"
         }
     },
-    "Chef Boyardee Spaghetti and Meatballs": {
+    {
+        "name": "Chef Boyardee Spaghetti and Meatballs",
         "id": "fcp189",
         "category": "canned",
         "brand": "Chef Boyardee",
@@ -1388,7 +1438,8 @@
             "protein": "9 grams"
         }
     },
-    "StarKist Solid White Albacore Tuna in Water, 12 Ounces": {
+    {
+        "name": "StarKist Solid White Albacore Tuna in Water, 12 Ounces",
         "id": "fcs190",
         "category": ["canned", "seafood"],
         "brand": "StarKist",
@@ -1419,4 +1470,4 @@
 
 
 
-}
+]
