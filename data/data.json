@@ -1296,7 +1296,7 @@
     {
         "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
         "id": "fcc183",
-        "category": "candy",
+        "category": ["candy", "bar-candy"],
         "brand": "Hershey's",
         "weight": "1.55 oz/bar",
         "hot": false,
@@ -1465,6 +1465,93 @@
             "potassium": "150 milligrams",
             "carbohydrates": "0 grams",
             "protein": "19 grams"
+        }
+    },
+    {
+        "name": "Philadelphia Original Cream Cheese, 2 Pack",
+        "id": "fdc191",
+        "category": "dairy",
+        "brand": "Philadelphia",
+        "weight": "16 ounces, 8 ounces/brick",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
+        "description": "Philadelphia Original Cream Cheese traces its roots back to 1872, and it has been the standard of high quality cream cheese ever since. This rich and delicious cream cheese is made with five simple ingredients, perfect for adding creaminess to any recipe. Philadelphia makes its original cream cheese without preservatives, and it's crafted from milk and real cream for an authentic taste.",
+        "price": {
+            "USD": {
+                "default": "3.84",
+                "formatted": "$3.84/each"
+            }
+        },
+        "image": "http://localhost:8080/fdc191.jpeg",
+        "nutrition": {
+            "serving size": "1 ounce, 1/16 package",
+            "servings per container": "32",
+            "calories": "100",
+            "fat": "10 grams",
+            "cholesterol": "30 milligrams",
+            "sodium": "110 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "1 gram",
+            "protein": "2 grams"
+        }
+    },
+    {
+        "name": "Twizzlers, Strawberry Chewy Candy",
+        "id": "fct192",
+        "category": ["candy", "bagged-candy"],
+        "brand": "Twizzlers",
+        "weight": "16 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "TWIZZLERS Twists strawberry-flavored chewy candies are too fun not to enjoy at every movie marathon, birthday party and tailgate. With a bag of strawberry-flavored chewy candies ready for action, bite off both ends of the Twists candy to create a straw. Dip your straw into a cold glass of milk, hot chocolate and milkshake (maybe not all at once) or slurp up the whipped topping on your ice cream sundae. If you're more into eating a couple of these chewy treats straight from the bag, you're ready to go.",
+        "price": {
+            "USD": {
+                "default": "2.23",
+                "formatted": "$2.23/each"
+            }
+        },
+        "image": "http://localhost:8080/fct192.jpeg",
+        "nutrition": {
+            "serving size": "45 grams",
+            "servings per container": "10",
+            "calories": "160",
+            "fat": "0.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "70 milligrams",
+            "potassium": "15 milligrams",
+            "carbohydrates": "36 grams",
+            "protein": "1 gram"
+        }
+    },
+    {
+        "name": "Whoppers, Malted Milk Chocolate Balls",
+        "id": "fcw193",
+        "category": ["candy", "boxed-candy"],
+        "brand": "Whoppers",
+        "weight": "5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "When you want a movie theater snack or a sweet ice cream topping, look to WHOPPERS The Original Malted Milk Balls! WHOPPERS Malted Milk Balls are perfect for enjoying during a movie or any time you want a sweet, poppable treat.",
+        "price": {
+            "USD": {
+                "default": "0.98",
+                "formatted": "$0.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fcw193.jpeg",
+        "nutrition": {
+            "serving size": "41 grams",
+            "servings per container": "3.5",
+            "calories": "140",
+            "fat": "5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "70 milligrams",
+            "potassium": "100 milligrams",
+            "carbohydrates": "23 grams",
+            "protein": "1 gram"
         }
     }
 

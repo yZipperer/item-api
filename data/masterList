@@ -6,6 +6,9 @@ Categories:
 - dairy
 - water
 - candy
+    - boxed-candy
+    - bar-candy
+    - bagged-candy
 - seafood
 
 Brands:
@@ -38,6 +41,9 @@ Brands:
 - Kraft
 - Campbell's
 - StarKist
+- Whoppers
+- Twizzlers
+- Philadelphia
 
 Items:
 - apple
@@ -119,3 +125,9 @@ Items:
 - StarKist Solid White Albacore Tuna in Water, 12 Ounces
 
 - Campbell's SpaghettiOs with Meatballs
+
+- Whoppers, Malted Milk Chocolate Balls
+
+- Twizzlers, Strawberry Chewy Candy
+
+- Philadelphia Original Cream Cheese, 2 Pack
