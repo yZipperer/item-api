@@ -25,7 +25,8 @@
             "potassium": "195 milligrams",
             "carbohydrates": "25 grams",
             "protein": "0.5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "bannana",
@@ -53,7 +54,8 @@
             "potassium": "422 milligrams",
             "carbohydrates": "27 grams",
             "protein": "1.3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "grape",
@@ -81,7 +83,8 @@
             "potassium": "176 milligrams",
             "carbohydrates": "16 grams",
             "protein": "0.6 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "lemon",
@@ -109,7 +112,8 @@
             "potassium": "80 milligrams",
             "carbohydrates": "5 grams",
             "protein": "0.6 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "grapefruit",
@@ -137,7 +141,8 @@
             "potassium": "166 milligrams",
             "carbohydrates": "13 grams",
             "protein": "0.9 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "cherry",
@@ -165,7 +170,8 @@
             "potassium": "268 milligrams",
             "carbohydrates": "19 grams",
             "protein": "1.6 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "strawberry",
@@ -193,7 +199,8 @@
             "potassium": "18 milligrams",
             "carbohydrates": "0.9 grams",
             "protein": "0.1 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "pineapple",
@@ -221,7 +228,8 @@
             "potassium": "986 milligrams",
             "carbohydrates": "119 grams",
             "protein": "4.9 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "lime",
@@ -249,7 +257,8 @@
             "potassium": "68 milligrams",
             "carbohydrates": "7 grams",
             "protein": "0.5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "apricot",
@@ -277,7 +286,8 @@
             "potassium": "427 milligrams",
             "carbohydrates": "18 grams",
             "protein": "2.3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "avacado",
@@ -305,7 +315,8 @@
             "potassium": "708 milligrams",
             "carbohydrates": "12 grams",
             "protein": "2.9 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Del Monte Fresh Whole Kernel Corn",
@@ -334,7 +345,8 @@
             "potassium": "181 milligrams",
             "carbohydrates": "13 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Del Monte Green Beans",
@@ -363,7 +375,8 @@
             "potassium": "95 milligrams",
             "carbohydrates": "3 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Del Monte Sliced Peaches in 100% Juice",
@@ -392,7 +405,8 @@
             "potassium": "210 milligrams",
             "carbohydrates": "17 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Bush's Black Beans",
@@ -421,7 +435,8 @@
             "potassium": "340 milligrams",
             "carbohydrates": "20 grams",
             "protein": "7 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Hunt's Tomato Sauce",
@@ -450,7 +465,8 @@
             "potassium": "180 milligrams",
             "carbohydrates": "4 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Dole Pineapple Chunks in 100% Pineapple Juice",
@@ -479,7 +495,8 @@
             "potassium": "130 milligrams",
             "carbohydrates": "16 grams",
             "protein": "<1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Rosarita Traditional Refried Beans",
@@ -508,7 +525,8 @@
             "potassium": "360 milligrams",
             "carbohydrates": "15 grams",
             "protein": "5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Manwich Original Sloppy Joe",
@@ -537,7 +555,8 @@
             "potassium": "150 milligrams",
             "carbohydrates": "8 grams",
             "protein": "<1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Chef Boyardee Mini Beef Ravioli",
@@ -566,7 +585,8 @@
             "potassium": "130 milligrams",
             "carbohydrates": "30 grams",
             "protein": "5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Gold Medal All-Purpose Flour",
@@ -595,7 +615,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "23 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "C&H Premium Pure Cane Sugar",
@@ -624,7 +645,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "4 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "C&H Premium Pure Golden Brown Sugar",
@@ -653,7 +675,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "4 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Quaker Oats Old Fashioned Oatmeal",
@@ -682,7 +705,8 @@
             "potassium": "150 milligrams",
             "carbohydrates": "27 grams",
             "protein": "5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Eggland's Best Large White Grade A Eggs, 12 Eggs",
@@ -711,7 +735,8 @@
             "potassium": "70 milligrams",
             "carbohydrates": "0 grams",
             "protein": "6 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Sargento Creamy Cliced Cheddar Cheese, 10 Slices",
@@ -740,7 +765,8 @@
             "potassium": "20 milligrams",
             "carbohydrates": "0 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Meadow Gold Whole Milk",
@@ -769,7 +795,8 @@
             "potassium": "unknown",
             "carbohydrates": "12 grams",
             "protein": "8 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "TruMoo Chocolate Whole Milk",
@@ -798,7 +825,8 @@
             "potassium": "420 milligrams",
             "carbohydrates": "29 grams",
             "protein": "8 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "TruMoo 1% Low-Fat Strawberry Milk",
@@ -827,7 +855,8 @@
             "potassium": "400 milligrams",
             "carbohydrates": "19 grams",
             "protein": "8 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Grandma Sycamore's Home-Maid White Bread",
@@ -856,7 +885,8 @@
             "potassium": "35 milligrams",
             "carbohydrates": "19 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Sara Lee White Bread, 20 Slices",
@@ -885,7 +915,8 @@
             "potassium": "45 milligrams",
             "carbohydrates": "28 grams",
             "protein": "4 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Great Grains Multigran Flax Seed Premium Bread",
@@ -914,7 +945,8 @@
             "potassium": "none",
             "carbohydrates": "24 grams",
             "protein": "5 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Franz Buttermilk Bread",
@@ -943,7 +975,8 @@
             "potassium": "56 milligrams",
             "carbohydrates": "19 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Franz Hoagie Rolls, 6 count",
@@ -972,7 +1005,8 @@
             "potassium": "56 milligrams",
             "carbohydrates": "36 grams",
             "protein": "7 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Franz Hawaiian Rolls, 12 count",
@@ -1001,7 +1035,8 @@
             "potassium": "42 milligrams",
             "carbohydrates": "18 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Sara Lee Sweet Hawaiian Rolls, 12 count",
@@ -1030,7 +1065,8 @@
             "potassium": "30 milligrams",
             "carbohydrates": "19 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count",
@@ -1059,7 +1095,8 @@
             "potassium": "unknown",
             "carbohydrates": "52 grams",
             "protein": "unknown"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Aquafina Purified Water, 32 count",
@@ -1088,7 +1125,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "0 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Nestle Pure Life Purified Water, 32 count",
@@ -1117,7 +1155,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "0 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Crystal Geyser Alpine Spring Water, 1 Gallon",
@@ -1146,7 +1185,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "0 grams",
             "protein": "0 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Dole Celery Stalk",
@@ -1175,7 +1215,8 @@
             "potassium": "263 milligrams",
             "carbohydrates": "3 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Sara Lee Butter Bread, 22 Slices",
@@ -1204,7 +1245,8 @@
             "potassium": "20 milligrams",
             "carbohydrates": "13 grams",
             "protein": "2 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Sara Lee Honey Wheat Bread, 22 Slices",
@@ -1233,7 +1275,8 @@
             "potassium": "25 milligrams",
             "carbohydrates": "13 grams",
             "protein": "2 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Ball Park Classic White Hot Dog Buns, 8-Pack",
@@ -1262,7 +1305,8 @@
             "potassium": "35 milligrams",
             "carbohydrates": "25 grams",
             "protein": "4 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Bolthouse Farms Baby Carrots, 2lb bag",
@@ -1291,7 +1335,8 @@
             "potassium": "270 milligrams",
             "carbohydrates": "8 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
@@ -1320,7 +1365,8 @@
             "potassium": "160 milligrams",
             "carbohydrates": "26 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Yoplait Harvest Peach Yogurt, 1 Cup",
@@ -1349,7 +1395,8 @@
             "potassium": "280 milligrams",
             "carbohydrates": "28 grams",
             "protein": "6 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Kraft Singles American Cheese, 24 Slices",
@@ -1378,7 +1425,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "2 grams",
             "protein": "3 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Campbell's SpaghettiOs with Meatballs",
@@ -1407,7 +1455,8 @@
             "potassium": "320 milligrams",
             "carbohydrates": "31 grams",
             "protein": "11 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Chef Boyardee Spaghetti and Meatballs",
@@ -1436,7 +1485,8 @@
             "potassium": "160 milligrams",
             "carbohydrates": "30 grams",
             "protein": "9 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "StarKist Solid White Albacore Tuna in Water, 12 Ounces",
@@ -1465,7 +1515,8 @@
             "potassium": "150 milligrams",
             "carbohydrates": "0 grams",
             "protein": "19 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Philadelphia Original Cream Cheese, 2 Pack",
@@ -1494,7 +1545,8 @@
             "potassium": "0 milligrams",
             "carbohydrates": "1 gram",
             "protein": "2 grams"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Twizzlers, Strawberry Chewy Candy",
@@ -1523,7 +1575,8 @@
             "potassium": "15 milligrams",
             "carbohydrates": "36 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
     },
     {
         "name": "Whoppers, Malted Milk Chocolate Balls",
@@ -1552,7 +1605,128 @@
             "potassium": "100 milligrams",
             "carbohydrates": "23 grams",
             "protein": "1 gram"
-        }
+        },
+        "ingredients": ""
+    },
+    {
+        "name": "Honey Maid Chocolate Graham Crackers",
+        "id": "fcg194",
+        "category": "crackers",
+        "brand": "Honey Maid",
+        "weight": "14.4 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Honey Maid Chocolate Graham Crackers are made with real chocolate for just the right amount of sweetness to keep you smiling. These square chocolate grahams are ideally sized for packing in lunchboxes, tucking into a picnic basket or serving as party crackers. Each serving of eight sweet crackers contains 8 grams of whole grain and no high fructose corn syrup. Keep these cracker snacks in your desk for an afternoon nibble, or surprise your little one with a special after-school treat.",
+        "price": {
+            "USD": {
+                "default": "3.64",
+                "formatted": "$3.64/each"
+            }
+        },
+        "image": "http://localhost:8080/fcg194.jpeg",
+        "nutrition": {
+            "serving size": "8 crackers",
+            "servings per container": "13",
+            "calories": "130",
+            "fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "180 milligrams",
+            "potassium": "80 milligrams",
+            "carbohydrates": "24 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate {Vitamin B1}, Riboflavin {Vitamin B2}, Folic Acid), Graham Flour (Whole Grain Wheat Flour), Sugar, Canola Oil, Cocoa (Processed With Alkali), Cocoa, Honey, Leavening (Baking Soda And/Or Calcium Phosphate), Chocolate, Salt, Soy Lecithin, Dextrose, Artificial Flavor."
+    },
+    {
+        "name": "Honey Maid Honey Graham Crackers, Family Size",
+        "id": "fcg195",
+        "category": "crackers",
+        "brand": "Honey Maid",
+        "weight": "25.6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Honey Maid Honey Graham Crackers are made with real honey for just the right amount of sweetness to keep you smiling. These square honey grahams are slightly sweet, and each bite of these whole grain snacks delivers a satisfying crunch. Each serving of eight crackers contains 8 grams of whole grain and no high fructose corn syrup. Keep these honey graham crackers in your desk for an afternoon treat or serve these party crackers as an easy dessert. And whether you’re camping or enjoying a fire in the backyard, these snack crackers pair deliciously with chocolate and marshmallows for yummy s'mores.",
+        "price": {
+            "USD": {
+                "default": "4.68",
+                "formatted": "$4.68/each"
+            }
+        },
+        "image": "http://localhost:8080/fcg195.jpeg",
+        "nutrition": {
+            "serving size": "8 crackers",
+            "servings per container": "23",
+            "calories": "130",
+            "fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "160 milligrams",
+            "potassium": "50 milligrams",
+            "carbohydrates": "24 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate {Vitamin B1}, Riboflavin {Vitamin B2}, Folic Acid), Graham Flour (Whole Grain Wheat Flour), Sugar, Canola Oil, Honey, Leavening (Baking Soda And/Or Calcium Phosphate), Salt, Soy Lecithin, Artificial Flavor."
+    },
+    {
+        "name": "Lay's Classic Potato Chips",
+        "id": "fcp196",
+        "category": "chips",
+        "brand": "Lay's",
+        "weight": "8 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "It all starts with farm-grown potatoes, cooked and seasoned to perfection. So every LAY'S potato chip is perfectly crispy and full of fresh potato taste. Happiness in Every Bite.",
+        "price": {
+            "USD": {
+                "default": "2.94",
+                "formatted": "$2.94/each"
+            }
+        },
+        "image": "http://localhost:8080/fcp196.jpeg",
+        "nutrition": {
+            "serving size": "15 chips",
+            "servings per container": "8",
+            "calories": "160",
+            "fat": "10 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "170 milligrams",
+            "potassium": "350 milligrams",
+            "carbohydrates": "15 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Potatoes, Vegetable Oil (Sunflower, Corn and/or Canola Oil), and Salt."
+    },
+    {
+        "name": "Lay's Salt and Vinegar Potato Chips",
+        "id": "fcp197",
+        "category": "chips",
+        "brand": "Lay's",
+        "weight": "7.75 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "It all starts with farm-grown potatoes, cooked and seasoned to perfection. So every LAY'S potato chip is perfectly crispy and full of fresh potato taste. Happiness in Every Bite.",
+        "price": {
+            "USD": {
+                "default": "2.94",
+                "formatted": "$2.94/each"
+            }
+        },
+        "image": "http://localhost:8080/fcp197.jpeg",
+        "nutrition": {
+            "serving size": "17 chips",
+            "servings per container": "8",
+            "calories": "150",
+            "fat": "10 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "220 milligrams",
+            "potassium": "330 milligrams",
+            "carbohydrates": "15 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Potatoes, Vegetable Oil (Sunflower, Corn and/or Canola Oil), Salt & Vinegar Seasoning (Maltodextrin (Made from Corn), Natural Flavors, Salt, Malic Acid, and Vinegar)."
     }
 
 
