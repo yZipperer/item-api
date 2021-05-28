@@ -4,13 +4,13 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 51 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 54 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 51 total items
-    * 8 categories
-    * $106.06 worth of products
-    * 60,951 total calories
+    * 54 total items
+    * 11 categories
+    * $113.11 worth of products
+    * 66,241 total calories
 
   ### Contents
     * price data in USD
@@ -20,8 +20,8 @@
     * desired temperatures
     * names
     * unique ids
-    * 28 different brands
-    * 51 products including:
+    * 31 different brands
+    * 54 products including:
       * produce
       * canned items
         * canned vegetables
@@ -42,6 +42,8 @@
         * bottled
       * candy
         * candy bars
+        * boxed candy
+        * bagged candy
       * seafood
         * tuna
 
@@ -104,6 +106,9 @@
     * dry goods
     * water
     * candy
+      * bar-candy
+      * boxed-candy
+      * bagged-candy
     * seafood
 
   Available Brands:
@@ -136,6 +141,9 @@
     * Kraft
     * Campbell's
     * StarKist
+    * Whoppers
+    * Twizzlers
+    * Philadelphia
 ```
 
   For a more comprehensive list see the masterList in the data folder.
