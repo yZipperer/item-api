@@ -4,13 +4,13 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 54 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 58 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 54 total items
-    * 11 categories
-    * $113.11 worth of products
-    * 66,241 total calories
+    * 58 total items
+    * 13 categories
+    * $127.31 worth of products
+    * 73,401 total calories
 
   ### Contents
     * price data in USD
@@ -19,33 +19,23 @@
     * descriptions
     * desired temperatures
     * names
+    * ingredients
     * unique ids
-    * 31 different brands
-    * 54 products including:
+    * 33 different brands
+    * 58 products including:
       * produce
       * canned items
-        * canned vegetables
-        * canned fruits
-        * canned meats
       * dry goods
-        * flour
-        * sugar
-        * oats
       * dairy
-        * cheese
-        * eggs
-        * milk
       * bakery
-        * bread
-        * rolls
       * water
-        * bottled
       * candy
         * candy bars
         * boxed candy
         * bagged candy
       * seafood
-        * tuna
+      * chips
+      * crackers
 
 ## Requirements
 
@@ -110,6 +100,8 @@
       * boxed-candy
       * bagged-candy
     * seafood
+    * crackers
+    * chips
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -144,6 +136,8 @@
     * Whoppers
     * Twizzlers
     * Philadelphia
+    * Honey Maid
+    * Lay's
 ```
 
   For a more comprehensive list see the masterList in the data folder.
