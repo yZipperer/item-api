@@ -36,10 +36,14 @@ Categories:
 - seafood
     - tuna
 - crackers
+    - cheddar-crackers
+- cookies
+    - chocolate-cookies
 - chips
 - (flavors)
     - strawberry
     - chocolate
+    - vanilla
 - pasta
     - ravioli
 
@@ -78,6 +82,15 @@ Brands:
 - Philadelphia
 - Honey Maid
 - Lay's
+- Nabisco
+    - Ritz
+    - Chips Ahoy!
+    - Nilla
+- Cheez-It
+- Kellogg's
+    - Club
+- Pepperidge Farm
+    - Goldfish
 
 Items:
 - apple
@@ -171,3 +184,15 @@ Items:
 
 - Lay's Classic Potato Chips
 - Lay's Salt and Vinegar Potato Chips
+
+- RITZ Crackers
+
+- Chips Ahoy! Original Chocolate Chip Cookies, Family Size
+
+- Cheez-It Baked Snack Crackers, Original
+
+- Kellogg's Club Crackers, Original
+
+- Nilla Vanilla Wafer Cookies
+
+- Pepperidge Farm Goldfish Cheddar Crackers

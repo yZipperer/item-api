@@ -1727,6 +1727,186 @@
             "protein": "2 grams"
         },
         "ingredients": "Potatoes, Vegetable Oil (Sunflower, Corn and/or Canola Oil), Salt & Vinegar Seasoning (Maltodextrin (Made from Corn), Natural Flavors, Salt, Malic Acid, and Vinegar)."
+    },
+    {
+        "name": "RITZ Crackers",
+        "id": "fcr198",
+        "category": "crackers",
+        "brand": ["Nabisco", "Ritz"],
+        "weight": "13.7 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "RITZ Original Crackers have a rich, buttery flavor that's perfect for pairing, topping or enjoying on its own. Whether it’s a formal event or a gathering of friends, these tasty round crackers are an ideal snack food, appetizer or quick meal for any occasion. RITZ salted crackers have a classic taste to provide a creative canvas to pair with any variety of toppings. Take your picnic to the next level by making RITZ pulled pork bites, topped with coleslaw, barbecue pork and a slice of jalapeno, or layer peanut butter, jelly or both between two crispy RITZ snack crackers for a special lunch treat.",
+        "price": {
+            "USD": {
+                "default": "2.94",
+                "formatted": "$2.94/each"
+            }
+        },
+        "image": "http://localhost:8080/fcr198.jpeg",
+        "nutrition": {
+            "serving size": "5 crackers",
+            "servings per container": "24",
+            "calories": "80",
+            "fat": "4.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "105 milligrams",
+            "potassium": "15 milligrams",
+            "carbohydrates": "10 grams",
+            "protein": "1 gram"
+        },
+        "ingredients": "Ingredients:  Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate {Vitamin B1}, Riboflavin {Vitamin B2}, Folic Acid), Canola Oil, Palm Oil, Sugar, Salt, Leavening (Calcium Phosphate, Baking Soda), High Fructose Corn Syrup, Soy Lecithin, Natural Flavor.Contains:  Wheat, Soy."
+    },
+    {
+        "name": "Chips Ahoy! Original Chocolate Chip Cookies, Family Size",
+        "id": "fcc199",
+        "category": ["cookies", "chocolate", "chocolate-cookies"],
+        "brand": ["Nabisco", "Chips Ahoy!"],
+        "weight": "18.2 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "CHIPS AHOY! Original Chocolate Chip Cookies are the CHIPS AHOY! cookies you know and love, baked to have the perfect amount of crunch. These crispy chocolate chip cookies are loaded with lots of real chocolate chips to make delicious sweet treats or party favors. Enjoy the comforting taste of these classic cookies that are sure to become a household favorite. Make lunches at school or work more exciting by including CHIPS AHOY! chocolate chip cookies, or grab a pack to prep for a party or gathering.",
+        "price": {
+            "USD": {
+                "default": "3.67",
+                "formatted": "$3.67/each"
+            }
+        },
+        "image": "http://localhost:8080/fcc199.jpeg",
+        "nutrition": {
+            "serving size": "3 cookies",
+            "servings per container": "16",
+            "calories": "160",
+            "fat": "8 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "110 milligrams",
+            "potassium": "40 milligrams",
+            "carbohydrates": "22 grams",
+            "protein": "1 gram"
+        },
+        "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate {Vitamin B1}, Riboflavin {Vitamin B2}, Folic Acid), Semisweet Chocolate Chips (Sugar, Chocolate, Cocoa Butter, Dextrose, Milk, Soy Lecithin), Sugar, Canola Oil, Palm Oil, High Fructose Corn Syrup, Leavening (Baking Soda, Ammonium Phosphate), Salt, Artificial Flavor, Caramel Color, Natural Flavor."
+    },
+    {
+        "name": "Cheez-It Baked Snack Crackers, Original",
+        "id": "fcc200",
+        "category": ["crackers", "cheddar-crackers"],
+        "brand": "Cheez-It",
+        "weight": "12.4 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Cheez-It Original Cheesy Baked Snack Crackers make snack time more fun and delicious with cheesy, bite-sized crackers baked to crunchy perfection. Made with carefully aged 100% real cheese, these Cheez-It baked snack crackers offer irresistible flavor in every crunchy bite. Featuring their famous square shape with a hole in the middle, these cheese baked crackers are perfect as football party food for the big game, party snacks, kids crackers or salty snacks on the go.",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fcc200.jpeg",
+        "nutrition": {
+            "serving size": "30 grams",
+            "servings per container": "12",
+            "calories": "150",
+            "fat": "8 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "230 milligrams",
+            "potassium": "30 milligrams",
+            "carbohydrates": "17 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Enriched flour (wheat flour, niacin, reduced iron, vitamin b1 [thiamin mononitrate], vitamin b2 [riboflavin], folic acid), vegetable oil (high oleic soybean, soybean, palm, and/or canola oil with tbhq for freshness), cheese made with skim milk (skim milk, whey protein, salt, cheese cultures, enzymes, annatto extract color).contains 2% or less of salt, paprika, yeast, paprika extract color, soy lecithin."
+    },
+    {
+        "name": "Kellogg's Club Crackers, Original",
+        "id": "fcc201",
+        "category": "crackers",
+        "brand": ["Kellogg's", "Club"],
+        "weight": "13.7 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The Perfect Crackers for happy snackers. Slicing apples? Spreading cheese? No topping's complete without its cracker. With a buttery and flaky texture, Club® makes any pairing a party - and you're invited.",
+        "price": {
+            "USD": {
+                "default": "2.88",
+                "formatted": "$2.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fcc201.jpeg",
+        "nutrition": {
+            "serving size": "4 crackers (14 grams)",
+            "servings per container": "28",
+            "calories": "70",
+            "fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "125 milligrams",
+            "potassium": "10 milligrams",
+            "carbohydrates": "9 grams",
+            "protein": "1 gram"
+        },
+        "ingredients": "Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 [Thiamin Mononitrate], Vitamin B2 [Riboflavin], Folic Acid), Soybean Oil (with TBHQ for freshness), Sugar, Contains 2% or less of Salt, High Fructose Corn Syrup, Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Corn Syrup, Soy Lecithin"
+    },
+    {
+        "name": "Nilla Vanilla Wafer Cookies",
+        "id": "fcv202",
+        "category": ["crackers", "vanilla"],
+        "brand": ["Nabisco", "Nilla"],
+        "weight": "11 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "With Nilla Wafers Vanilla Wafer Cookies, the dessert possibilities are endless. These crispy, thin cookies are perfect for dunking in sweet dips, crushing atop banana pudding, or creating mini ice cream sandwiches. These vanilla cookies make delicious sweet snacks, perfect for enjoying on the go or in the comfort of your own home. Whether you're in the mood for something sweet to pair with your afternoon tea, or preparing a homemade dessert for a family get together, Vanilla Wafers are always a delicious option. This 11 oz box is ideal for sharing at home or the office.",
+        "price": {
+            "USD": {
+                "default": "3.74",
+                "formatted": "$3.74/each"
+            }
+        },
+        "image": "http://localhost:8080/fcv202.jpeg",
+        "nutrition": {
+            "serving size": "8 wafers (30 grams)",
+            "servings per container": "10",
+            "calories": "140",
+            "fat": "6 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "115 milligrams",
+            "potassium": "30 milligrams",
+            "carbohydrates": "21 grams",
+            "protein": "1 gram"
+        },
+        "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate Vitamin B1, Riboflavin Vitamin B2, Folic Acid), Sugar, Canola Oil, Palm Oil, High Fructose Corn Syrup, Whey (From Milk), Eggs, Salt, Leavening (Baking Soda, Calcium Phosphate), Emulsifiers (Mono- And Diglycerides, Soy Lecithin), Artificial Flavor, Natural Flavor."
+    },
+    {
+        "name": "Pepperidge Farm Goldfish Cheddar Crackers",
+        "id": "fcc203",
+        "category": ["crackers", "cheddar-crackers"],
+        "brand": ["Pepperidge Farm", "Goldfish"],
+        "weight": "6.6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The Snack that Smiles Back: with Goldfish crackers, the smiles come naturally. Baked with 100% real cheddar cheese, Goldfish Cheddar crackers are a snack the whole family will adore with no artificial flavors or preservatives. For Pepperidge Farm, baking is more than a job. It's a real passion. Each day, the Pepperidge Farm bakers take the time to make every cookie, pastry, cracker and loaf of bread the best way they know how by using simple, quality ingredients.",
+        "price": {
+            "USD": {
+                "default": "1.96",
+                "formatted": "$1.96/each"
+            }
+        },
+        "image": "http://localhost:8080/fcc203.jpeg",
+        "nutrition": {
+            "serving size": "85 pieces (30 grams)",
+            "servings per container": "6",
+            "calories": "140",
+            "fat": "5 grams",
+            "cholesterol": "10 milligrams",
+            "sodium": "250 milligrams",
+            "potassium": "50 milligrams",
+            "carbohydrates": "20 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Made With Smiles And Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Cheddar Cheese ([Cultured Milk, Salt, Enzymes], Annatto), Vegetable Oils (Canola, Sunflower And/Or Soybean), Salt, Contains 2% Or Less Of: Yeast, Sugar, Autolyzed Yeast Extract, Paprika, Spices, Celery, Onion Powder, Monocalcium Phosphate, Baking Soda. Contains: Wheat, Milk."
     }
 
 
