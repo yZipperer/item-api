@@ -4,14 +4,14 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 58 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 64 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 58 total items
-    * 42 categories
-    * 33 different brands
-    * $127.31 worth of products
-    * 73,401 total calories
+    * 64 total items
+    * 46 categories
+    * 42 different brands
+    * $145.38 worth of products
+    * 83,881 total calories
 
   ### Contents
     * price data in USD
@@ -22,8 +22,8 @@
     * names
     * ingredients
     * unique ids
-    * 33 different brands
-    * 58 products including:
+    * 42 different brands
+    * 64 products including:
       * produce
       * bakery
           * sliced-bread
@@ -61,10 +61,14 @@
       * seafood
           * tuna
       * crackers
+        * cheddar-crackers
+      * cookies
+          * chocolate-cookies
       * chips
       * (flavors)
           * strawberry
           * chocolate
+          * vanilla
       * pasta
           * ravioli
 
@@ -157,10 +161,14 @@
       * seafood
           * tuna
       * crackers
+        * cheddar-crackers
+      * cookies
+          * chocolate-cookies
       * chips
       * (flavors)
           * strawberry
           * chocolate
+          * vanilla
       * pasta
           * ravioli
 
@@ -199,6 +207,15 @@
     * Philadelphia
     * Honey Maid
     * Lay's
+    * Nabisco
+      * Ritz
+      * Chips Ahoy!
+      * Nilla
+    * Cheez-It
+    * Kellogg's
+        * Club
+    * Pepperidge Farm
+        * Goldfish
 ```
 
   For a more comprehensive list see the masterList in the data folder.
