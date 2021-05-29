@@ -8,7 +8,8 @@
   
   ### By the Numbers:
     * 58 total items
-    * 13 categories
+    * 42 categories
+    * 33 different brands
     * $127.31 worth of products
     * 73,401 total calories
 
