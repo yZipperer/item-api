@@ -321,7 +321,7 @@
     {
         "name": "Del Monte Fresh Whole Kernel Corn",
         "id": "fcc148",
-        "category": "canned",
+        "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "15.25 oz",
         "hot": false,
@@ -351,7 +351,7 @@
     {
         "name": "Del Monte Green Beans",
         "id": "fcb149",
-        "category": "canned",
+        "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "14.5 oz",
         "hot": false,
@@ -381,7 +381,7 @@
     {
         "name": "Del Monte Sliced Peaches in 100% Juice",
         "id": "fcp150",
-        "category": "canned",
+        "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "15 oz",
         "hot": false,
@@ -411,7 +411,7 @@
     {
         "name": "Bush's Black Beans",
         "id": "fcb151",
-        "category": "canned",
+        "category": ["canned", "canned-produce"],
         "brand": "Bush's",
         "weight": "15 oz",
         "hot": false,
@@ -471,7 +471,7 @@
     {
         "name": "Dole Pineapple Chunks in 100% Pineapple Juice",
         "id": "fcp152",
-        "category": "canned",
+        "category": ["canned", "canned-produce"],
         "brand": "Dole",
         "weight": "20 oz",
         "hot": false,
@@ -561,7 +561,7 @@
     {
         "name": "Chef Boyardee Mini Beef Ravioli",
         "id": "fcr158",
-        "category": "canned",
+        "category": ["canned", "ravioli"],
         "brand": "Chef Boyardee",
         "weight": "15 oz",
         "hot": false,
@@ -591,7 +591,7 @@
     {
         "name": "Gold Medal All-Purpose Flour",
         "id": "fdf160",
-        "category": "dry goods",
+        "category": ["dry-goods", "flour"],
         "brand": "Gold Medal",
         "weight": "10 pounds",
         "hot": false,
@@ -621,7 +621,7 @@
     {
         "name": "C&H Premium Pure Cane Sugar",
         "id": "fds161",
-        "category": "dry goods",
+        "category": ["dry-goods", "sugar"],
         "brand": "C&H",
         "weight": "4 pounds",
         "hot": false,
@@ -651,7 +651,7 @@
     {
         "name": "C&H Premium Pure Golden Brown Sugar",
         "id": "fds162",
-        "category": "dry goods",
+        "category": ["dry-goods", "sugar"],
         "brand": "C&H",
         "weight": "2 pounds",
         "hot": false,
@@ -681,7 +681,7 @@
     {
         "name": "Quaker Oats Old Fashioned Oatmeal",
         "id": "fdo163",
-        "category": "dry goods",
+        "category": ["dry-goods", "oats"],
         "brand": "Quaker",
         "weight": "42 ounces",
         "hot": false,
@@ -711,7 +711,7 @@
     {
         "name": "Eggland's Best Large White Grade A Eggs, 12 Eggs",
         "id": "fde164",
-        "category": "dairy",
+        "category": ["dairy", "eggs"],
         "brand": "Eggland's Best",
         "weight": "unknown",
         "hot": false,
@@ -741,7 +741,7 @@
     {
         "name": "Sargento Creamy Sliced Cheddar Cheese, 10 Slices",
         "id": "fdc165",
-        "category": "dairy",
+        "category": ["dairy", "cheese", "sliced-cheese"],
         "brand": "Sargento",
         "weight": "unknown",
         "hot": false,
@@ -771,7 +771,7 @@
     {
         "name": "Meadow Gold Whole Milk",
         "id": "fdm166",
-        "category": "dairy",
+        "category": ["dairy", "milk", "whole-milk"],
         "brand": "Meadow Gold",
         "weight": "1 gallon",
         "hot": false,
@@ -831,7 +831,7 @@
     {
         "name": "TruMoo 1% Low-Fat Strawberry Milk",
         "id": "fdm168",
-        "category": ["dairy", "milk", "strawberry"],
+        "category": ["dairy", "milk", "strawberry", "1-percent-milk"],
         "brand": "TruMoo",
         "weight": "1 pint",
         "hot": false,
@@ -861,7 +861,7 @@
     {
         "name": "Grandma Sycamore's Home-Maid White Bread",
         "id": "fbb169",
-        "category": ["bakery", "sliced-bread"],
+        "category": ["bakery", "sliced-bread", "white-bread"],
         "brand": "Grandma Sycamore's",
         "weight": "24 ounces",
         "hot": false,
@@ -891,7 +891,7 @@
     {
         "name": "Sara Lee White Bread, 20 Slices",
         "id": "fbb170",
-        "category": ["bakery", "sliced-bread"],
+        "category": ["bakery", "sliced-bread", "white-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
         "hot": false,
@@ -919,9 +919,9 @@
         "ingredients": "Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Whole Grain Wheat Flour, Sugar, Yeast, Wheat Gluten, Calcium Sulfate, Modified Wheat Starch, Cellulose Fiber, Salt, Soybean Oil, Calcium Propionate (Preservative), Grain Vinegar, Datem, Monoglycerides, Monocalcium Phosphate, Soy Lecithin, Ferrous Sulfate, Citric Acid, Vitamin D3."
     },
     {
-        "name": "Great Grains Multigran Flax Seed Premium Bread",
+        "name": "Great Grains Multigrain Flax Seed Premium Bread",
         "id": "fbb171",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread", "multigrain-bread"],
         "brand": "Great Grains",
         "weight": "24 ounces",
         "hot": false,
@@ -951,7 +951,7 @@
     {
         "name": "Franz Buttermilk Bread",
         "id": "fbb172",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread", "buttermilk-bread"],
         "brand": "Franz",
         "weight": "24 ounces",
         "hot": false,
@@ -981,7 +981,7 @@
     {
         "name": "Franz Hoagie Rolls, 6 count",
         "id": "fbb173",
-        "category": "bakery",
+        "category": ["bakery", "rolls-bread", "hoagie"],
         "brand": "Franz",
         "weight": "16 ounces",
         "hot": false,
@@ -1011,7 +1011,7 @@
     {
         "name": "Franz Hawaiian Rolls, 12 count",
         "id": "fbr174",
-        "category": "bakery",
+        "category": ["bakery", "rolls-bread", "hawaiian-bread"],
         "brand": "Franz",
         "weight": "16 ounces",
         "hot": false,
@@ -1041,7 +1041,7 @@
     {
         "name": "Sara Lee Sweet Hawaiian Rolls, 12 count",
         "id": "fbr175",
-        "category": "bakery",
+        "category": ["bakery", "rolls-bread", "hawaiian-bread"],
         "brand": "Sara Lee",
         "weight": "16 ounces",
         "hot": false,
@@ -1071,7 +1071,7 @@
     {
         "name": "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count",
         "id": "fbr176",
-        "category": "bakery",
+        "category": ["bakery", "rolls-bread", "hoagie"],
         "brand": "Great Grains",
         "weight": "24 ounces",
         "hot": false,
@@ -1101,7 +1101,7 @@
     {
         "name": "Aquafina Purified Water, 32 count",
         "id": "fwa177",
-        "category": "water",
+        "category": ["water", "bottled-water", "case-water"],
         "brand": "Aquafina",
         "weight": "16.9 fl oz/bottle",
         "hot": false,
@@ -1131,7 +1131,7 @@
     {
         "name": "Nestle Pure Life Purified Water, 32 count",
         "id": "fwn186",
-        "category": "water",
+        "category": ["water", "bottled-water", "case-water"],
         "brand": "Nestle",
         "weight": "16.9 fl oz/bottle",
         "hot": false,
@@ -1161,7 +1161,7 @@
     {
         "name": "Crystal Geyser Alpine Spring Water, 1 Gallon",
         "id": "fwc185",
-        "category": "water",
+        "category": ["water", "bottled-water", "jug-water"],
         "brand": "Crystal Geyser",
         "weight": "1 gallon",
         "hot": false,
@@ -1221,7 +1221,7 @@
     {
         "name": "Sara Lee Butter Bread, 22 Slices",
         "id": "fbb179",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread", "butter-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
         "hot": false,
@@ -1251,7 +1251,7 @@
     {
         "name": "Sara Lee Honey Wheat Bread, 22 Slices",
         "id": "fbb180",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread", "wheat-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
         "hot": false,
@@ -1281,7 +1281,7 @@
     {
         "name": "Ball Park Classic White Hot Dog Buns, 8-Pack",
         "id": "fbb181",
-        "category": "bakery",
+        "category": ["bread", "rolls-bread"],
         "brand": "Ball Park",
         "weight": "13 ounces",
         "hot": false,
@@ -1341,7 +1341,7 @@
     {
         "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
         "id": "fcc183",
-        "category": ["candy", "bar-candy"],
+        "category": ["candy", "bar-candy", "chocolate"],
         "brand": "Hershey's",
         "weight": "1.55 oz/bar",
         "hot": false,
@@ -1371,7 +1371,7 @@
     {
         "name": "Yoplait Harvest Peach Yogurt, 1 Cup",
         "id": "fdy184",
-        "category": "dairy",
+        "category": ["dairy", "yogurt"],
         "brand": "Yoplait",
         "weight": "6 ounces",
         "hot": false,
@@ -1401,7 +1401,7 @@
     {
         "name": "Kraft Singles American Cheese, 24 Slices",
         "id": "fdc187",
-        "category": "dairy",
+        "category": ["dairy", "sliced-cheese"],
         "brand": "Kraft",
         "weight": "16 ounces",
         "hot": false,
@@ -1431,7 +1431,7 @@
     {
         "name": "Campbell's SpaghettiOs with Meatballs",
         "id": "fcp188",
-        "category": "canned",
+        "category": ["canned", "pasta"],
         "brand": "Campbell's",
         "weight": "15.6 ounces",
         "hot": false,
@@ -1461,7 +1461,7 @@
     {
         "name": "Chef Boyardee Spaghetti and Meatballs",
         "id": "fcp189",
-        "category": "canned",
+        "category": ["canned", "pasta"],
         "brand": "Chef Boyardee",
         "weight": "14.5 ounces",
         "hot": false,
@@ -1491,7 +1491,7 @@
     {
         "name": "StarKist Solid White Albacore Tuna in Water, 12 Ounces",
         "id": "fcs190",
-        "category": ["canned", "seafood"],
+        "category": ["canned", "seafood", "tuna"],
         "brand": "StarKist",
         "weight": "12 ounces",
         "hot": false,
@@ -1521,7 +1521,7 @@
     {
         "name": "Philadelphia Original Cream Cheese, 2 Pack",
         "id": "fdc191",
-        "category": "dairy",
+        "category": ["dairy", "cheese", "cream-cheese"],
         "brand": "Philadelphia",
         "weight": "16 ounces, 8 ounces/brick",
         "hot": false,
@@ -1551,7 +1551,7 @@
     {
         "name": "Twizzlers, Strawberry Chewy Candy",
         "id": "fct192",
-        "category": ["candy", "bagged-candy"],
+        "category": ["candy", "bagged-candy", "strawberry"],
         "brand": "Twizzlers",
         "weight": "16 ounces",
         "hot": false,
@@ -1581,7 +1581,7 @@
     {
         "name": "Whoppers, Malted Milk Chocolate Balls",
         "id": "fcw193",
-        "category": ["candy", "boxed-candy"],
+        "category": ["candy", "boxed-candy", "chocolate"],
         "brand": "Whoppers",
         "weight": "5 ounces",
         "hot": false,
@@ -1611,7 +1611,7 @@
     {
         "name": "Honey Maid Chocolate Graham Crackers",
         "id": "fcg194",
-        "category": "crackers",
+        "category": ["crackers", "chocolate"],
         "brand": "Honey Maid",
         "weight": "14.4 ounces",
         "hot": false,

@@ -1,17 +1,47 @@
 Categories:
 - produce
 - bakery
-- dry goods
+    - sliced-bread
+    - white-bread
+    - multigrain-bread
+    - buttermilk-bread
+    - butter-bread
+    - hawaiian-bread
+    - wheat-bread
+    - rolls-bread
+    - hoagie
+- dry-goods
+    - flour
+    - sugar
+    - oats
 - canned
+    - canned-produce
 - dairy
+    - milk
+        - whole-milk
+        - 1-percent-milk
+    - Eggs
+    - cheese
+        - sliced-cheese
+        - cream-cheese
+    - yogurt
 - water
+    - bottled-water
+    - case-water
+    - jug-water
 - candy
     - boxed-candy
     - bar-candy
     - bagged-candy
 - seafood
+    - tuna
 - crackers
 - chips
+- (flavors)
+    - strawberry
+    - chocolate
+- pasta
+    - ravioli
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -108,7 +138,7 @@ Items:
 - Franz Hawaiian Rolls, 12 count
 
 - Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count
-- Great Grains Multigran Flax Seed Premium Bread
+- Great Grains Multigrain Flax Seed Premium Bread
 
 - Aquafina Purified Water, 32 count
 

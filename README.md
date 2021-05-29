@@ -24,18 +24,48 @@
     * 33 different brands
     * 58 products including:
       * produce
-      * canned items
-      * dry goods
-      * dairy
       * bakery
+          * sliced-bread
+          * white-bread
+          * multigrain-bread
+          * buttermilk-bread
+          * butter-bread
+          * hawaiian-bread
+          * wheat-bread
+          * rolls-bread
+          * hoagie
+      * dry-goods
+          * flour
+          * sugar
+          * oats
+      * canned
+          * canned-produce
+      * dairy
+          * milk
+              * whole-milk
+              * 1-percent-milk
+          * Eggs
+          * cheese
+              * sliced-cheese
+              * cream-cheese
+          * yogurt
       * water
+          * bottled-water
+          * case-water
+          * jug-water
       * candy
-        * candy bars
-        * boxed candy
-        * bagged candy
+          * boxed-candy
+          * bar-candy
+          * bagged-candy
       * seafood
-      * chips
+          * tuna
       * crackers
+      * chips
+      * (flavors)
+          * strawberry
+          * chocolate
+      * pasta
+          * ravioli
 
 ## Requirements
 
@@ -89,19 +119,49 @@
 
 ```
   Available Categories:
-    * bakery
-    * dairy
-    * canned
     * produce
-    * dry goods
-    * water
-    * candy
-      * bar-candy
-      * boxed-candy
-      * bagged-candy
-    * seafood
-    * crackers
-    * chips
+      * bakery
+          * sliced-bread
+          * white-bread
+          * multigrain-bread
+          * buttermilk-bread
+          * butter-bread
+          * hawaiian-bread
+          * wheat-bread
+          * rolls-bread
+          * hoagie
+      * dry-goods
+          * flour
+          * sugar
+          * oats
+      * canned
+          * canned-produce
+      * dairy
+          * milk
+              * whole-milk
+              * 1-percent-milk
+          * Eggs
+          * cheese
+              * sliced-cheese
+              * cream-cheese
+          * yogurt
+      * water
+          * bottled-water
+          * case-water
+          * jug-water
+      * candy
+          * boxed-candy
+          * bar-candy
+          * bagged-candy
+      * seafood
+          * tuna
+      * crackers
+      * chips
+      * (flavors)
+          * strawberry
+          * chocolate
+      * pasta
+          * ravioli
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
