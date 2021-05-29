@@ -436,7 +436,7 @@
             "carbohydrates": "20 grams",
             "protein": "7 grams"
         },
-        "ingredients": ""
+        "ingredients": "Prepared Black Beans, Water, Salt."
     },
     {
         "name": "Hunt's Tomato Sauce",
@@ -466,7 +466,7 @@
             "carbohydrates": "4 grams",
             "protein": "1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Tomato Puree (Water, Tomato Paste), Water, Less than 2% of: Salt, Citric Acid, Onion Powder, Garlic Powder, Red Pepper."
     },
     {
         "name": "Dole Pineapple Chunks in 100% Pineapple Juice",
@@ -496,7 +496,7 @@
             "carbohydrates": "16 grams",
             "protein": "<1 gram"
         },
-        "ingredients": ""
+        "ingredients": "PINEAPPLE, PINEAPPLE JUICE, AND CLARIFIED PINEAPPLE JUICE FROM CONCENTRATE (WATER, CLARIFIED PINEAPPLE JUICE CONCENTRATE)."
     },
     {
         "name": "Rosarita Traditional Refried Beans",
@@ -526,7 +526,7 @@
             "carbohydrates": "15 grams",
             "protein": "5 grams"
         },
-        "ingredients": ""
+        "ingredients": "Cooked Beans, Water, Less than 2% of: Lard, Salt, Distilled Vinegar, Chili Pepper, Onion Powder, Spices, Natural Flavor, Garlic Powder. MAY CONTAIN: SOY."
     },
     {
         "name": "Manwich Original Sloppy Joe",
@@ -556,7 +556,7 @@
             "carbohydrates": "8 grams",
             "protein": "<1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Tomato Puree (Water, Tomato Paste), High Fructose Corn Syrup, Distilled Vinegar, Corn Syrup, Less than 2% of: Salt, Sugar, Carrot Fiber, Dried Green and Red Bell Peppers, Chili Pepper, Guar Gum, Spices, Xanthan Gum, Dried Garlic, Natural Flavors, Citric Acid."
     },
     {
         "name": "Chef Boyardee Mini Beef Ravioli",
@@ -586,7 +586,7 @@
             "carbohydrates": "30 grams",
             "protein": "5 grams"
         },
-        "ingredients": ""
+        "ingredients": "Tomatoes (Tomato Puree, Water), Water, Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Folic Acid), Beef, Crackermeal (Enriched Wheat Flour [Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], May Contain Guar Gum), LESS THAN 2% OF: High Fructose Corn Syrup, Salt, Textured Vegetable Protein (Soy Protein Concentrate, Caramel Color), Modified Corn Starch, Soybean Oil, Carrots, Caramel Color, Citric Acid, Flavorings, Enzyme Modified Cheese (Cheddar Cheese [Pasteurized Milk, Cultures, Salt, Enzymes], Cream, Water, Salt, Sodium Phosphate, Xanthan Gum, Carotenal [Color]). CONTAINS: MILK, SOY, WHEAT"
     },
     {
         "name": "Gold Medal All-Purpose Flour",
@@ -616,7 +616,7 @@
             "carbohydrates": "23 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "BLEACHED WHEAT FLOUR, NIACIN (A B VITAMIN), IRON, THIAMINE MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), ENZYMES, FOLIC ACID (A B VITAMIN)."
     },
     {
         "name": "C&H Premium Pure Cane Sugar",
@@ -646,7 +646,7 @@
             "carbohydrates": "4 grams",
             "protein": "0 grams"
         },
-        "ingredients": ""
+        "ingredients": "Sugar."
     },
     {
         "name": "C&H Premium Pure Golden Brown Sugar",
@@ -676,7 +676,7 @@
             "carbohydrates": "4 grams",
             "protein": "0 grams"
         },
-        "ingredients": ""
+        "ingredients": "Brown Sugar"
     },
     {
         "name": "Quaker Oats Old Fashioned Oatmeal",
@@ -706,7 +706,7 @@
             "carbohydrates": "27 grams",
             "protein": "5 grams"
         },
-        "ingredients": ""
+        "ingredients": "100 Natural Whole Grain Quaker Quality Rolled Oats"
     },
     {
         "name": "Eggland's Best Large White Grade A Eggs, 12 Eggs",
@@ -736,10 +736,10 @@
             "carbohydrates": "0 grams",
             "protein": "6 grams"
         },
-        "ingredients": ""
+        "ingredients": "Eggs."
     },
     {
-        "name": "Sargento Creamy Cliced Cheddar Cheese, 10 Slices",
+        "name": "Sargento Creamy Sliced Cheddar Cheese, 10 Slices",
         "id": "fdc165",
         "category": "dairy",
         "brand": "Sargento",
@@ -766,7 +766,7 @@
             "carbohydrates": "0 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Pasteurized Milk, Pasteurized Cream, Cheese Culture, Salt, Enzymes, Annatto (Vegetable Color)"
     },
     {
         "name": "Meadow Gold Whole Milk",
@@ -796,12 +796,12 @@
             "carbohydrates": "12 grams",
             "protein": "8 grams"
         },
-        "ingredients": ""
+        "ingredients": "INGREDIENTS: MILK, VITAMIN D3"
     },
     {
         "name": "TruMoo Chocolate Whole Milk",
         "id": "fdm167",
-        "category": "dairy",
+        "category": ["dairy", "milk", "chocolate"],
         "brand": "TruMoo",
         "weight": "1/2 gallon (64 ounces)",
         "hot": false,
@@ -826,12 +826,12 @@
             "carbohydrates": "29 grams",
             "protein": "8 grams"
         },
-        "ingredients": ""
+        "ingredients": "Ingredients: Milk, liquid sugar (sugar, water), contains less than 1% of cocoa (processed with alkali), cocoa, cornstarch, salt, carrageenan, natural flavor, nonfat milk, vitamin D3."
     },
     {
         "name": "TruMoo 1% Low-Fat Strawberry Milk",
         "id": "fdm168",
-        "category": "dairy",
+        "category": ["dairy", "milk", "strawberry"],
         "brand": "TruMoo",
         "weight": "1 pint",
         "hot": false,
@@ -856,12 +856,12 @@
             "carbohydrates": "19 grams",
             "protein": "8 grams"
         },
-        "ingredients": ""
+        "ingredients": "Lowfat Milk, Sugar, Contains Less than 1% of: Natural Flavors, Color Added, Carrageenan, Vitamin A Palmitate, Vitamin D3."
     },
     {
         "name": "Grandma Sycamore's Home-Maid White Bread",
         "id": "fbb169",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread"],
         "brand": "Grandma Sycamore's",
         "weight": "24 ounces",
         "hot": false,
@@ -886,12 +886,12 @@
             "carbohydrates": "19 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Sugar, Salt, Potato Flakes, Yeast, Cultured Wheat Flour, Grain Vinegar, Citric Acid, Soy Lecithin."
     },
     {
         "name": "Sara Lee White Bread, 20 Slices",
         "id": "fbb170",
-        "category": "bakery",
+        "category": ["bakery", "sliced-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
         "hot": false,
@@ -916,7 +916,7 @@
             "carbohydrates": "28 grams",
             "protein": "4 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Whole Grain Wheat Flour, Sugar, Yeast, Wheat Gluten, Calcium Sulfate, Modified Wheat Starch, Cellulose Fiber, Salt, Soybean Oil, Calcium Propionate (Preservative), Grain Vinegar, Datem, Monoglycerides, Monocalcium Phosphate, Soy Lecithin, Ferrous Sulfate, Citric Acid, Vitamin D3."
     },
     {
         "name": "Great Grains Multigran Flax Seed Premium Bread",
@@ -946,7 +946,7 @@
             "carbohydrates": "24 grams",
             "protein": "5 grams"
         },
-        "ingredients": ""
+        "ingredients": "WATER, WHOLE WHEAT FLOUR, ENRICHED UNBLEACHED FLOUR (WHEAT FLOUR, MALT BARLEY FLOUR, NIACIN, FERROUS SULFATE, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), 9 GRAIN MIX (HARD RED WHEAT, WHITE WHEAT, BARLEY, RYE, OATS, CORN, MILLET, BUCKWHEAT AND FLAX SEED), OAT FIBER, BROWN SUGAR, SOYBEAN OIL, RYE MEAL, FLAX SEEDS, BLACK SESAME SEEDS, WHEAT GLUTEN, MOLASSES, SALT, YEAST, ENZYME, VINEGAR, CULTURED WHEAT FLOUR, CARAMEL COLOR & ASCORBIC ACID (VITAMIN C)."
     },
     {
         "name": "Franz Buttermilk Bread",
@@ -976,7 +976,7 @@
             "carbohydrates": "19 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin and Folic Acid), Water, Sugar, Potato Flour, Buttermilk Solids, Yeast, Soybean Oil, Contains 2% or Less of Each of the Following: Vital Wheat Gluten, Salt, Xanthan Gum, Ascorbic Acid, Cultured Wheat Flour, Calcium Sulfate, Enzymes."
     },
     {
         "name": "Franz Hoagie Rolls, 6 count",
@@ -1006,7 +1006,7 @@
             "carbohydrates": "36 grams",
             "protein": "7 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin and Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less of Each of the Following: Vital Wheat Gluten, Salt, Yeast Nutrient (Ammonium Sulfate), Dough Conditioners (Sodium Stearoyl Lactylate, Ascorbic Acid, Monocalcium Phosphate), Calcium Sulfate, Enzymes, Calcium Propionate (Mold Inhibitor)."
     },
     {
         "name": "Franz Hawaiian Rolls, 12 count",
@@ -1036,7 +1036,7 @@
             "carbohydrates": "18 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "ENRICHED UNBLEACHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN AND FOLIC ACID), WATER, SUGAR, YEAST, SALTED BUTTER, CONTAINS 2% OR LESS OF EACH OF THE FOLLOWING: VITAL WHEAT GLUTEN, NONFAT DRY MILK, POWDERED WHOLE EGG, VEGETABLE OIL (CANOLA AND/OR SOY), SALT, YEAST NUTRIENT (AMMONIUM SULFATE), DOUGH CONDITIONERS (SODIUM STEAROYL LACTYLATE ASCORBIC ACID, MONOCALCIUM PHOSPHATE), GUAR GUM, SUCRALOSE, CALCIUM SULFATE, ENZYMES, CALCIUM PROPIONATE (MOLD INHIBITOR), YELLOW CORN FLOUR, TURMERIC & ANNATTO (WHICH IMPART COLOR), MODIFIED FOOD STARCH."
     },
     {
         "name": "Sara Lee Sweet Hawaiian Rolls, 12 count",
@@ -1066,7 +1066,7 @@
             "carbohydrates": "19 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Sugar, Yeast, Salt, Soybean Oil, Wheat Gluten, Potato Flakes, Preservatives (Calcium Propionate, Sorbic Acid), Datem, Corn Flour, Ethoxylated Mono- And Diglycerides, Cellulose Gum, Monoglycerides, Reb A (Stevia Leaf Sweetener), Sucralose, Spice & Coloring, Citric Acid, Grain Vinegar, Calcium Sulfate, Potassium Iodate, Monocalcium Phosphate, Soy Lecithin."
     },
     {
         "name": "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count",
@@ -1096,7 +1096,7 @@
             "carbohydrates": "52 grams",
             "protein": "unknown"
         },
-        "ingredients": ""
+        "ingredients": "ENRICHED UNBLEACHED FLOUR (WHEAT FLOUR, MALT BARLEY FLOUR, NIACIN, FERROUS SULFATE, THIAMINE MONONITRATE, RIBOFLAVIN AND FOLIC ACID), WATER, CHEDDAR CHEESE (CULTURED MILK, SALT, ENZYMES, ANNATTO (COLOR), POTATO STARCH AND CELLULOSE POWDER (ADDED TO PREVENT CAKING), NATAMYCIN (NATURAL MOLD INHIBITOR), WHEAT GLUTEN, CANE SUGAR, NON-GMO SOYBEAN OIL AND/OR NON-GMO CANOLA OIL, SALT, YEAST, VINEGAR, CULTURED WHEAT FLOUR, ENZYME (PLANT BASED), CALCIUM SULFATE, CITRIC ACID &ASCORBIC ACID (VITAMIN C)."
     },
     {
         "name": "Aquafina Purified Water, 32 count",
@@ -1126,7 +1126,7 @@
             "carbohydrates": "0 grams",
             "protein": "0 grams"
         },
-        "ingredients": ""
+        "ingredients": "PURIFIED WATER."
     },
     {
         "name": "Nestle Pure Life Purified Water, 32 count",
@@ -1156,7 +1156,7 @@
             "carbohydrates": "0 grams",
             "protein": "0 grams"
         },
-        "ingredients": ""
+        "ingredients": "Purified water, calcium chloride, sodium bicarbonate, magnesium sulfate."
     },
     {
         "name": "Crystal Geyser Alpine Spring Water, 1 Gallon",
@@ -1186,7 +1186,7 @@
             "carbohydrates": "0 grams",
             "protein": "0 grams"
         },
-        "ingredients": ""
+        "ingredients": "Water."
     },
     {
         "name": "Dole Celery Stalk",
@@ -1216,7 +1216,7 @@
             "carbohydrates": "3 grams",
             "protein": "1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Celery."
     },
     {
         "name": "Sara Lee Butter Bread, 22 Slices",
@@ -1246,7 +1246,7 @@
             "carbohydrates": "13 grams",
             "protein": "2 grams"
         },
-        "ingredients": ""
+        "ingredients": "Ingredients: Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Sugar, Yeast, Wheat Gluten, Salt, Butter (Cream, Salt)**, Preservatives (Calcium Propionate, Sorbic Acid), Datem, Monoglycerides, Natural Flavors, Cellulose Gum, Monocalcium Phosphate, Corn Flour, Soy Lecithin, Citric Acid, Grain Vinegar, Annatto And Turmeric."
     },
     {
         "name": "Sara Lee Honey Wheat Bread, 22 Slices",
@@ -1276,7 +1276,7 @@
             "carbohydrates": "13 grams",
             "protein": "2 grams"
         },
-        "ingredients": ""
+        "ingredients": "Ingredients: Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Honey, Whole Wheat Flour, Yeast, Wheat Gluten, Soybean Oil, Wheat Bran, Sugar, Salt, Preservatives (Calcium Propionate, Sorbic Acid), Datem, Monoglycerides, Cellulose Gum, Natural Flavors, Monocalcium Phosphate, Calcium Sulfate, Soy Lecithin, Citric Acid, Grain Vinegar, Potassium Iodate."
     },
     {
         "name": "Ball Park Classic White Hot Dog Buns, 8-Pack",
@@ -1306,7 +1306,7 @@
             "carbohydrates": "25 grams",
             "protein": "4 grams"
         },
-        "ingredients": ""
+        "ingredients": "Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Sugar, Soybean Oil, Yeast, Nonfat Milk, Wheat Gluten, Salt, Cornstarch, Calcium Propionate (Preservative), Datem, Grain Vinegar, Monoglycerides, Corn Flour, Spice & Coloring, Citric Acid, Monocalcium Phosphate, Potassium Iodate, Calcium Sulfate, Soy Lecithin."
     },
     {
         "name": "Bolthouse Farms Baby Carrots, 2lb bag",
@@ -1336,7 +1336,7 @@
             "carbohydrates": "8 grams",
             "protein": "1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Carrots."
     },
     {
         "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
@@ -1366,7 +1366,7 @@
             "carbohydrates": "26 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Milk Chocolate [Cane Sugar, Milk, Chocolate, Cocoa Butter, Milk Fat, Lecithin (Soy), Natural Flavor]."
     },
     {
         "name": "Yoplait Harvest Peach Yogurt, 1 Cup",
@@ -1396,7 +1396,7 @@
             "carbohydrates": "28 grams",
             "protein": "6 grams"
         },
-        "ingredients": ""
+        "ingredients": "Cultured Grade A Reduced Fat Milk, Sugar, Peaches, Modified Corn Starch, Water. Contains 1% or less of: Corn Starch, Tricalcium Phosphate, Pectin, Natural Flavor, Annatto Extract (for color), Vitamin A Acetate, Vitamin D3."
     },
     {
         "name": "Kraft Singles American Cheese, 24 Slices",
@@ -1426,7 +1426,7 @@
             "carbohydrates": "2 grams",
             "protein": "3 grams"
         },
-        "ingredients": ""
+        "ingredients": "Milk, Cheddar Cheese (Milk, Cheese Culture, Salt, Enzymes), Whey, Milk Protein Concentrate, Milkfat, Calcium Phosphate, Sodium Phosphate, Contains Less Than 2% Of Modified Food Starch, Whey Protein Concentrate, Salt, Lactic Acid, Annatto And Paprika Extract (Color), Natamycin (A Natural Mold Inhibitor), Enzymes, Cheese Culture, Vitamin D3."
     },
     {
         "name": "Campbell's SpaghettiOs with Meatballs",
@@ -1456,7 +1456,7 @@
             "carbohydrates": "31 grams",
             "protein": "11 grams"
         },
-        "ingredients": ""
+        "ingredients": "Ingredients: Water, Tomato Puree (Water, Tomato Paste), Meatballs Made With Chicken, Pork And Beef (Chicken, Mechanically Separated Chicken, Water, Pork, Beef, Bread Crumbs [Enriched Wheat Flour (Wheat Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Dextrose, Salt, Yeast, Soybean Oil], Soy Protein Concentrate, Salt, Dehydrated Onions, Dehydrated Garlic, Flavoring), Enriched Pasta (Wheat Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), High Fructose Corn Syrup, Contains Less Than 2% Of: Salt, Enzyme Modified Cheddar Cheese (Cheddar Cheese [Cultured Milk, Salt, Enzymes, Calcium Chloride], Water, Disodium Phosphate, Enzymes), Vegetable Oil, Citric Acid, Yeast Extract, Enzyme Modified Butter, Reconstituted Skim Milk, Flavoring, Onion Extract. Contains: Wheat, Milk, Soy"
     },
     {
         "name": "Chef Boyardee Spaghetti and Meatballs",
@@ -1486,7 +1486,7 @@
             "carbohydrates": "30 grams",
             "protein": "9 grams"
         },
-        "ingredients": ""
+        "ingredients": "Tomatoes (Tomato Puree, Water), Cooked Enriched Spaghetti (Water, Enriched Wheat Flour [Durum Wheat Semolina, Niacin, Reduced Iron, Thiamine Mononitrate {Vitamin B1}, Riboflavin {Vitamin B2}, Folic Acid], Wheat Protein Isolate [Wheat Gluten, Sodium Phosphate, Lactic Acid], Glyceryl Monostearate), Meatballs (Pork, Dark Chicken, Mechanically Separated Chicken, Beef, Water, Crackermeal [Enriched Wheat Flour {Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid}, May Contain Guar Gum], Soy Protein Concentrate, Salt, Caramel Color, Flavorings, Soybean Oil, Citric Acid), Water, High Fructose Corn Syrup, LESS THAN 2% OF: Modified Corn Starch, Salt, Dehydrated Onion, Hydrolyzed Corn and Wheat Gluten and Soy Protein, Citric Acid, Flavorings, Enzyme Modified Cheese (Cheddar Cheese [Pasteurized Milk, Cultures, Salt, Enzymes], Water, Sodium Phosphate, Xanthan Gum). CONTAINS: MILK, SOY, WHEAT"
     },
     {
         "name": "StarKist Solid White Albacore Tuna in Water, 12 Ounces",
@@ -1516,7 +1516,7 @@
             "carbohydrates": "0 grams",
             "protein": "19 grams"
         },
-        "ingredients": ""
+        "ingredients": "White Tuna, Water, Vegetable Broth, Salt, Pyrophosphate."
     },
     {
         "name": "Philadelphia Original Cream Cheese, 2 Pack",
@@ -1546,7 +1546,7 @@
             "carbohydrates": "1 gram",
             "protein": "2 grams"
         },
-        "ingredients": ""
+        "ingredients": "Pasteurized Milk And Cream, Salt, Carob Bean Gum, Cheese Culture"
     },
     {
         "name": "Twizzlers, Strawberry Chewy Candy",
@@ -1576,7 +1576,7 @@
             "carbohydrates": "36 grams",
             "protein": "1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Corn Syrup, Enriched Wheat Flour (Flour, Niacin, Ferrous Sulfate, Thiamin Mononitrate, Riboflavin, and Folic Acid), Sugar, Cornstarch, Contains 2% or Less of: Palm Oil, Salt, Artificial Flavor, Mono- and Diglycerides, Citric Acid, Potassium Sorbate (Preservative), Artificial Color (Red 40), Mineral Oil, Soy Lecithin, Glycerin."
     },
     {
         "name": "Whoppers, Malted Milk Chocolate Balls",
@@ -1606,7 +1606,7 @@
             "carbohydrates": "23 grams",
             "protein": "1 gram"
         },
-        "ingredients": ""
+        "ingredients": "Sugar; Corn Syrup Solids; Whey (Milk); Hydrogenated Palm Kernel Oil; Palm Kernel Oil; Corn Syrup; Cocoa; Malted Milk [Barley Malt; Wheat Flour; Milk; Salt; Baking Soda]; Sorbitan Tristearate; Lecithin (Soy); Confectioner's Glaze; Salt; Artificial Flavor; Tapioca Dextrin; Calcium Carbonate."
     },
     {
         "name": "Honey Maid Chocolate Graham Crackers",
