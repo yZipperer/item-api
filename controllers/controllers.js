@@ -12,6 +12,8 @@ exports.food = (req, res) => {
         for (const item in data) {
             if (data[item].brand === brand){
                 result.push(data[item]);
+            } else if (data[item].brand.includes(brand)){
+                result.push(data[item]);
             }
         }
         return res.status(200).json(result);
@@ -29,6 +31,8 @@ exports.food = (req, res) => {
     else if(brand != "none" && category != "none") {
         for (const item in data) {
             if (data[item].brand === brand && data[item].category === category){
+                result.push(data[item]);
+            } else if (data[item].brand.includes(brand) && data[item].category.includes(category)){
                 result.push(data[item]);
             }
         }
