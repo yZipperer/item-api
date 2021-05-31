@@ -219,6 +219,42 @@
 ```
 
   For a more comprehensive list see the masterList in the data folder.
+  
+## Data Layout:
+
+Sample Data Layout:
+```
+{
+        "name": "Great Grains Multigrain Flax Seed Premium Bread",
+        "id": "fbb171",
+        "category": ["bakery", "sliced-bread", "multigrain-bread"],
+        "brand": "Great Grains",
+        "weight": "24 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "MULTIGRAIN w/ Flax Seeds & Omega-3 Premium Wide Pan 5/8\" Sliced Bread is packed with whole grains and Omega-3 and tastes DELICIOUS. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. 15 Grams of Whole Grains Per Slice. No Cholesterol. 5 Grams of Protien Per Slice. 5 Grams of Fiber Per Slice. 304mg of Omega-3 Per Slice-An Excellent Source. Always Made With Non-GMO Ingredients.",
+        "price": {
+            "USD": {
+                "default": "2.28",
+                "formatted": "$2.28/each"
+            }
+        },
+        "image": "http://localhost:8080/fbb171.png",
+        "nutrition": {
+            "serving size": "45 grams",
+            "servings per container": "15",
+            "calories": "120",
+            "fat": "1.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "190 milligrams",
+            "potassium": "none",
+            "carbohydrates": "24 grams",
+            "protein": "5 grams"
+        },
+        "ingredients": "WATER, WHOLE WHEAT FLOUR, ENRICHED UNBLEACHED FLOUR (WHEAT FLOUR, MALT BARLEY FLOUR, NIACIN, FERROUS SULFATE, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), 9 GRAIN MIX (HARD RED WHEAT, WHITE WHEAT, BARLEY, RYE, OATS, CORN, MILLET, BUCKWHEAT AND FLAX SEED), OAT FIBER, BROWN SUGAR, SOYBEAN OIL, RYE MEAL, FLAX SEEDS, BLACK SESAME SEEDS, WHEAT GLUTEN, MOLASSES, SALT, YEAST, ENZYME, VINEGAR, CULTURED WHEAT FLOUR, CARAMEL COLOR & ASCORBIC ACID (VITAMIN C)."
+    }
+```
 
 ## Getting Images:
 
