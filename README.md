@@ -7,10 +7,10 @@
   I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 64 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 64 total items
-    * 46 categories
-    * 42 different brands
-    * $145.38 worth of products
+    * 65 total items
+    * 48 categories
+    * 43 different brands
+    * $152.3 worth of products
     * 83,881 total calories
 
   ### Contents
@@ -39,6 +39,7 @@
           * flour
           * sugar
           * oats
+          * dry-coffee
       * canned
           * canned-produce
       * dairy
@@ -71,6 +72,7 @@
           * vanilla
       * pasta
           * ravioli
+      * coffee
 
 ## Requirements
 
@@ -139,6 +141,7 @@
           * flour
           * sugar
           * oats
+          * dry-coffee
       * canned
           * canned-produce
       * dairy
@@ -171,6 +174,7 @@
           * vanilla
       * pasta
           * ravioli
+      * coffee
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -216,6 +220,7 @@
         * Club
     * Pepperidge Farm
         * Goldfish
+    * Folgers
 ```
 
   For a more comprehensive list see the masterList in the data folder.

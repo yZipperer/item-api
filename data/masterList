@@ -14,6 +14,7 @@ Categories:
     - flour
     - sugar
     - oats
+    - dry-coffee
 - canned
     - canned-produce
 - dairy
@@ -46,6 +47,7 @@ Categories:
     - vanilla
 - pasta
     - ravioli
+- coffee
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -91,6 +93,7 @@ Brands:
     - Club
 - Pepperidge Farm
     - Goldfish
+- Folgers
 
 Items:
 - apple
@@ -196,3 +199,5 @@ Items:
 - Nilla Vanilla Wafer Cookies
 
 - Pepperidge Farm Goldfish Cheddar Crackers
+
+- Folgers Classic Roast Ground Coffee

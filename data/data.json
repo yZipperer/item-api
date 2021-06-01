@@ -1907,6 +1907,36 @@
             "protein": "3 grams"
         },
         "ingredients": "Made With Smiles And Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Cheddar Cheese ([Cultured Milk, Salt, Enzymes], Annatto), Vegetable Oils (Canola, Sunflower And/Or Soybean), Salt, Contains 2% Or Less Of: Yeast, Sugar, Autolyzed Yeast Extract, Paprika, Spices, Celery, Onion Powder, Monocalcium Phosphate, Baking Soda. Contains: Wheat, Milk."
+    },
+    {
+        "name": "Folgers Classic Roast Ground Coffee",
+        "id": "fdc204",
+        "category": ["dry-goods", "dry-coffee", "coffee"],
+        "brand": "Folgers",
+        "weight": "30.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "No matter what morning brings, you know you can count on the iconic red Folgers coffee canister for The Best Part of Wakin’ Up. Folgers Classic Roast ground coffee has been loved for generations for its famously fresh aroma and rich, smooth flavor. It’s the quintessential Folgers medium roast coffee — a timeless tradition that’s become a modern morning essential. A delicious highlight in even the most hectic mornings.",
+        "price": {
+            "USD": {
+                "default": "6.92",
+                "formatted": "$6.92/each"
+            }
+        },
+        "image": "http://localhost:8080/fdc204.jpeg",
+        "nutrition": {
+            "serving size": "240",
+            "servings per container": "unknown",
+            "calories": "0",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "0 grams",
+            "protein": "0 grams"
+        },
+        "ingredients": "Coffee."
     }
 
 
