@@ -46,7 +46,7 @@
           * milk
               * whole-milk
               * 1-percent-milk
-          * Eggs
+          * eggs
           * cheese
               * sliced-cheese
               * cream-cheese

@@ -1,4 +1,5 @@
 const data = require('../data/data.json');
+const statsTemplate = require('../data/statsTemplate.json');
 
 exports.allData = (req, res) => {
     return res.status(200).json(data);
@@ -42,4 +43,20 @@ exports.food = (req, res) => {
         return res.status(200).json(data);
     }
     
+};
+
+exports.stats = (req, res) => {
+    const result = statsTemplate;
+    for (const item in data) {
+        if (Array.isArray(data[item].category) === false){
+            const tempCat = data[item].category;
+            result.numByCat[tempCat] += 1;
+        } else if (Array.isArray(data[item].category) === true){
+            for (const index in data[item].category){
+                const tempCat = data[item].category[index];
+                result.numByCat[tempCat] += 1;
+            }
+        }
+    }
+    return res.status(200).json(result);
 };
