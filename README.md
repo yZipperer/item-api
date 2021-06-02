@@ -4,14 +4,14 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 64 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 66 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 65 total items
-    * 48 categories
-    * 43 different brands
-    * $152.3 worth of products
-    * 83,881 total calories
+    * 66 total items
+    * 51 categories
+    * 46 different brands
+    * $154.54 worth of products
+    * 86,281 total calories
 
   ### Contents
     * price data in USD
@@ -24,8 +24,8 @@
       * perfect for admin dashboard
     * ingredients
     * unique ids
-    * 42 different brands
-    * 64 products including:
+    * 46 different brands
+    * 66 products including:
       * produce
       * bakery
           * sliced-bread
@@ -42,6 +42,9 @@
           * sugar
           * oats
           * dry-coffee
+          * mixes
+            * brownie-mix
+      * brownies
       * canned
           * canned-produce
       * dairy
@@ -145,6 +148,9 @@
           * sugar
           * oats
           * dry-coffee
+          * mixes
+            * brownie-mix
+      * brownies
       * canned
           * canned-produce
       * dairy
@@ -220,10 +226,13 @@
       * Nilla
     * Cheez-It
     * Kellogg's
-        * Club
+      * Club
     * Pepperidge Farm
-        * Goldfish
+      * Goldfish
     * Folgers
+    * Pillsbury
+      * Funfetti
+    * Oreo
 ```
 
   For a more comprehensive list see the masterList in the data folder.
