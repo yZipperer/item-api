@@ -50,10 +50,18 @@ exports.stats = (req, res) => {
     for (const item in data) {
         if (Array.isArray(data[item].category) === false){
             const tempCat = data[item].category;
+            
+            if (result.numByCat[tempCat] === 0){
+                result.numOfCats += 1;
+            }
             result.numByCat[tempCat] += 1;
         } else if (Array.isArray(data[item].category) === true){
             for (const index in data[item].category){
                 const tempCat = data[item].category[index];
+                
+                if (result.numByCat[tempCat] === 0){
+                    result.numOfCats += 1;
+                }
                 result.numByCat[tempCat] += 1;
             }
         }

@@ -1941,7 +1941,7 @@
     {
         "name": "Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces",
         "id": "fdm205",
-        "category": ["dry-goods", "mixes", "brownies", "brownie mix"],
+        "category": ["dry-goods", "mixes", "brownies", "brownie-mix"],
         "brand": ["Pillsbury", "Funfetti", "Oreo"],
         "weight": "15.5 ounces",
         "hot": false,
