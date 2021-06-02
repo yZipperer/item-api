@@ -1937,6 +1937,36 @@
             "protein": "0 grams"
         },
         "ingredients": "Coffee."
+    },
+    {
+        "name": "Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces",
+        "id": "fdm205",
+        "category": ["dry-goods", "mixes", "brownies", "brownie mix"],
+        "brand": ["Pillsbury", "Funfetti", "Oreo"],
+        "weight": "15.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Pillsbury Funfetti Oreo Cookie Brownie Mix adds a yummy pop of color and deliciousness to brighten up your celebration! Fun and easy baking begins with our large variety of moist and delicious brownie mixes. While this brownie is easy to make, it’s incredibly difficult to put down! Use it to create goodies for your next party, special event or bake sale.",
+        "price": {
+            "USD": {
+                "default": "2.24",
+                "formatted": "$2.24/each"
+            }
+        },
+        "image": "http://localhost:8080/fdm205.jpeg",
+        "nutrition": {
+            "serving size": "1/15 package",
+            "servings per container": "15",
+            "calories": "160",
+            "fat": "7 grams",
+            "cholesterol": "10 milligrams",
+            "sodium": "100 milligrams",
+            "potassium": "91 milligrams",
+            "carbohydrates": "25 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "INGREDIENTS: BROWNIE MIX: SUGAR, ENRICHED BLEACHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), COCOA PROCESSED WITH ALKALI, CANOLA OIL, 2% OR LESS OF: CORN STARCH, SALT, BAKING SODA, NATURAL AND ARTIFICIAL FLAVOR . OREO COOKIE PIECES: UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM AND/OR CANOLA OIL, COCOA PROCESSED WITH ALKALI, INVERT SUGAR, LEAVENING (BAKING SODA AND/OR CALCIUM PHOSPHATE), SOY LECITHIN, SALT, CHOCOLATE, NATURAL FLAVOR"
     }
 
 

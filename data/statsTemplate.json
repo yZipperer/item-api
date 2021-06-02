@@ -47,6 +47,9 @@
         "vanilla": 0,
         "pasta": 0,
         "ravioli": 0,
-        "coffee": 0
+        "coffee": 0,
+        "mixes": 0,
+        "brownies": 0,
+        "brownie-mix": 0
     }
 }

@@ -15,6 +15,9 @@ Categories:
     - sugar
     - oats
     - dry-coffee
+    - mixes
+        - brownie-mix
+- brownies
 - canned
     - canned-produce
 - dairy
@@ -94,6 +97,9 @@ Brands:
 - Pepperidge Farm
     - Goldfish
 - Folgers
+- Pillsbury
+    - Funfetti
+- Oreo
 
 Items:
 - apple
@@ -201,3 +207,5 @@ Items:
 - Pepperidge Farm Goldfish Cheddar Crackers
 
 - Folgers Classic Roast Ground Coffee
+
+- Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces
