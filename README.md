@@ -20,6 +20,8 @@
     * descriptions
     * desired temperatures
     * names
+    * displays stats on entire database
+      * perfect for admin dashboard
     * ingredients
     * unique ids
     * 42 different brands
