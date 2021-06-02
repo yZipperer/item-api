@@ -1,5 +1,6 @@
 {
     "/docs": "api documentation",
     "/":"all data",
-    "/food": "all food"
+    "/food": "all food",
+    "/stats": "stats on the data"
 }

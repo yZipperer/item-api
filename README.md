@@ -100,6 +100,7 @@
   http://localhost:8080/food?brand=putbrandhere            /*search based on brand*/
   http://localhost:8080/food?cat=putcategoryhere            /*search based on category*/
   http://localhost:8080/food?cat=putcategoryhere&brand=putbrandhere            /*search based on category and brand*/
+  http://localhost:8080/stats            /*shows stats on the items in the data set*/
   ```
 
 ## How to Search the Data
