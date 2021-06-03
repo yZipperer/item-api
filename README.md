@@ -4,87 +4,29 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 66 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 69 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 66 total items
-    * 51 categories
-    * 46 different brands
-    * $154.54 worth of products
-    * 86,281 total calories
+    * 69 total items
+    * 57 categories
+    * 49 different brands
+    * $162.78 worth of products
+    * 89,081 total calories
 
   ### Contents
+    * names
     * price data in USD
     * images for every product
-    * USDA nutrition information
+    * nutrition information
     * descriptions
     * desired temperatures
-    * names
     * displays stats on entire database
       * perfect for admin dashboard
     * ingredients
     * unique ids
-    * 46 different brands
-    * 66 products including:
-      * produce
-      * bakery
-          * sliced-bread
-          * white-bread
-          * multigrain-bread
-          * buttermilk-bread
-          * butter-bread
-          * hawaiian-bread
-          * wheat-bread
-          * rolls-bread
-          * hoagie
-          * muffins
-          * english-muffins
-      * dry-goods
-          * flour
-          * sugar
-          * oats
-          * dry-coffee
-          * mixes
-            * brownie-mix
-      * brownies
-      * canned
-          * canned-produce
-      * dairy
-          * milk
-              * whole-milk
-              * 1-percent-milk
-          * eggs
-          * cheese
-              * sliced-cheese
-              * cream-cheese
-          * yogurt
-      * water
-          * bottled-water
-          * case-water
-          * jug-water
-      * candy
-          * boxed-candy
-          * bar-candy
-          * bagged-candy
-      * seafood
-          * tuna
-      * crackers
-        * cheddar-crackers
-      * cookies
-          * chocolate-cookies
-      * chips
-        * corn-chip
-        * potato-chip
-      * (flavors)
-          * strawberry
-          * chocolate
-          * vanilla
-          * cheddar
-          * chili-cheese
-      * pasta
-          * ravioli
-      * coffee
-      * popcorn
+    * 49 different brands
+    * 69 products
+    * 57 categories
 
 ## Requirements
 
