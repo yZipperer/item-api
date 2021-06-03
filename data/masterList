@@ -10,6 +10,8 @@ Categories:
     - wheat-bread
     - rolls-bread
     - hoagie
+    - muffins
+    - english-muffins
 - dry-goods
     - flour
     - sugar
@@ -48,9 +50,11 @@ Categories:
     - strawberry
     - chocolate
     - vanilla
+    - cheddar
 - pasta
     - ravioli
 - coffee
+- popcorn
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -100,6 +104,8 @@ Brands:
 - Pillsbury
     - Funfetti
 - Oreo
+- Thomas'
+- Cheetos
 
 Items:
 - apple
@@ -209,3 +215,7 @@ Items:
 - Folgers Classic Roast Ground Coffee
 
 - Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces
+
+- Thomas' Origional Nooks & Crannies English Muffins, 6 Count
+
+- Cheetos Crunch Pop Mix

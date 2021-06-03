@@ -37,6 +37,8 @@
           * wheat-bread
           * rolls-bread
           * hoagie
+          * muffins
+          * english-muffins
       * dry-goods
           * flour
           * sugar
@@ -75,9 +77,11 @@
           * strawberry
           * chocolate
           * vanilla
+          * cheddar
       * pasta
           * ravioli
       * coffee
+      * popcorn
 
 ## Requirements
 
@@ -143,6 +147,8 @@
           * wheat-bread
           * rolls-bread
           * hoagie
+          * muffins
+          * english-muffins
       * dry-goods
           * flour
           * sugar
@@ -181,9 +187,11 @@
           * strawberry
           * chocolate
           * vanilla
+          * cheddar
       * pasta
           * ravioli
       * coffee
+      * popcorn
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -233,6 +241,8 @@
     * Pillsbury
       * Funfetti
     * Oreo
+    * Thomas'
+    * Cheetos
 ```
 
   For a more comprehensive list see the masterList in the data folder.
