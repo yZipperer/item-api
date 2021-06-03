@@ -73,11 +73,14 @@
       * cookies
           * chocolate-cookies
       * chips
+        * corn-chip
+        * potato-chip
       * (flavors)
           * strawberry
           * chocolate
           * vanilla
           * cheddar
+          * chili-cheese
       * pasta
           * ravioli
       * coffee
@@ -183,11 +186,14 @@
       * cookies
           * chocolate-cookies
       * chips
+        * corn-chip
+        * potato-chip
       * (flavors)
           * strawberry
           * chocolate
           * vanilla
           * cheddar
+          * chili-cheese
       * pasta
           * ravioli
       * coffee
@@ -243,6 +249,7 @@
     * Oreo
     * Thomas'
     * Cheetos
+    * Doritos
 ```
 
   For a more comprehensive list see the masterList in the data folder.

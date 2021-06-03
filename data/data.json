@@ -1671,7 +1671,7 @@
     {
         "name": "Lay's Classic Potato Chips",
         "id": "fcp196",
-        "category": "chips",
+        "category": ["chips", "potato-chip"],
         "brand": "Lay's",
         "weight": "8 ounces",
         "hot": false,
@@ -1701,7 +1701,7 @@
     {
         "name": "Lay's Salt and Vinegar Potato Chips",
         "id": "fcp197",
-        "category": "chips",
+        "category": ["chips", "potato-chip"],
         "brand": "Lay's",
         "weight": "7.75 ounces",
         "hot": false,
@@ -2027,6 +2027,36 @@
             "protein": "2 grams"
         },
         "ingredients": "Cheetos Brand Cheddar Cheese Flavored Popcorn: Popcorn, Vegetable Oil (Corn, Canola and/or Sunflower Oil), Whey, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzyme), Maltodextrin (made from Corn), Natural and Artificial Flavors, Salt, Whey Protein Concentrate, Monosodium Glutamate, Lactic Acid, Citric Acid, and Artificial Color (Yellow 6), Cheetos Brand Crunchy Cheese Flavored Snacks: Enriched Corn Meal (Corn Meal, Ferrous Sulfate, Niacin, Thiamin Mononitrate, Riboflavin, Folic Acid), Vegetable Oil (Corn, Canola, and/or Sunflower Oil), Whey, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Salt, Maltodextrin (made from Corn), Natural and Artificial Flavors, Whey Protein Concentrate, Monosodium Glutamate, Lactic Acid, Citric Acid, and Artificial Color (Yellow 6)"
+    },
+    {
+        "name": "Doritos 3D Crunch Chili Cheese Nacho Flavored Chips",
+        "id": "fcd208",
+        "category": ["chips", "cheddar", "corn-chip", "chili-cheese"],
+        "brand": "Doritos",
+        "weight": "6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "",
+        "price": {
+            "USD": {
+                "default": "2.98",
+                "formatted": "$2.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fcd208.jpeg",
+        "nutrition": {
+            "serving size": "27 pieces (28 grams)",
+            "servings per container": "6",
+            "calories": "130",
+            "fat": "7 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "210 milligrams",
+            "potassium": "100 milligrams",
+            "carbohydrates": "18 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Corn, Salt, Vegetable Oil, Chili Cheese Nacho Flavoring"
     }
 
 

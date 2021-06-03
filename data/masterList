@@ -46,11 +46,14 @@ Categories:
 - cookies
     - chocolate-cookies
 - chips
+    - corn-chip
+    - potato-chip
 - (flavors)
     - strawberry
     - chocolate
     - vanilla
     - cheddar
+    - chili-cheese
 - pasta
     - ravioli
 - coffee
@@ -106,6 +109,7 @@ Brands:
 - Oreo
 - Thomas'
 - Cheetos
+- Doritos
 
 Items:
 - apple
@@ -219,3 +223,5 @@ Items:
 - Thomas' Origional Nooks & Crannies English Muffins, 6 Count
 
 - Cheetos Crunch Pop Mix
+
+- Doritos 3D Crunch Chili Cheese Nacho Flavored Chips
