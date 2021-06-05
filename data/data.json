@@ -2150,7 +2150,7 @@
     },
     {
         "name": "Cinnamon Toast Crunch Churros Cereal, Family Size",
-        "id": "fbc211",
+        "id": "fbc212",
         "category": ["cereal", "cinnamon", "breakfast"],
         "brand": ["General Mills", "Cinnamon Toast Crunch"],
         "weight": "19.3 ounces",
@@ -2164,7 +2164,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/fbc211.jpeg",
+        "image": "http://localhost:8080/fbc212.png",
         "nutrition": {
             "serving size": "1 cup (41 grams)",
             "servings per container": "13",
