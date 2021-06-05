@@ -136,10 +136,14 @@
           * vanilla
           * cheddar
           * chili-cheese
+          * honey
+          * cinnamon
       * pasta
           * ravioli
       * coffee
       * popcorn
+      * cereal
+      * breakfast
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -192,6 +196,10 @@
     * Thomas'
     * Cheetos
     * Doritos
+    * General Mills
+      * Cheerios
+        * Honey Nut Cheerios
+      * Cinnamon Toast Crunch
 ```
 
   For a more comprehensive list see the masterList in the data folder.

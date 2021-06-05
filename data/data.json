@@ -2037,7 +2037,7 @@
         "hot": false,
         "cold": false,
         "frozen": false,
-        "description": "",
+        "description": "The DORITOS brand is all about boldness. If you?re up to the challenge, grab a bag of DORITOS tortilla chips and get ready to make some memories you won?t soon forget. It?s a bold experience in snacking and beyond.",
         "price": {
             "USD": {
                 "default": "2.98",
@@ -2057,6 +2057,66 @@
             "protein": "2 grams"
         },
         "ingredients": "Corn, Salt, Vegetable Oil, Chili Cheese Nacho Flavoring"
+    },
+    {
+        "name": "Honey Nut Cheerios Cereal, Family Size",
+        "id": "fbc209",
+        "category": ["cereal", "honey", "breakfast"],
+        "brand": ["General Mills", "Cheerios", "Honey Nut Cheerios"],
+        "weight": "19.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Each family-size box of Honey Nut Cheerios breakfast cereal has the irresistible taste of golden honey and natural almond flavor that your whole family will enjoy. Made with 100% whole grain oats, each serving of little O's contains .75 grams of soluble fiber, which may reduce the risk of heart disease when paired with a diet low in saturated fat and cholesterol.",
+        "price": {
+            "USD": {
+                "default": "3.64",
+                "formatted": "$3.64/each"
+            }
+        },
+        "image": "http://localhost:8080/fbc209.jpeg",
+        "nutrition": {
+            "serving size": "3/4 cup (28 grams)",
+            "servings per container": "19",
+            "calories": "180",
+            "fat": "2 grams",
+            "cholesterol": "5 milligrams",
+            "sodium": "260 milligrams",
+            "potassium": "340 milligrams",
+            "carbohydrates": "36 grams",
+            "protein": "7 grams"
+        },
+        "ingredients": "WHOLE GRAIN OATS, SUGAR, CORN STARCH, HONEY, BROWN SUGAR SYRUP, SALT, TRIPOTASSIUM PHOSPHATE, CANOLA OIL, NATURAL ALMOND FLAVOR. VITAMIN E (MIXED TOCOPHEROLS) ADDED TO PRESERVE FRESHNESS. VITAMINS AND MINERALS: CALCIUM CARBONATE, VITAMIN C (SODIUM ASCORBATE), IRON AND ZINC (MINERAL NUTRIENTS), A B VITAMIN (NIACINAMIDE), VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE), VITAMIN B1 (THIAMIN MONONITRATE), VITAMIN A (PALMITATE), VITAMIN B2 (RIBOFLAVIN), A B VITAMIN (FOLIC ACID), VITAMIN B12, VITAMIN D3. CONTAINS ALMOND INGREDIENTS."
+    },
+    {
+        "name": "Cinnamon Toast Crunch Cereal, Family Size",
+        "id": "fbc210",
+        "category": ["cereal", "cinnamon", "breakfast"],
+        "brand": ["General Mills", "Cinnamon Toast Crunch"],
+        "weight": "19.3 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Take breakfast out of this world with a family-size box of Cinnamon Toast Crunch breakfast cereal! Each bite contains delicious crispy whole wheat squares covered in the perfect combination of real cinnamon and sugar. Enjoy Cinnamon Toast Crunch with milk for a crunchy breakfast with a yummy Cinnamilk finish, or by itself to snack on throughout the day.",
+        "price": {
+            "USD": {
+                "default": "3.64",
+                "formatted": "$3.64/each"
+            }
+        },
+        "image": "http://localhost:8080/fbc210.jpeg",
+        "nutrition": {
+            "serving size": "1 cup (41 grams)",
+            "servings per container": "17",
+            "calories": "170",
+            "fat": "4 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "230 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "33 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "WHOLE GRAIN WHEAT, SUGAR, RICE FLOUR, CANOLA OIL, FRUCTOSE, MALTODEXTRIN, DEXTROSE, SALT, CINNAMON, TRISODIUM PHOSPHATE, SOY LECITHIN, CARAMEL COLOR. BHT ADDED TO PRESERVE FRESHNESS. VITAMINS AND MINERALS: CALCIUM CARBONATE, VITAMIN C (SODIUM ASCORBATE), IRON AND ZINC (MINERAL NUTRIENTS), A B VITAMIN (NIACINAMIDE), VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE), VITAMIN B1 (THIAMIN MONONITRATE), VITAMIN A (PALMITATE), VITAMIN B2 (RIBOFLAVIN), A B VITAMIN (FOLIC ACID), VITAMIN B12, VITAMIN D3."
     }
 
 

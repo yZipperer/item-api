@@ -54,10 +54,14 @@ Categories:
     - vanilla
     - cheddar
     - chili-cheese
+    - honey
+    - cinnamon
 - pasta
     - ravioli
 - coffee
 - popcorn
+- breakfast
+- cereal
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -110,6 +114,9 @@ Brands:
 - Thomas'
 - Cheetos
 - Doritos
+- General Mills
+    - Cheerios
+        - Honey Nut Cheerios
 
 Items:
 - apple
@@ -225,3 +232,7 @@ Items:
 - Cheetos Crunch Pop Mix
 
 - Doritos 3D Crunch Chili Cheese Nacho Flavored Chips
+
+- Honey Nut Cheerios Cereal, Family Size
+
+- Cinnamon Toast Crunch Cereal, Family Size
