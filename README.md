@@ -189,6 +189,7 @@
     * Cheez-It
     * Kellogg's
       * Club
+      * Froot Loops
     * Pepperidge Farm
       * Goldfish
     * Folgers

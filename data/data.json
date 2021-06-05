@@ -2117,6 +2117,66 @@
             "protein": "2 grams"
         },
         "ingredients": "WHOLE GRAIN WHEAT, SUGAR, RICE FLOUR, CANOLA OIL, FRUCTOSE, MALTODEXTRIN, DEXTROSE, SALT, CINNAMON, TRISODIUM PHOSPHATE, SOY LECITHIN, CARAMEL COLOR. BHT ADDED TO PRESERVE FRESHNESS. VITAMINS AND MINERALS: CALCIUM CARBONATE, VITAMIN C (SODIUM ASCORBATE), IRON AND ZINC (MINERAL NUTRIENTS), A B VITAMIN (NIACINAMIDE), VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE), VITAMIN B1 (THIAMIN MONONITRATE), VITAMIN A (PALMITATE), VITAMIN B2 (RIBOFLAVIN), A B VITAMIN (FOLIC ACID), VITAMIN B12, VITAMIN D3."
+    },
+    {
+        "name": "Kellogg's Froot Loops Cereal, Family Size",
+        "id": "fbc211",
+        "category": ["cereal", "breakfast"],
+        "brand": ["Kellogg's", "Froot Loops"],
+        "weight": "19.4 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Kellogg's Froot Loops Breakfast Cereal is packed with a delicious fruity taste, fruity aroma and fun, bright colors. Made with whole grains and natural fruit flavors, this sweetened fruity cereal is a fun part of a complete breakfast for kids. This kids breakfast cereal also makes a tasty snack straight out of the box and is the perfect ingredient in Froot Loops cereal treats. Each Kellogg's family size cereal box of Froot Loops contains about 14 servings to keep your family well stocked.",
+        "price": {
+            "USD": {
+                "default": "3.64",
+                "formatted": "$3.64/each"
+            }
+        },
+        "image": "http://localhost:8080/fbc211.jpeg",
+        "nutrition": {
+            "serving size": "39 grams",
+            "servings per container": "14",
+            "calories": "150",
+            "fat": "1.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "210 milligrams",
+            "potassium": "60 milligrams",
+            "carbohydrates": "34 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Corn flour blend (whole grain yellow corn flour, degerminated yellow corn flour), sugar, wheat flour, whole grain oat flour, modified food starch, contains 2% or less of vegetable oil (hydrogenated coconut, soybean and/or cottonseed), oat fiber, maltodextrin, salt, soluble corn fiber, natural flavor, red 40, yellow 5, blue 1, yellow 6, bht for freshness.vitamins and minerals: vitamin c (ascorbic acid), reduced iron, niacinamide, vitamin b6 (pyridoxine hydrochloride), vitamin b2 (riboflavin), vitamin b1 (thiamin hydrochloride), folic acid, vitamin d3, vitamin b12."
+    },
+    {
+        "name": "Cinnamon Toast Crunch Churros Cereal, Family Size",
+        "id": "fbc211",
+        "category": ["cereal", "cinnamon", "breakfast"],
+        "brand": ["General Mills", "Cinnamon Toast Crunch"],
+        "weight": "19.3 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Since their origin in Spain centuries ago, Churros have evolved into the familiar cinnamon-sugar treats enjoyed across cultures around the world. Now we’ve combined this cinnamon-sugar flavor with the unmistakable crunch of Churro Toast Crunch Cereal!",
+        "price": {
+            "USD": {
+                "default": "3.64",
+                "formatted": "$3.64/each"
+            }
+        },
+        "image": "http://localhost:8080/fbc211.jpeg",
+        "nutrition": {
+            "serving size": "1 cup (41 grams)",
+            "servings per container": "13",
+            "calories": "180",
+            "fat": "4.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "230 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "32 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Whole Grain Wheat, Sugar, Rice Flour, Canola and/or Sunflower Oil, Cinnamon, Salt, Dextrose, Trisodium Phosphate, Soy Lecithin. BHT Added to Preserve Freshness.Vitamins and Minerals: Calcium Carbonate, Vitamin C (sodium ascorbate), Iron and Zinc (mineral nutrients), A B Vitamin (niacinamide), Vitamin B6 (pyridoxine hydrochloride), Vitamin B1 (thiamin mononitrate), Vitamin A (palmitate), Vitamin B2 (riboflavin), A B Vitamin (folic acid), Vitamin B12, Vitamin D3."
     }
 
 
