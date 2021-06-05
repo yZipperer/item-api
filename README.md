@@ -4,14 +4,14 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 69 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 71 products, but I work on adding more products every so often.
   
   ### By the Numbers:
-    * 69 total items
-    * 58 categories
-    * 49 different brands
-    * $162.78 worth of products
-    * 89,081 total calories
+    * 71 total items
+    * 62 categories
+    * 53 different brands
+    * $170.06 worth of products
+    * 95,391 total calories
 
   ### Contents
     * names
@@ -24,9 +24,9 @@
       * perfect for admin dashboard
     * ingredients
     * unique ids
-    * 49 different brands
-    * 69 products
-    * 58 categories
+    * 53 different brands
+    * 71 products
+    * 62 categories
 
 ## Requirements
 
