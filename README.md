@@ -203,6 +203,7 @@
       * Cheerios
         * Honey Nut Cheerios
       * Cinnamon Toast Crunch
+    * SunChips
 ```
 
   For a more comprehensive list see the masterList in the data folder.

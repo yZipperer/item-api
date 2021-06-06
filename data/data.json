@@ -2177,6 +2177,66 @@
             "protein": "3 grams"
         },
         "ingredients": "Whole Grain Wheat, Sugar, Rice Flour, Canola and/or Sunflower Oil, Cinnamon, Salt, Dextrose, Trisodium Phosphate, Soy Lecithin. BHT Added to Preserve Freshness.Vitamins and Minerals: Calcium Carbonate, Vitamin C (sodium ascorbate), Iron and Zinc (mineral nutrients), A B Vitamin (niacinamide), Vitamin B6 (pyridoxine hydrochloride), Vitamin B1 (thiamin mononitrate), Vitamin A (palmitate), Vitamin B2 (riboflavin), A B Vitamin (folic acid), Vitamin B12, Vitamin D3."
+    },
+    {
+        "name": "SunChips Harvest Cheeddar Whole Grain Chips",
+        "id": "fsc213",
+        "category": ["chips", "cheddar"],
+        "brand": "SunChips",
+        "weight": "7 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "SUNCHIPS snacks are wavy, ripple-y squares full of whole-grain goodness (14-19g of whole grains per serving). Grab a bag of SUNCHIPS whole grain snacks in your favorite flavor, and tell your taste buds to meet you at the corner of delicious and wholesome.",
+        "price": {
+            "USD": {
+                "default": "3.06",
+                "formatted": "$3.06/each"
+            }
+        },
+        "image": "http://localhost:8080/fsc213.jpeg",
+        "nutrition": {
+            "serving size": "1 ounce",
+            "servings per container": "7",
+            "calories": "140",
+            "fat": "6 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "170 milligrams",
+            "potassium": "100 milligrams",
+            "carbohydrates": "18 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Whole Corn, Sunflower and/or Canola Oil, Whole Wheat, Brown Rice Flour, Whole Oat Flour, Sugar, Maltodextrin (Made from Corn), Salt, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Natural Flavors, Whey, Whey Protein Concentrate, Onion Powder, Romano Cheese (Cow's Milk, Cheese Cultures, Salt, Enzymes), Buttermilk, Yeast Extract, Citric Acid, Paprika Extracts, Lactic Acid, Garlic Powder, Parmesan Cheese (Milk, Cheese Cultures, Salt, Enzymes), and Skim Milk"
+    },
+    {
+        "name": "SunChips Garden Salsa Whole Grain Chips",
+        "id": "fsc214",
+        "category": "chips",
+        "brand": "SunChips",
+        "weight": "7 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "SUNCHIPS snacks are wavy, ripple-y squares full of whole-grain goodness (14-19g of whole grains per serving). Grab a bag of SUNCHIPS whole grain snacks in your favorite flavor, and tell your taste buds to meet you at the corner of delicious and wholesome.",
+        "price": {
+            "USD": {
+                "default": "3.06",
+                "formatted": "$3.06/each"
+            }
+        },
+        "image": "http://localhost:8080/fsc214.jpeg",
+        "nutrition": {
+            "serving size": "1 ounce",
+            "servings per container": "7",
+            "calories": "140",
+            "fat": "6 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "140 milligrams",
+            "potassium": "90 milligrams",
+            "carbohydrates": "18 grams",
+            "protein": "2 grams"
+        },
+        "ingredients": "Whole Corn, Sunflower and/or Canola Oil, Whole Wheat, Brown Rice Flour, Whole Oat Flour, Sugar, Tomato Powder, Salt, Natural Flavors, Maltodextrin (Made from Corn), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Dextrose, Buttermilk, Onion Powder, Whey, Yeast Extract, Romano Cheese (Part-Skim Cow's Milk, Cheese Cultures, Salt, Enzymes), Whey Protein Concentrate, Corn Oil, Spices (Including Jalape o Pepper), Citric Acid, Paprika Extracts, and Lactic Acid"
     }
 
 
