@@ -2237,6 +2237,36 @@
             "protein": "2 grams"
         },
         "ingredients": "Whole Corn, Sunflower and/or Canola Oil, Whole Wheat, Brown Rice Flour, Whole Oat Flour, Sugar, Tomato Powder, Salt, Natural Flavors, Maltodextrin (Made from Corn), Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Dextrose, Buttermilk, Onion Powder, Whey, Yeast Extract, Romano Cheese (Part-Skim Cow's Milk, Cheese Cultures, Salt, Enzymes), Whey Protein Concentrate, Corn Oil, Spices (Including Jalape o Pepper), Citric Acid, Paprika Extracts, and Lactic Acid"
+    },
+    {
+        "name": "McCormick Original Taco Seasoning Packet",
+        "id": "fst215",
+        "category": "seasoning",
+        "brand": "McCormick",
+        "weight": "1 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Turn dinner into fun-filled fiestas with tacos made with McCormick Original Taco Seasoning Mix. Sprinkle our signature blend of zesty seasonings, including onion, garlic, chili pepper and oregano, on your choice of ground beef or turkey for a hearty meal that’s ready to serve in just 15 minutes. McCormick Original Taco Seasoning Mix is the perfect choice for weekly taco nights! It also adds the vibrant flavors of the Southwest to family-pleasing dinners like taco casserole, chicken wings, burgers and taco mac ‘n cheese. Made with no artificial flavors and no added MSG, use our taco mix knowing that you're serving nothing less than the best.",
+        "price": {
+            "USD": {
+                "default": "0.87",
+                "formatted": "$0.87/each"
+            }
+        },
+        "image": "http://localhost:8080/fst215.jpeg",
+        "nutrition": {
+            "serving size": "4.5 grams",
+            "servings per container": "6",
+            "calories": "15",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "380 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "3 grams",
+            "protein": "0 grams"
+        },
+        "ingredients": "Spices (Including Chili Pepper, Paprika, Oregano), Corn Starch, Salt, Onion, and Garlic."
     }
 
 
