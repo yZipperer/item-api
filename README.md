@@ -1,5 +1,5 @@
 # item-api
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/yZipperer/item-api"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yZipperer/item-api"><img alt="Version" src="https://img.shields.io/github/v/release/yZipperer/item-api">
+<img alt="Version" src="https://img.shields.io/github/v/release/yZipperer/item-api">
 
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (and USDA nutrition information on produce), and many more things.
