@@ -2297,6 +2297,36 @@
             "protein": "9 grams"
         },
         "ingredients": "Water, soy flour, corn oil, onions, paprika.contains 2% or less of garlic (garlic, water), salt, soy protein isolate, spices, citric acid, cooked onion and carrot juice concentrate, garlic powder, vinegar solids, onion powder, sugar, paprika extract color, natural flavor, faba bean protein, pea protein."
+    },
+    {
+        "name": "Nature Valley Crunchy Oats 'n Honey Granola Bars, 48 Bars",
+        "id": "fsb217",
+        "category": ["snacks", "honey", "oats", "granola", "bar"],
+        "brand": "Nature Valley",
+        "weight": "1008 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "",
+        "price": {
+            "USD": {
+                "default": "8.68",
+                "formatted": "$8.68/each"
+            }
+        },
+        "image": "http://localhost:8080/fsb217.jpeg",
+        "nutrition": {
+            "serving size": "2 bars (42 grams)",
+            "servings per container": "24",
+            "calories": "190",
+            "fat": "7 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "140 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "29 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Whole Grain Oats, Sugar, Canola and/or Sunflower Oil, Rice Flour, Honey, Salt, Brown Sugar Syrup, Baking Soda, Soy Lecithin, Natural Flavor."
     }
 
 

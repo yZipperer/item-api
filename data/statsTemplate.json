@@ -66,6 +66,9 @@
         "seasoning": 0,
         "vegan": 0,
         "vegetarian": 0,
-        "meat-alternative": 0
+        "meat-alternative": 0,
+        "snacks": 0,
+        "granola": 0,
+        "bar": 0
     }
 }

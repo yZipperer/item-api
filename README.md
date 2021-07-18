@@ -149,6 +149,9 @@
       * vegan
       * vegetarian
       * meat-alternative
+      * snacks
+      * granola
+      * bar
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -209,6 +212,7 @@
     * SunChips
     * McCormick
     * MorningStar Farms
+    * Nature Valley
 ```
 
   For a more comprehensive list see the masterList in the data folder.
