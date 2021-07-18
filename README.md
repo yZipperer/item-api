@@ -24,9 +24,8 @@
       * perfect for admin dashboard
     * ingredients
     * unique ids
-    * 57 different brands
-    * 77 products
-    * 66 categories
+    * brands
+    * categories
 
 ## Requirements
 
