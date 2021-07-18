@@ -2307,14 +2307,14 @@
         "hot": false,
         "cold": false,
         "frozen": false,
-        "description": "",
+        "description": "Nature Valley granola bars are made with whole grain oats and sweet honey flavor",
         "price": {
             "USD": {
                 "default": "8.68",
                 "formatted": "$8.68/each"
             }
         },
-        "image": "http://localhost:8080/fsb217.jpeg",
+        "image": "http://localhost:8080/fsb217.png",
         "nutrition": {
             "serving size": "2 bars (42 grams)",
             "servings per container": "24",
@@ -2327,6 +2327,36 @@
             "protein": "3 grams"
         },
         "ingredients": "Whole Grain Oats, Sugar, Canola and/or Sunflower Oil, Rice Flour, Honey, Salt, Brown Sugar Syrup, Baking Soda, Soy Lecithin, Natural Flavor."
+    },
+    {
+        "name": "Lucky Charms Breakfast Bars, 16 Bars",
+        "id": "fsb218",
+        "category": ["snacks", "cereal", "bar"],
+        "brand": ["General Mills", "Lucky Charms"],
+        "weight": "13.6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Great tasting treat bars have the crunch of Lucky Charms Cereal. A great on the go snack.",
+        "price": {
+            "USD": {
+                "default": "5.84",
+                "formatted": "$5.84/each"
+            }
+        },
+        "image": "http://localhost:8080/fsb218.png",
+        "nutrition": {
+            "serving size": "1 bars (24 grams)",
+            "servings per container": "16",
+            "calories": "100",
+            "fat": "3 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "85 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "18 grams",
+            "protein": "1 grams"
+        },
+        "ingredients": "Cereal (whole grain oats, sugar, corn syrup, corn starch, salt, calcium carbonate, trisodium phosphate, canola oil, natural and artificial flavor. Vitamin E (mixed tocopherols) added to preserve freshness. Vitamins and Minerals: calcium carbonate, Vitamin C (Sodium Ascorbate), iron and zinc (mineral nutrients), A B Vitamin (Niacinamide), Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B1 (Thiamin Mononitrate), Vitamin A (palmitate), Vitamin B2 (Riboflavin), A B Vitamin (folic acid), Vitamin B12, Vitamin D3), Corn Syrup, Confectionery Coating (sugar, palm kernel oil, whey powder, soy lecithin), Marshmallows (sugar, corn starch, corn syrup, dextrose, gelatin, color (red 40, yellow 5, blue 1, yellow 6), artificial flavor), Crisp Rice (rice flour, barley malt extract, Salt), Canola Oil, Fructose, High Fructose Corn Syrup, Sugar. Contains 2 % or less of: Vegetable Glycerin, Maltodextrin, Calcium Carbonate, Sorbitol, Water, Gelatin, Salt, Soy Lecithin, Artificial Flavor."
     }
 
 

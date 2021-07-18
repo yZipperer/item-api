@@ -209,6 +209,7 @@
       * Cheerios
         * Honey Nut Cheerios
       * Cinnamon Toast Crunch
+      * Lucky Charms
     * SunChips
     * McCormick
     * MorningStar Farms
