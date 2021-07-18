@@ -2271,7 +2271,7 @@
     {
         "name": "MorningStar Farms Plant Based Meatless Chorizo",
         "id": "fvm216",
-        "category": ["Vegan", "Vegetarian", "meat-alternative"],
+        "category": ["vegan", "vegetarian", "meat-alternative"],
         "brand": "MorningStar Farms",
         "weight": "13.5 ounces",
         "hot": false,

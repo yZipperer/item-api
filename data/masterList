@@ -63,6 +63,9 @@ Categories:
 - breakfast
 - cereal
 - seasoning
+- vegan
+- vegetarian
+- meat-alternative
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -122,6 +125,7 @@ Brands:
     - Cinnamon Toast Crunch
 - SunChips
 - McCormick
+- MorningStar Farms
 
 Items:
 - apple
@@ -246,3 +250,5 @@ Items:
 - Kellogg's Froot Loops Cereal, Family Size
 
 - McCormick Original Taco Seasoning Packet
+
+- MorningStar Farms Plant Based Meatless Chorizo

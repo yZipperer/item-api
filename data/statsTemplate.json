@@ -63,6 +63,9 @@
         "cinnamon": 0,
         "cereal": 0,
         "breakfast": 0,
-        "seasoning": 0
+        "seasoning": 0,
+        "vegan": 0,
+        "vegetarian": 0,
+        "meat-alternative": 0
     }
 }
