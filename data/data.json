@@ -2267,6 +2267,36 @@
             "protein": "0 grams"
         },
         "ingredients": "Spices (Including Chili Pepper, Paprika, Oregano), Corn Starch, Salt, Onion, and Garlic."
+    },
+    {
+        "name": "MorningStar Farms Plant Based Meatless Chorizo",
+        "id": "fvm216",
+        "category": ["Vegan", "Vegetarian", "meat-alternative"],
+        "brand": "MorningStar Farms",
+        "weight": "13.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": true,
+        "description": "A delicious meat-free addition to any diet, MorningStar Farms Chorizo Crumbles are boldly seasoned and ideal for an array of savory recipes. Go ahead and get creative; use these vegan crumbles for zesty breakfast burritos, stuffed peppers, on a home-made pizza, or as part of a delicious pasta dish. These Veggie Crumbles are a good source of fiber (contain 8g total fat per serving), protein (9g per serving; 17% of daily value), and are cholesterol free (contains 2g monounsaturated fat and 4.5g polyunsaturated fat per serving; See nutrition information for saturated fat, cholesterol, and sodium content).",
+        "price": {
+            "USD": {
+                "default": "5.48",
+                "formatted": "$5.48/each"
+            }
+        },
+        "image": "http://localhost:8080/fvm216.jpeg",
+        "nutrition": {
+            "serving size": "59 grams",
+            "servings per container": "6",
+            "calories": "110",
+            "fat": "8 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "420 milligrams",
+            "potassium": "290 milligrams",
+            "carbohydrates": "6 grams",
+            "protein": "9 grams"
+        },
+        "ingredients": "Water, soy flour, corn oil, onions, paprika.contains 2% or less of garlic (garlic, water), salt, soy protein isolate, spices, citric acid, cooked onion and carrot juice concentrate, garlic powder, vinegar solids, onion powder, sugar, paprika extract color, natural flavor, faba bean protein, pea protein."
     }
 
 
