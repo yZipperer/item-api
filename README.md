@@ -126,8 +126,9 @@
           * tuna
       * crackers
         * cheddar-crackers
+        * peanut-butter-crackers
       * cookies
-          * chocolate-cookies
+        * chocolate-cookies
       * chips
         * corn-chip
         * potato-chip

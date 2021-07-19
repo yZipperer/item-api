@@ -2387,6 +2387,36 @@
             "protein": "0 grams"
         },
         "ingredients": "Corn Syrup, Sugar, Modified Corn Starch, Pear Juice Concentrate, Apple Juice Concentrate, Sweet Potato Juice Concentrate. Contains 2% or less of: Citric Acid, Vitamin C (ascorbic acid), Fruit Pectin, Sodium Citrate, Malic Acid, Color (vegetable juice, fruit juice, annatto extract, and turmeric extract), Sunflower Oil, Natural Flavor, Carnauba Wax.Adds A Trivial Amount Of Fat"
+    },
+    {
+        "name": "RITZ Peanut Butter Sandwich Crackers, 8 Pack",
+        "id": "fsc220",
+        "category": ["snacks", "cracker", "peanut-butter-crackers"],
+        "brand": "RITZ",
+        "weight": "11.04 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Delicious Ritz Sandwich Crackers are the classic go-anywhere snack that kids and adults have loved for years, layering a mouthwatering peanut butter spread between two crisp, Ritz crackers.",
+        "price": {
+            "USD": {
+                "default": "2.78",
+                "formatted": "$2.78/each"
+            }
+        },
+        "image": "http://localhost:8080/fsc220.jpeg",
+        "nutrition": {
+            "serving size": "1 pack (39 grams)",
+            "servings per container": "8",
+            "calories": "200",
+            "fat": "11 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "390 milligrams",
+            "potassium": "85 milligrams",
+            "carbohydrates": "21 grams",
+            "protein": "4 grams"
+        },
+        "ingredients": "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE {VITAMIN B1}, RIBOFLAVIN {VITAMIN B2}, FOLIC ACID), ROASTED PEANUTS, CANOLA OIL, SUGAR, DEXTROSE, WHEAT STARCH, PALM OIL, SALT, HIGH FRUCTOSE CORN SYRUP, LEAVENING (CALCIUM PHOSPHATE AND/OR BAKING SODA), SOY LECITHIN, CORNSTARCH. MILK."
     }
 
 
