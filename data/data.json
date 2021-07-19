@@ -2357,6 +2357,36 @@
             "protein": "1 grams"
         },
         "ingredients": "Cereal (whole grain oats, sugar, corn syrup, corn starch, salt, calcium carbonate, trisodium phosphate, canola oil, natural and artificial flavor. Vitamin E (mixed tocopherols) added to preserve freshness. Vitamins and Minerals: calcium carbonate, Vitamin C (Sodium Ascorbate), iron and zinc (mineral nutrients), A B Vitamin (Niacinamide), Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B1 (Thiamin Mononitrate), Vitamin A (palmitate), Vitamin B2 (Riboflavin), A B Vitamin (folic acid), Vitamin B12, Vitamin D3), Corn Syrup, Confectionery Coating (sugar, palm kernel oil, whey powder, soy lecithin), Marshmallows (sugar, corn starch, corn syrup, dextrose, gelatin, color (red 40, yellow 5, blue 1, yellow 6), artificial flavor), Crisp Rice (rice flour, barley malt extract, Salt), Canola Oil, Fructose, High Fructose Corn Syrup, Sugar. Contains 2 % or less of: Vegetable Glycerin, Maltodextrin, Calcium Carbonate, Sorbitol, Water, Gelatin, Salt, Soy Lecithin, Artificial Flavor."
+    },
+    {
+        "name": "Mott's Medleys Assorted Fruit Snacks Family Size",
+        "id": "fsf219",
+        "category": ["snacks", "fruit"],
+        "brand": "Mott's",
+        "weight": "32 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "When you need a tasty snack for kids of all ages, choose the juicy goodness of Mott's Assorted Fruit Snacks! Not only are these bite-sized gummies wholesome and delicious, but they are also made out of real fruit and veggie juices. Plus, these gluten-free fruit snacks have 60% daily value of vitamin C per serving and no artificial flavors.",
+        "price": {
+            "USD": {
+                "default": "5.88",
+                "formatted": "$5.88/each"
+            }
+        },
+        "image": "http://localhost:8080/fsf219.png",
+        "nutrition": {
+            "serving size": "1 pouch (23 grams)",
+            "servings per container": "40",
+            "calories": "80",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "30 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "19 grams",
+            "protein": "0 grams"
+        },
+        "ingredients": "Corn Syrup, Sugar, Modified Corn Starch, Pear Juice Concentrate, Apple Juice Concentrate, Sweet Potato Juice Concentrate. Contains 2% or less of: Citric Acid, Vitamin C (ascorbic acid), Fruit Pectin, Sodium Citrate, Malic Acid, Color (vegetable juice, fruit juice, annatto extract, and turmeric extract), Sunflower Oil, Natural Flavor, Carnauba Wax.Adds A Trivial Amount Of Fat"
     }
 
 

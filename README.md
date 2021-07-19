@@ -139,6 +139,7 @@
           * chili-cheese
           * honey
           * cinnamon
+          * fruit
       * pasta
           * ravioli
       * coffee
@@ -214,6 +215,7 @@
     * McCormick
     * MorningStar Farms
     * Nature Valley
+    * Mott's
 ```
 
   For a more comprehensive list see the masterList in the data folder.
