@@ -2417,6 +2417,36 @@
             "protein": "4 grams"
         },
         "ingredients": "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE {VITAMIN B1}, RIBOFLAVIN {VITAMIN B2}, FOLIC ACID), ROASTED PEANUTS, CANOLA OIL, SUGAR, DEXTROSE, WHEAT STARCH, PALM OIL, SALT, HIGH FRUCTOSE CORN SYRUP, LEAVENING (CALCIUM PHOSPHATE AND/OR BAKING SODA), SOY LECITHIN, CORNSTARCH. MILK."
+    },
+    {
+        "name": "Smucker's Strawberry Preserves",
+        "id": "fjp221",
+        "category": ["preserves", "strawberry", "jar"],
+        "brand": "Smucker's",
+        "weight": "18 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Picked at the moment of ripeness, our strawberries are cooked down to draw out the flavor so the natural sweetness shines through. Smucker’s Strawberry Preserves spreads easily, spoons easily, and disappears from the jar all too easily. Make it your family’s go-to preserves.",
+        "price": {
+            "USD": {
+                "default": "2.92",
+                "formatted": "$2.92/each"
+            }
+        },
+        "image": "http://localhost:8080/fjp221.jpeg",
+        "nutrition": {
+            "serving size": "1 Tablespoon",
+            "servings per container": "26",
+            "calories": "50",
+            "fat": "0 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "0 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "13 grams",
+            "protein": "0 grams"
+        },
+        "ingredients": "Strawberries, High Fructose Corn Syrup, Corn Syrup, Sugar, Fruit Pectin, Citric Acid."
     }
 
 

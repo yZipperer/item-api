@@ -154,6 +154,8 @@
       * snacks
       * granola
       * bar
+      * jar
+      * preserves
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
@@ -217,6 +219,7 @@
     * MorningStar Farms
     * Nature Valley
     * Mott's
+    * Smucker's
 ```
 
   For a more comprehensive list see the masterList in the data folder.
