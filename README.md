@@ -143,6 +143,7 @@
           * fruit
       * pasta
           * ravioli
+          * meatballs
       * coffee
       * popcorn
       * cereal
@@ -155,6 +156,7 @@
       * granola
       * bar
       * jar
+      * cup
       * preserves
 
   Available Brands:
