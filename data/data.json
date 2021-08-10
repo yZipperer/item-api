@@ -2451,7 +2451,7 @@
     {
         "name": "Chef Boyardee Mini ABC's & 123's with Meatballs",
         "id": "fpc222",
-        "category": ["pasta", "meatballs", "cup"],
+        "category": ["pasta", "meatballs", "cup", "quick-meal"],
         "brand": "Chef Boyardee",
         "weight": "7.5 ounces",
         "hot": false,
@@ -2477,6 +2477,36 @@
             "protein": "7 grams"
         },
         "ingredients": "Water, Tomatoes (Tomato Puree, Water), Meatballs (Pork, Dark Chicken, Mechanically Separated Chicken, Beef, Water, Crackermeal [Enriched Wheat Flour {Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid}, May Contain Guar Gum], Soy Protein Concentrate, Salt, Caramel Color, Flavorings, Soybean Oil, Citric Acid), Enriched Pasta (Durum Wheat Semolina, Glycerol Monostearate, Niacin, Reduced Iron, Thiamine Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Folic Acid), High Fructose Corn Syrup, LESS THAN 2% OF: Salt, Pasteurized Processed Cheese (Cheddar and Enzyme Modified Cheddar [Pasteurized Milk, Cultures, Salt, Enzymes], Water, Sodium Phosphate, Milkfat, Salt, Apo-Carotenal [Color]), Enzyme Modified Cheese (Cheddar Cheese [Pasteurized Milk, Cultures, Salt, Enzymes], Cream, Water, Salt, Sodium Phosphate, Xanthan Gum, Carotenal [Color]), Modified Corn Starch, Onion Powder, Citric Acid, Flavorings, Soybean Oil. CONTAINS: MILK, SOY, WHEAT"
+    },
+    {
+        "name": "Chef Boyardee Rice with Chicken and Vegetables",
+        "id": "fcb223",
+        "category": ["cup", "quick-meal"],
+        "brand": "Chef Boyardee",
+        "weight": "7.25 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Chef Boyardee Rice with Chicken & Vegetables Microwavable Bowls mix tender rice with chicken, carrots, celery, and peas all in a microwavable bowl for an easy snack for kids that’s ready in 45 seconds-just heat and eat. Our microwavable bowls make it easy to take your Chef Boyardee with you on the go.",
+        "price": {
+            "USD": {
+                "default": "0.98",
+                "formatted": "$0.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fcb223.jpeg",
+        "nutrition": {
+            "serving size": "1 Cup (205 grams)",
+            "servings per container": "1",
+            "calories": "230",
+            "fat": "9 grams",
+            "cholesterol": "20 milligrams",
+            "sodium": "810 milligrams",
+            "potassium": "290 milligrams",
+            "carbohydrates": "31 grams",
+            "protein": "5 grams"
+        },
+        "ingredients": "Water, Rice, Carrots, Chicken (White Meat Chicken, Water, Modified Rice Starch, Isolated Soy Protein, Salt, Sodium Phosphates), Rendered Chicken Fat, Celery, Peas, Modified Corn Starch, LESS THAN 2% OF: Salt, Dehydrated Onions, Soybean Oil, Flavorings, Autolyzed Yeast Extract, Chicken Broth, Spices, Beta Carotene (Color). CONTAINS: SOY"
     }
 
 

@@ -158,6 +158,7 @@
       * jar
       * cup
       * preserves
+      * quick-meal
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
