@@ -162,6 +162,7 @@
         * quick-lunch
         * quick-dinner
         * quick-breakfast
+      * pizza
 
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)

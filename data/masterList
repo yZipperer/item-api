@@ -79,6 +79,7 @@ Categories:
     - quick-lunch
     - quick-dinner
     - quick-breakfast
+- pizza
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -283,3 +284,4 @@ Items:
 - Smucker's Strawberry Preserves
 
 - Lunchables Turkey & American Cheese Cracker Stacks
+- Lunchables Pizza with Peperoni Lunch Kit
