@@ -2507,6 +2507,36 @@
             "protein": "5 grams"
         },
         "ingredients": "Water, Rice, Carrots, Chicken (White Meat Chicken, Water, Modified Rice Starch, Isolated Soy Protein, Salt, Sodium Phosphates), Rendered Chicken Fat, Celery, Peas, Modified Corn Starch, LESS THAN 2% OF: Salt, Dehydrated Onions, Soybean Oil, Flavorings, Autolyzed Yeast Extract, Chicken Broth, Spices, Beta Carotene (Color). CONTAINS: SOY"
+    },
+    {
+        "name": "Lunchables Turkey & American Cheese Cracker Stacks",
+        "id": "flc224",
+        "category": ["quick-lunch", "quick-meal", "snacks"],
+        "brand": "Lunchables",
+        "weight": "3.4 ounces",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
+        "description": "Lunchables Turkey and American Cracker Stackers Lunch Combinations are the perfect on-the-go lunch while letting kids have fun with their food. Each convenient lunch kit includes Oscar Mayer White Meat Lean Turkey Slices, Kraft American pasteurized prepared cheese product and crackers to create tasty stacked snacks. Chocolate sandwich cookies serve as a delicious dessert. Our turkey and cheese crackers kit is a fast and fun option for -school lunch, picnics, or on-the-go snacking.",
+        "price": {
+            "USD": {
+                "default": "1.48",
+                "formatted": "$1.48/each"
+            }
+        },
+        "image": "http://localhost:8080/flc224.jpeg",
+        "nutrition": {
+            "serving size": "1 Package",
+            "servings per container": "1",
+            "calories": "330",
+            "fat": "17 grams",
+            "cholesterol": "30 milligrams",
+            "sodium": "580 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "36 grams",
+            "protein": "11 grams"
+        },
+        "ingredients": "Chocolate Sandwich Creme Cookie (Sugar, Unbleached Enriched Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Palm And Soybean Oil, Dextrose, Cocoa [Processed With Alkali], Contains 2% Or Less Of: High Fructose Corn Syrup, Cornstarch, Sodium Bicarbonate [Leavener], Salt, Artificial Flavors, Soy Lecithin, Chocolate), Contains: Wheat, Soy. White Turkey - Cured - Smoke Flavor Added (White Turkey, Water, Potassium Lactate, Contains Less Than 2% Of Modified Cornstarch, Dextrose, Salt, Carrageenan, Sodium Phosphates, Sodium Diacetate, Potassium Chloride, Sodium Ascorbate, Natural And Artificial Flavor, Sodium Nitrite, Smoke Flavor), American Pasteurized Prepared Cheese Product (Milk, Water, Milk Protein Concentrate, Milkfat, Whey Protein Concentrate, Sodium Citrate, Whey, Salt, Lactic Acid, Sorbic Acid, Cheese Culture, Enzymes, Oleoresin Paprika [Color], Annatto Extract [Color], With Sunflower Lecithin Added For Slice Separation), Contains: Milk. Crackers (Enriched Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Palm Oil, Sugar, Salt, Baking Soda, Whey [From Milk], Soy Lecithin, Natural Flavor), Contains Wheat, Milk, Soy."
     }
 
 

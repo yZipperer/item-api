@@ -76,6 +76,9 @@ Categories:
 - cup
 - preserves
 - quick-meal
+    - quick-lunch
+    - quick-dinner
+    - quick-breakfast
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -140,6 +143,7 @@ Brands:
 - Nature Valley
 - Mott's
 - Smucker's
+- Lunchables
 
 Items:
 - apple
@@ -277,3 +281,5 @@ Items:
 - Mott's Medleys Assorted Fruit Snacks Family Size
 
 - Smucker's Strawberry Preserves
+
+- Lunchables Turkey & American Cheese Cracker Stacks
