@@ -228,6 +228,7 @@
     * Mott's
     * Smucker's
     * Lunchables
+    * Totino's
 ```
 
   For a more comprehensive list see the masterList in the data folder.
