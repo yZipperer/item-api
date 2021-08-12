@@ -2567,6 +2567,36 @@
             "protein": "14 grams"
         },
         "ingredients": "PIZZA CRUST (WHEAT FLOUR [ENRICHED BLEACHED WHEAT FLOUR (FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WHOLE WHEAT FLOUR], WATER, SUGAR, GLYCERIN, SOYBEAN OIL, CONTAINS 2% OR LESS OF: YEAST, VITAL WHEAT GLUTEN, MONO- & DIGLYCERIDES, SALT, XANTHAN GUM, CALCIUM PROPIONATE, SORBIC ACID, NATURAL AND ARTIFICIAL FLAVOR, ENZYME), CONTAINS: WHEAT; PIZZA SAUCE (WATER, TOMATO PASTE, SUGAR, CONTAINS LESS THAN 2% OF FOOD STARCH MODIFIED, GARLIC POWDER, SALT, ONION POWDER, CITRIC ACID, SPICE, XANTHAN GUM, SODIUM BENZOATE AND POTASSIUM SORBATE [ADDED AS PRESERVATIVES], DRIED BASIL, NATURAL FLAVOR); PEPPERONI MADE WITH PORK AND CHICKEN (PORK, MECHANICALLY SEPARATED CHICKEN, SALT, CONTAINS 2% OR LESS OF PORK STOCK, SPICES [INCLUDING MUSTARD], DEXTROSE, LACTIC ACID STARTER CULTURE, OLEORESIN OF PAPRIKA, FLAVORING, SODIUM ASCORBATE, SODIUM NITRITE, BHA, BHT, CITRIC ACID); MOZZARELLA PASTEURIZED PREPARED CHEESE PRODUCT (PASTEURIZED PART-SKIM MILK, WATER, MILK PROTEIN CONCENTRATE, MILK FAT, CONTAINS LESS THAN 2% OF SALT, CHEESE CULTURE, SODIUM CITRATE, SORBIC ACID AS A PRESERVATIVE, ENZYMES, CELLULOSE POWDER ADDED TO PREVENT CAKING), CONTAINS: MILK."
+    },
+    {
+        "name": "Lunchables Ham & American Cheese Cracker Stacks",
+        "id": "flc226",
+        "category": ["quick-lunch", "quick-meal", "snacks"],
+        "brand": "Lunchables",
+        "weight": "3.4 ounces",
+        "hot": false,
+        "cold": true,
+        "frozen": false,
+        "description": "Lunchables Ham and American Cracker Stackers Lunch Combinations is the perfect choice for an on-the-go lunch while letting kids have fun with their food. Each convenient lunch kit includes Oscar Mayer Lean Ham Slices, Kraft American pasteurized prepared cheese product and crackers to create tasty stacked snacks. Chocolate sandwich cookies serve as a delicious dessert. Our ham and cheese crackers kit is a fast and fun option for school lunch, picnics or on-the-go snacking.",
+        "price": {
+            "USD": {
+                "default": "1.48",
+                "formatted": "$1.48/each"
+            }
+        },
+        "image": "http://localhost:8080/flc226.jpeg",
+        "nutrition": {
+            "serving size": "1 Package",
+            "servings per container": "1",
+            "calories": "330",
+            "fat": "17 grams",
+            "cholesterol": "30 milligrams",
+            "sodium": "620 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "36 grams",
+            "protein": "11 grams"
+        },
+        "ingredients": "CHOCOLATE CREME SANDWICH COOKIE- SUGAR, UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM AND SOYBEAN OIL, DEXTROSE, COCOA (PROCESSED WITH ALKALI), CONTAINS 2% OR LESS OF: HIGH FRUCTOSE CORN SYRUP, CORNSTARCH, SODIUM BICARBONATE (LEAVENER), SALT, ARTIFICIAL FLAVORS, SOY LECITHIN, CHOCOLATE. CONTAINS: WHEAT, SOY.COOKED HAM - WATER ADDED - CHOPPED AND FORMED - SMOKE FLAVOR ADDED - HAM, WATER, CONTAINS LESS THAN 2% OF SODIUM LACTATE, POTASSIUM CHLORIDE, MODIFIED CORNSTARCH, SUGAR, SODIUM PHOSPHATE, SALT, SODIUM DIACETATE, SODIUM ASCORBATE, FLAVOR, SODIUM NITRITE, SMOKE FLAVOR. AMERICAN PASTEURIZED PREPARED CHEESE PRODUCT - MILK, WATER, MILK PROTEIN CONCENTRATE, WHEY, MILKFAT, WHEY PROTEIN CONCENTRATE, SODIUM CITRATE, SALT, LACTIC ACID, SORBIC ACID AS A PRESERVATIVE, CHEESE CULTURE, ENZYMES, OLEORESIN PAPRIKA (COLOR), ANNATTO EXTRACT (COLOR), WITH SUNFLOWER LECITHIN ADDED FOR SLICE SEPARATION. CONTAINS: MILK. CRACKERS - ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, SUGAR, SALT, BAKING SODA, WHEY (FROM MILK), SOY LECITHIN, NATURAL FLAVOR. CONTAINS: WHEAT, MILK, SOY."
     }
 
 
