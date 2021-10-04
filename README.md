@@ -2,9 +2,11 @@
 <img alt="Version" src="https://img.shields.io/github/v/release/yZipperer/item-api">
 
 ## Overview:
-  This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information (USDA nutrition information on produce), and many more things.
+  This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information, and much more.
 
   I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 88 products, but I work on adding more products every so often.
+
+  Newly introduced was the idea of multiple countries. Now, this project will include data from multiple countries.
   
   ### By the Numbers:
     * 88 total items
@@ -85,6 +87,8 @@
   
   http://localhost:8080/food?cat=bakery&brand=Franz
   ```
+
+## Categories and Brands
 
 ### Available Categories:
 
