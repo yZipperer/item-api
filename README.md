@@ -10,6 +10,7 @@
     * 88 total items
     * 80 categories
     * 63 different brands
+    * 2 countries
     * $227.19 worth of products
     * 119,021 total calories
 
@@ -46,13 +47,20 @@
   ```
   http://localhost:8080/            /*all data*/
   http://localhost:8080/docs            /*returns the docs for the routes*/
-  http://localhost:8080/food            /*returns all food data*/
+
+  --- Please Note ---
+  For the country parameter below, select one of the following (case sensitive):
+    - "United States"
+    - "Japan"
+
+  http://localhost:8080/food/:country            /*returns all food data based on country provided*/
+
 
   --- Searching ---
 
-  http://localhost:8080/food?brand=putbrandhere            /*search based on brand*/
-  http://localhost:8080/food?cat=putcategoryhere            /*search based on category*/
-  http://localhost:8080/food?cat=putcategoryhere&brand=putbrandhere            /*search based on category and brand*/
+  http://localhost:8080/food/:country?brand=putbrandhere            /*search based on brand*/
+  http://localhost:8080/food/:country?cat=putcategoryhere            /*search based on category*/
+  http://localhost:8080/food/:country?cat=putcategoryhere&brand=putbrandhere            /*search based on category and brand*/
 
   --- Admin ---
   http://localhost:8080/stats            /*shows stats on the items in the data set*/
@@ -78,6 +86,11 @@
   http://localhost:8080/food?cat=bakery&brand=Franz
   ```
 
+### Available Categories:
+
+<details>
+  <summary>Categories for United States Data</summary>
+  
   ***Note: these are case sensitive***
 
 ```
@@ -163,7 +176,18 @@
         * quick-dinner
         * quick-breakfast
       * pizza
+```
 
+</details>
+
+### Available Brands:
+
+<details>
+  <summary>Brands for United States Data</summary>
+  
+  ***Note: these are case sensitive***
+
+```
   Available Brands:
     * unknown (This is for things like produce and products that don't have a clear brand name)
     * Franz
@@ -231,7 +255,9 @@
     * Totino's
 ```
 
-  For a more comprehensive list see the masterList in the data folder.
+</details>
+
+  For a more comprehensive list see the masterList in the data folder of each country.
   
 ## Data Layout:
 
@@ -278,3 +304,5 @@ Sample Data Layout:
 
 ## Contributions:
   Contributions are welcome, especially for product data. Just open up an issue with what you would like to add.
+
+  To contribute, simply copy and paste one of the latest product outlines in the data.json file. Then, modify it with the product you added. Lastly, add an image to the correct folder.
