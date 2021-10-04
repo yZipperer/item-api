@@ -1,0 +1,13 @@
+Categories:
+- candy
+    - chocolate
+    - wafer
+- (flavors)
+    - orange-flavor
+
+Brands:
+- Nestlé
+- KitKat
+
+Items:
+- KitKat Chocolate Orange

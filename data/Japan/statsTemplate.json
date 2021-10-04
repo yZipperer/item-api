@@ -1,6 +1,9 @@
 {
     "numOfCats": 0,
     "numByCat": {
-
+        "candy": 0,
+        "chocolate": 0,
+        "orange-flavor": 0,
+        "wafer": 0
     }
 }

@@ -1,25 +1,25 @@
 [
     {
-        "name": "",
-        "id": "ffa137",
-        "category": "",
-        "brand": "",
-        "weight": "",
+        "name": "KitKat Chocolate Orange",
+        "id": "Jfcc001",
+        "category": ["candy", "chocolate", "orange-flavor", "wafer"],
+        "brand": ["Nestlé", "KitKat"],
+        "weight": "110 grams",
         "hot": false,
         "cold": false,
         "frozen": false,
-        "description": "",
+        "description": "A perfect blend of smooth milk chocolate and refreshing orange flavour that makes for an utterly delicious treat.",
         "price": {
             "USD": {
-                "default": "0.72",
-                "formatted": "$0.72/each"
+                "default": "5.24",
+                "formatted": "$5.24/each"
             },
             "JPY": {
-                "default": "0.72",
-                "formatted": "$0.72/each"
+                "default": "525",
+                "formatted": "¥525/each"
             }
         },
-        "image": "http://localhost:8080/Japan/ffa137.jpeg",
+        "image": "http://localhost:8080/Japan/Jfcc001.jpg",
         "nutrition": {
             "serving size": "",
             "calories": "",
@@ -30,6 +30,6 @@
             "carbohydrates": "",
             "protein": ""
         },
-        "ingredients": ""
+        "ingredients": "Orange Powder, Baking Soda, Cacao Mass, Cocoa Butter, Cocoa Powder, Emulsifier, Fragrance, Lactose, Sugar, Vegetable Fat, Wheat Flour, Whole Milk Powder, Yeast"
     }
 ]
