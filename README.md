@@ -9,12 +9,12 @@
   Newly introduced was the idea of multiple countries. Now, this project will include data from multiple countries.
   
   ### By the Numbers:
-    * 88 total items
-    * 80 categories
-    * 63 different brands
+    * 89 total items
+    * 82 categories
+    * 64 different brands
     * 2 countries
-    * $227.19 worth of products
-    * 119,021 total calories
+    * $232.43 worth of products
+    * 119,571 total calories
 
   ### Contents
     * names
