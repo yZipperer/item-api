@@ -1,0 +1,35 @@
+[
+    {
+        "name": "",
+        "id": "ffa137",
+        "category": "",
+        "brand": "",
+        "weight": "",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "",
+        "price": {
+            "USD": {
+                "default": "0.72",
+                "formatted": "$0.72/each"
+            },
+            "JPY": {
+                "default": "0.72",
+                "formatted": "$0.72/each"
+            }
+        },
+        "image": "http://localhost:8080/ffa137.jpeg",
+        "nutrition": {
+            "serving size": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": ""
+    }
+]
