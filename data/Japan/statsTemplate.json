@@ -4,6 +4,9 @@
         "candy": 0,
         "chocolate": 0,
         "orange-flavor": 0,
-        "wafer": 0
+        "wafer": 0,
+        "snacks": 0,
+        "popcorn": 0,
+        "corn": 0
     }
 }

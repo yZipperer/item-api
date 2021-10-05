@@ -4,17 +4,19 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information, and much more.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 88 products, but I work on adding more products every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 90 products, but new products are added every so often.
 
   Newly introduced was the idea of multiple countries. Now, this project will include data from multiple countries.
   
   ### By the Numbers:
-    * 89 total items
+    * 90 total items
     * 82 categories
-    * 64 different brands
+    * 65 different brands
     * 2 countries
-    * $232.43 worth of products
-    * 119,571 total calories
+    * $233.03 worth of products
+    * 119,571 total calories*
+
+    *some products may not be accounted for due to unreadable or incomplete nutritional information
 
   ### Contents
     * names
@@ -161,11 +163,11 @@
           * cinnamon
           * fruit
           * orange
+          * corn
       * pasta
           * ravioli
           * meatballs
       * coffee
-      * popcorn
       * cereal
       * breakfast
       * seasoning
@@ -173,6 +175,7 @@
       * vegetarian
       * meat-alternative
       * snacks
+        * popcorn
       * granola
       * bar
       * jar
@@ -261,6 +264,7 @@
     * Smucker's
     * Lunchables
     * Totino's
+    * Yaokin
 ```
 
 </details>
