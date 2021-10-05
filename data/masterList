@@ -1,6 +1,10 @@
 Note: This is a collection of all categories, brands, and products throughout multiple countries. When querying product data, not all of these values will work for every country.
 For values that will work with each country, check the specific masterLists of each country in their respected folders.
 
+Country Codes:
+- US => United States
+- JP => Japan
+
 Categories:
 - produce
 - bakery

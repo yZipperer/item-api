@@ -66,9 +66,10 @@
 
   --- Admin ---
   http://localhost:8080/stats            /*shows stats on the items in the data set*/
+  example search: http://localhost:8080/stats?country=US /*see masterList in data folder for country codes*/
   ```
 
-## How to Search the Data
+## How to Search the Data (/food route)
 
   1. You will begin by typing one of the above routes into either a search bar, or you can make a request through a command line
   2. there are 2 route parameters to know
@@ -139,6 +140,7 @@
           * boxed-candy
           * bar-candy
           * bagged-candy
+          * wafer
       * seafood
           * tuna
       * crackers
@@ -158,6 +160,7 @@
           * honey
           * cinnamon
           * fruit
+          * orange
       * pasta
           * ravioli
           * meatballs
@@ -214,6 +217,7 @@
     * Great Grains
     * Aquafina
     * Nestle
+      * KitKat
     * Crystal Geyser
     * Ball Park
     * Bolthouse Farms
