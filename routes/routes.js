@@ -9,6 +9,6 @@ const {
 
 router.get("/", allData);
 router.get("/food/:country", food);
-router.get("/stats/", stats)
+router.get("/stats/", stats);
 
 module.exports = router;

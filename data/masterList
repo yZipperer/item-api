@@ -1,0 +1,297 @@
+Note: This is a collection of all categories, brands, and products throughout multiple countries. When querying product data, not all of these values will work for every country.
+For values that will work with each country, check the specific masterLists of each country in their respected folders.
+
+Categories:
+- produce
+- bakery
+    - sliced-bread
+    - white-bread
+    - multigrain-bread
+    - buttermilk-bread
+    - butter-bread
+    - hawaiian-bread
+    - wheat-bread
+    - rolls-bread
+    - hoagie
+    - muffins
+    - english-muffins
+- dry-goods
+    - flour
+    - sugar
+    - oats
+    - dry-coffee
+    - mixes
+        - brownie-mix
+- brownies
+- canned
+    - canned-produce
+- dairy
+    - milk
+        - whole-milk
+        - 1-percent-milk
+    - eggs
+    - cheese
+        - sliced-cheese
+        - cream-cheese
+    - yogurt
+- water
+    - bottled-water
+    - case-water
+    - jug-water
+- candy
+    - boxed-candy
+    - bar-candy
+    - bagged-candy
+    - wafer
+- seafood
+    - tuna
+- crackers
+    - cheddar-crackers
+    - peanut-butter-crackers
+- cookies
+    - chocolate-cookies
+- chips
+    - corn-chip
+    - potato-chip
+- (flavors)
+    - strawberry
+    - chocolate
+    - vanilla
+    - cheddar
+    - chili-cheese
+    - honey
+    - cinnamon
+    - fruit
+- pasta
+    - ravioli
+    - meatballs
+- coffee
+- popcorn
+- breakfast
+- cereal
+- seasoning
+- vegan
+- vegetarian
+- meat-alternative
+- snacks
+- granola
+- bar
+- jar
+- cup
+- preserves
+- quick-meal
+    - quick-lunch
+    - quick-dinner
+    - quick-breakfast
+- pizza
+
+Brands:
+- unknown (This is for things like produce and products that don't have a clear brand name)
+- Franz
+- Del Monte
+- Bush's
+- Hunt's
+- Dole
+- Rosarita
+- Manwich
+- Chef Boyardee
+- Gold Medal
+- C&H
+- Quaker
+- Eggland's Best
+- Sargento
+- Meadow Gold
+- TruMoo
+- Grandma Sycamore's
+- Sara Lee
+- Great Grains
+- Aquafina
+- Nestlé
+    - KitKat
+- Crystal Geyser
+- Ball Park
+- Bolthouse Farms
+- Hershey's
+- Yoplait
+- Kraft
+- Campbell's
+- StarKist
+- Whoppers
+- Twizzlers
+- Philadelphia
+- Honey Maid
+- Lay's
+- Nabisco
+    - Ritz
+    - Chips Ahoy!
+    - Nilla
+- Cheez-It
+- Kellogg's
+    - Club
+    - Froot Loops
+- Pepperidge Farm
+    - Goldfish
+- Folgers
+- Pillsbury
+    - Funfetti
+- Oreo
+- Thomas'
+- Cheetos
+- Doritos
+- General Mills
+    - Cheerios
+        - Honey Nut Cheerios
+    - Cinnamon Toast Crunch
+    - Lucky Charms
+- SunChips
+- McCormick
+- MorningStar Farms
+- Nature Valley
+- Mott's
+- Smucker's
+- Lunchables
+- Totino's
+
+Items:
+- apple
+- bannana
+- grape
+- lemon
+- grapefruit
+- cherry
+- strawberry
+- pineapple
+- lime
+- apricot
+- avacado
+
+- Del Monte Fresh Whole Kernel Corn
+- Del Monte Green Beans
+- Del Monte Sliced Peaches in 100% Juice
+
+- Bush's Black Beans
+
+- Hunt's Tomato Sauce
+
+- Dole Pineapple Chunks in 100% Pineapple Juice
+- Dole Celery Stalk
+
+- Rosarita Traditional Refried Beans
+
+- Manwich Original Sloppy Joe
+
+- Chef Boyardee Mini Beef Ravioli
+- Chef Boyardee Spaghetti and Meatballs
+- Chef Boyardee Mini ABC's & 123's with Meatballs
+- Chef Boyardee Rice with Chicken and Vegetables
+
+- Gold Medal All-Purpose Flour
+
+- C&H Premium Pure Cane Sugar
+- C&H Premium Pure Golden Brown Sugar
+
+- Quaker Oats Old Fashioned Oatmeal
+
+- Eggland's Best Large White Grade A Eggs, 12 Eggs
+
+- Sargento Creamy Sliced Cheddar Cheese, 10 Slices
+
+- Meadow Gold Whole Milk
+
+- TruMoo Chocolate Whole Milk
+- TruMoo 1% Low-Fat Strawberry Milk
+
+- Grandma Sycamore's Home-Maid White Bread
+
+- Sara Lee White Bread, 20 Slices
+- Sara Lee Butter Bread, 22 Slices
+- Sara Lee Honey Wheat Bread, 22 Slices
+- Sara Lee Sweet Hawaiian Rolls, 12 count
+
+- Franz Buttermilk Bread
+- Franz Hoagie Rolls, 6 count
+- Franz Hawaiian Rolls, 12 count
+
+- Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count
+- Great Grains Multigrain Flax Seed Premium Bread
+
+- Aquafina Purified Water, 32 count
+
+- Nestle Pure Life Purified Water, 32 count
+    - KitKat Chocolate Orange
+
+- Crystal Geyser Alpine Spring Water, 1 Gallon
+
+- Ball Park Classic White Hot Dog Buns, 8-Pack
+
+- Bolthouse Farms Baby Carrots, 2lb bag
+
+- Hershey's Milk Chocolate Candy Bars, 6 Pack
+
+- Yoplait Harvest Peach Yogurt, 1 Cup
+
+- Kraft Singles American Cheese, 24 Slices
+
+- StarKist Solid White Albacore Tuna in Water, 12 Ounces
+
+- Campbell's SpaghettiOs with Meatballs
+
+- Whoppers, Malted Milk Chocolate Balls
+
+- Twizzlers, Strawberry Chewy Candy
+
+- Philadelphia Original Cream Cheese, 2 Pack
+
+- Honey Maid Chocolate Graham Crackers
+- Honey Maid Honey Graham Crackers, Family Size
+
+- Lay's Classic Potato Chips
+- Lay's Salt and Vinegar Potato Chips
+
+- RITZ Crackers
+- RITZ Peanut Butter Sandwich Crackers, 8 Pack
+
+- Chips Ahoy! Original Chocolate Chip Cookies, Family Size
+
+- Cheez-It Baked Snack Crackers, Original
+
+- Kellogg's Club Crackers, Original
+
+- Nilla Vanilla Wafer Cookies
+
+- Pepperidge Farm Goldfish Cheddar Crackers
+
+- Folgers Classic Roast Ground Coffee
+
+- Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces
+
+- Thomas' Origional Nooks & Crannies English Muffins, 6 Count
+
+- Cheetos Crunch Pop Mix
+
+- Doritos 3D Crunch Chili Cheese Nacho Flavored Chips
+
+- Honey Nut Cheerios Cereal, Family Size
+
+- Cinnamon Toast Crunch Cereal, Family Size
+- Cinnamon Toast Crunch Churros Cereal, Family Size
+
+- Lucky Charms Breakfast Bars, 16 Bars
+
+- Kellogg's Froot Loops Cereal, Family Size
+
+- McCormick Original Taco Seasoning Packet
+
+- MorningStar Farms Plant Based Meatless Chorizo
+
+- Nature Valley Crunchy Oats 'n Honey Granola Bars, 48 Bars
+
+- Mott's Medleys Assorted Fruit Snacks Family Size
+
+- Smucker's Strawberry Preserves
+
+- Lunchables Turkey & American Cheese Cracker Stacks
+- Lunchables Pizza with Peperoni Lunch Kit
+- Lunchables Ham & American Cheese Cracker Stacks
+
+- Totino's Party Pizza Pack! 4 Combination Party Pizzas

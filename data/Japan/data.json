@@ -2,7 +2,7 @@
     {
         "name": "KitKat Chocolate Orange",
         "id": "Jfcc001",
-        "category": ["candy", "chocolate", "orange-flavor", "wafer"],
+        "category": ["candy", "chocolate", "orange", "wafer"],
         "brand": ["Nestlé", "KitKat"],
         "weight": "105 grams",
         "hot": false,

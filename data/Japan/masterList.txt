@@ -1,9 +1,9 @@
 Categories:
 - candy
-    - chocolate
     - wafer
 - (flavors)
-    - orange-flavor
+    - orange
+    - chocolate
 
 Brands:
 - Nestlé
