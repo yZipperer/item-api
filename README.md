@@ -281,6 +281,8 @@
     * Totino's
 ```
 
+</details>
+
 <details>
   <summary>Brands for Japan Data</summary>
   
