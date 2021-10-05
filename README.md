@@ -142,7 +142,6 @@
           * boxed-candy
           * bar-candy
           * bagged-candy
-          * wafer
       * seafood
           * tuna
       * crackers
@@ -162,8 +161,6 @@
           * honey
           * cinnamon
           * fruit
-          * orange
-          * corn
       * pasta
           * ravioli
           * meatballs
@@ -186,6 +183,25 @@
         * quick-dinner
         * quick-breakfast
       * pizza
+```
+
+</details>
+
+<details>
+  <summary>Categories for Japan Data</summary>
+  
+  ***Note: these are case sensitive***
+
+```
+  Available Categories:
+    * candy
+      * wafer
+    * (flavors)
+        * orange
+        * chocolate
+        * corn
+    * snacks
+        * popcorn
 ```
 
 </details>
@@ -220,7 +236,6 @@
     * Great Grains
     * Aquafina
     * Nestle
-      * KitKat
     * Crystal Geyser
     * Ball Park
     * Bolthouse Farms
@@ -264,6 +279,17 @@
     * Smucker's
     * Lunchables
     * Totino's
+```
+
+<details>
+  <summary>Brands for Japan Data</summary>
+  
+  ***Note: these are case sensitive***
+
+```
+  Available Brands:
+    * Nestle
+      * KitKat
     * Yaokin
 ```
 
