@@ -47,6 +47,7 @@ Categories:
     - bar-candy
     - bagged-candy
     - wafer
+    - gummy
 - seafood
     - tuna
 - crackers
@@ -68,6 +69,7 @@ Categories:
     - fruit
     - corn
     - matcha
+    - peach
 - pasta
     - ravioli
     - meatballs
@@ -160,6 +162,7 @@ Brands:
 - Totino's
 - Glico
     - Pocky
+- Yaokin
 
 Items:
 - apple
@@ -227,7 +230,7 @@ Items:
 - Aquafina Purified Water, 32 count
 
 - Nestle Pure Life Purified Water, 32 count
-    - KitKat Chocolate Orange
+    - KitKat Chocolate Orange*
 
 - Crystal Geyser Alpine Spring Water, 1 Gallon
 
@@ -306,3 +309,10 @@ Items:
 - Totino's Party Pizza Pack! 4 Combination Party Pizzas
 
 - Glico Pocky Matcha Chocolate
+
+- Yaokin Salty Popcorn**
+- Yaokin Peach Gummy**
+
+Due to language barriers, some products may not have complete nutritional information:
+*incomplete nutritional information
+**incomplete nutritional information and calories not logged in Readme Stats

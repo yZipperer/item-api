@@ -100,5 +100,39 @@
             "protein": "3 grams"
         },
         "ingredients": "Wheat Flour, Sugar, Blend of Vegetable Oils(Palm Oil, Hydrogenated Palm Kernel Oil, Hydrogenated Palm Oil, Hydrogenated Rapeseed Oil), Whole Milk Powder, Lactose, Vegetable Oil Shortening(Palm Oil, Hydrogenated Palm Oil), Green Tea Powder, Artificial Flavors, Salt, Yeast, Soy Lecithin, Leavening(Sodium Bicarbonate), Mono- And Diglycerides of Fatty Acids, Beta-Carotene Color, Blue 1 Lake Color. Contains Wheat, Milk and Soybeans May Contain Almond and Coconut"
+    },
+    {
+        "name": "Yaokin Peach Gummy",
+        "id": "Jfcg004",
+        "category": ["snacks", "candy", "gummy", "peach"],
+        "brand": "Yaokin",
+        "weight": "28 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The packet of Peach Gummy is full of delicate aroma that remains in your nose for a while. There are 12 mini gummies in each bag and they easily melt with the warmth of the mouth.",
+        "price": {
+            "USD": {
+                "default": "0.53",
+                "formatted": "$0.53/each"
+            },
+            "JPY": {
+                "default": "53",
+                "formatted": "¥53/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfcg004.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
     }
 ]

@@ -3,11 +3,13 @@ Country Code: JP
 Categories:
 - candy
     - wafer
+    - gummy
 - (flavors)
     - orange
     - chocolate
     - corn
     - matcha
+    - peach
 - snacks
     - popcorn
 - breadsticks
@@ -23,6 +25,7 @@ Items:
 - KitKat Chocolate Orange*
 
 - Yaokin Salty Popcorn**
+- Yaokin Peach Gummy**
 
 - Glico Pocky Matcha Chocolate
 
