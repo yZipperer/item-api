@@ -67,6 +67,7 @@ Categories:
     - cinnamon
     - fruit
     - corn
+    - matcha
 - pasta
     - ravioli
     - meatballs
@@ -89,6 +90,7 @@ Categories:
     - quick-dinner
     - quick-breakfast
 - pizza
+- breadsticks
 
 Brands:
 - unknown (This is for things like produce and products that don't have a clear brand name)
@@ -156,6 +158,8 @@ Brands:
 - Smucker's
 - Lunchables
 - Totino's
+- Glico
+    - Pocky
 
 Items:
 - apple
@@ -300,3 +304,5 @@ Items:
 - Lunchables Ham & American Cheese Cracker Stacks
 
 - Totino's Party Pizza Pack! 4 Combination Party Pizzas
+
+- Glico Pocky Matcha Chocolate

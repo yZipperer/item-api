@@ -66,5 +66,39 @@
             "protein": ""
         },
         "ingredients": "Red Pepper, Amino Acid, Corn, Dextrin, Salt, Seasoning, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Glico Pocky Matcha Chocolate",
+        "id": "Jfsb003",
+        "category": ["snacks", "breadsticks", "matcha", "chocolate"],
+        "brand": ["Glico", "Pocky"],
+        "weight": "80 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": " Pocky Matcha Chocolate with mild sweetness and rich flavour brings you the benefits of matcha and also the smell of Japan nature. Pocky chocolate is available with many flavours such as strawberry, almond, coconut and milk. Matcha Chocolate has always been one of the top sellers among Glico’s products.",
+        "price": {
+            "USD": {
+                "default": "2,69",
+                "formatted": "$2.69/each"
+            },
+            "JPY": {
+                "default": "270",
+                "formatted": "¥270/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfsb003.jpg",
+        "nutrition": {
+            "serving size": "1 box",
+            "servings per container": "1",
+            "calories": "190",
+            "fat": "7 grams",
+            "cholesterol": "<5 milligrams",
+            "sodium": "80 milligrams",
+            "potassium": "80 milligrams",
+            "carbohydrates": "29 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Wheat Flour, Sugar, Blend of Vegetable Oils(Palm Oil, Hydrogenated Palm Kernel Oil, Hydrogenated Palm Oil, Hydrogenated Rapeseed Oil), Whole Milk Powder, Lactose, Vegetable Oil Shortening(Palm Oil, Hydrogenated Palm Oil), Green Tea Powder, Artificial Flavors, Salt, Yeast, Soy Lecithin, Leavening(Sodium Bicarbonate), Mono- And Diglycerides of Fatty Acids, Beta-Carotene Color, Blue 1 Lake Color. Contains Wheat, Milk and Soybeans May Contain Almond and Coconut"
     }
 ]

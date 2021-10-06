@@ -7,18 +7,24 @@ Categories:
     - orange
     - chocolate
     - corn
+    - matcha
 - snacks
     - popcorn
+- breadsticks
 
 Brands:
 - Nestlé
     - KitKat
 - Yaokin
+- Glico
+    - Pocky
 
 Items:
 - KitKat Chocolate Orange*
 
 - Yaokin Salty Popcorn**
+
+- Glico Pocky Matcha Chocolate
 
 Due to language barriers, some products may not have complete nutritional information:
 *incomplete nutritional information
