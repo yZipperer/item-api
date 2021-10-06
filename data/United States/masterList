@@ -48,9 +48,6 @@ Categories:
     - peanut-butter-crackers
 - cookies
     - chocolate-cookies
-- chips
-    - corn-chip
-    - potato-chip
 - (flavors)
     - strawberry
     - chocolate
@@ -64,7 +61,6 @@ Categories:
     - ravioli
     - meatballs
 - coffee
-- popcorn
 - breakfast
 - cereal
 - seasoning
@@ -72,6 +68,10 @@ Categories:
 - vegetarian
 - meat-alternative
 - snacks
+    - popcorn
+    - chips
+        - corn-chip
+        - potato-chip
 - granola
 - bar
 - jar

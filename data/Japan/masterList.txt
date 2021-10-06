@@ -11,8 +11,10 @@ Categories:
     - matcha
     - peach
     - green-apple
+    - pizza
 - snacks
     - popcorn
+    - chips
 - breadsticks
 
 Brands:
@@ -21,6 +23,7 @@ Brands:
 - Yaokin
 - Glico
     - Pocky
+- Calbee
 
 Items:
 - KitKat Chocolate Orange*
@@ -30,6 +33,8 @@ Items:
 - Yaokin Green Apple Gummy**
 
 - Glico Pocky Matcha Chocolate
+
+- Calbee Spicy Pizza Potato**
 
 Due to language barriers, some products may not have complete nutritional information:
 *incomplete nutritional information

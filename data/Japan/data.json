@@ -168,5 +168,39 @@
             "protein": ""
         },
         "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Calbee Spicy Pizza Potato",
+        "id": "Jfsc006",
+        "category": ["snacks", "chips", "pizza"],
+        "brand": "Calbee",
+        "weight": "65 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Spicy Pizza Potato from Calbee is made with thick cut potato slices. It comes with rich emmental and cheddar cheese toppings, habanero and tomato sauce flavour. You can feel lumps of cheese into a crunchy snack at every snacking moment. ",
+        "price": {
+            "USD": {
+                "default": "2.37",
+                "formatted": "$2.37/each"
+            },
+            "JPY": {
+                "default": "238",
+                "formatted": "¥238/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfsc006.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
     }
 ]

@@ -55,9 +55,6 @@ Categories:
     - peanut-butter-crackers
 - cookies
     - chocolate-cookies
-- chips
-    - corn-chip
-    - potato-chip
 - (flavors)
     - strawberry
     - chocolate
@@ -83,6 +80,9 @@ Categories:
 - meat-alternative
 - snacks
     - popcorn
+    - chips
+        - corn-chip
+        - potato-chip
 - granola
 - bar
 - jar
@@ -164,6 +164,7 @@ Brands:
 - Glico
     - Pocky
 - Yaokin
+- Calbee
 
 Items:
 - apple
@@ -314,6 +315,8 @@ Items:
 - Yaokin Salty Popcorn**
 - Yaokin Peach Gummy**
 - Yaokin Green Apple Gummy**
+
+- Calbee Spicy Pizza Potato**
 
 Due to language barriers, some products may not have complete nutritional information:
 *incomplete nutritional information

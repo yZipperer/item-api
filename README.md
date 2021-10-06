@@ -4,16 +4,16 @@
 ## Overview:
   This is a product API for grocery and item data. It will return information including prices, names, images descriptions, ids, nutrition information, and much more.
 
-  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 93 products, but new products are added every so often.
+  I built this API when I tried finding product data for a project, but couldn't find any that worked for my needs. The database is small and only contains 94 products, but new products are added every so often.
 
   Newly introduced was the idea of multiple countries. Now, this project will include data from multiple countries.
   
   ### By the Numbers:
-    * 93 total items
+    * 94 total items
     * 88 categories
-    * 67 different brands
+    * 68 different brands
     * 2 countries
-    * $236.82 worth of products
+    * $239.19 worth of products
     * 119,761 total calories*
 
     *some products may not be accounted for due to unreadable or incomplete nutritional information
@@ -53,9 +53,9 @@
   http://localhost:8080/docs            /*returns the docs for the routes*/
 
   --- Please Note ---
-  For the country parameter below, select one of the following (case sensitive):
-    - "United States"
-    - "Japan"
+  For the country parameter below (see masterList for all country codes), select one of the following (case sensitive):
+    - "US"
+    - "JP"
 
   http://localhost:8080/food/:country            /*returns all food data based on country provided*/
 
@@ -149,9 +149,6 @@
         * peanut-butter-crackers
       * cookies
         * chocolate-cookies
-      * chips
-        * corn-chip
-        * potato-chip
       * (flavors)
           * strawberry
           * chocolate
@@ -173,6 +170,9 @@
       * meat-alternative
       * snacks
         * popcorn
+        * chips
+          * corn-chip
+          * potato-chip
       * granola
       * bar
       * jar
@@ -204,8 +204,10 @@
         * matcha
         * peach
         * green-apple
+        * pizza
     * snacks
         * popcorn
+        * chips
     * breadsticks
 ```
 
@@ -300,6 +302,7 @@
     * Yaokin
     * Glico
       * Pocky
+    * Calbee
 ```
 
 </details>
