@@ -134,5 +134,39 @@
             "protein": ""
         },
         "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Yaokin Green Apple Gummy",
+        "id": "Jfcg005",
+        "category": ["snacks", "candy", "gummy", "green-apple"],
+        "brand": "Yaokin",
+        "weight": "28 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The packet of Apple Gummy is full of delicate aroma when opened. The aroma remains in your nose for a while. There are 12 mini gummies in each bag and they easily melt with the warmth of the mouth.",
+        "price": {
+            "USD": {
+                "default": "0.57",
+                "formatted": "$0.57/each"
+            },
+            "JPY": {
+                "default": "57",
+                "formatted": "¥57/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfcg005.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
     }
 ]

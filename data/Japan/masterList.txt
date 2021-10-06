@@ -10,6 +10,7 @@ Categories:
     - corn
     - matcha
     - peach
+    - green-apple
 - snacks
     - popcorn
 - breadsticks
@@ -26,6 +27,7 @@ Items:
 
 - Yaokin Salty Popcorn**
 - Yaokin Peach Gummy**
+- Yaokin Green Apple Gummy**
 
 - Glico Pocky Matcha Chocolate
 
