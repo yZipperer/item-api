@@ -62,9 +62,10 @@
 
   --- Searching ---
 
-  http://localhost:8080/food/:country?brand=putbrandhere            /*search based on brand*/
-  http://localhost:8080/food/:country?cat=putcategoryhere            /*search based on category*/
-  http://localhost:8080/food/:country?cat=putcategoryhere&brand=putbrandhere            /*search based on category and brand*/
+  http://localhost:8080/food?brand=putbrandhere            /*search based on brand*/
+  http://localhost:8080/food?cat=putcategoryhere            /*search based on category*/
+  http://localhost:8080/food?country=putcountrycodehere            /*search based on country*/
+  http://localhost:8080/food?cat=putcategoryhere&brand=putbrandhere&country=putcountrycodehere            /*search based on category and brand and country*/
 
   --- Admin ---
   http://localhost:8080/stats            /*shows stats on the items in the data set*/
@@ -78,12 +79,13 @@
   
     cat     This parameter is used to search based on category
     brand     This parameter is used to search based on brand
+    country     This parameter is used to search based on country (see country code list)
     
   3. Use different parameter values to search for what you need
   
   Sample URL:
 
-  http://localhost:8080/food?cat=putCATEGORYhere&brand=putBRANDhere
+  http://localhost:8080/food?cat=putCATEGORYhere&brand=putBRANDhere&country=putCOUNTRYCODEhere
   ```
 
   Sample URL Search for Franz Bread:
@@ -316,6 +318,7 @@ Sample Data Layout:
 {
         "name": "Great Grains Multigrain Flax Seed Premium Bread",
         "id": "fbb171",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "multigrain-bread"],
         "brand": "Great Grains",
         "weight": "24 ounces",

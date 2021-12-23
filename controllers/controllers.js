@@ -1,6 +1,11 @@
 const data = require('../data/data.json');
 const statsTemplate = require('../data/masterStatsTemplate.json');
 
+const codeConversion = {
+    "US": "United States",
+    "JP": "Japan"
+}
+
 exports.allData = (req, res) => {
     return res.status(200).json(data);
 };
@@ -11,13 +16,14 @@ exports.food = (req, res) => {
     const result = [];
     
     const country = req.query.country;
+    console.log(country, brand, category)
 
-    if (country === "US") {
+    if(country != undefined) {
         if(category === "none" && brand != "none") {
             for (const item in data) {
-                if (data[item].brand === brand){
+                if (data[item].brand === brand && data[item].country === codeConversion[country]){
                     result.push(data[item]);
-                } else if (data[item].brand.includes(brand)){
+                } else if (data[item].brand.includes(brand) && data[item].country.includes(codeConversion[country])){
                     result.push(data[item]);
                 }
             }
@@ -25,9 +31,9 @@ exports.food = (req, res) => {
         }
         else if(brand === "none" && category != "none") {
             for (const item in data) {
-                if (data[item].category === category){
+                if (data[item].category === category && data[item].country === codeConversion[country]){
                     result.push(data[item]);
-                } else if (data[item].category.includes(category)){
+                } else if (data[item].category.includes(category) && data[item].country.includes(codeConversion[country])){
                     result.push(data[item]);
                 }
             }
@@ -35,18 +41,25 @@ exports.food = (req, res) => {
         }
         else if(brand != "none" && category != "none") {
             for (const item in data) {
-                if (data[item].brand === brand && data[item].category === category){
+                if (data[item].brand === brand && data[item].category === category && data[item].country === codeConversion[country]){
                     result.push(data[item]);
-                } else if (data[item].brand.includes(brand) && data[item].category.includes(category)){
+                } else if (data[item].brand.includes(brand) && data[item].category.includes(category) && data[item].country.includes(codeConversion[country])){
                     result.push(data[item]);
                 }
             }
             return res.status(200).json(result);
         }
         else if(category === "none" && brand === "none") {
-            return res.status(200).json(data);
+            for (const item in data) {
+                if (data[item].country === codeConversion[country]){
+                    result.push(data[item]);
+                } else if (data[item].country.includes(codeConversion[country])){
+                    result.push(data[item]);
+                }
+            }
+            return res.status(200).json(result);
         }
-    } else if (country === "JP") {
+    } else {
         if(category === "none" && brand != "none") {
             for (const item in data) {
                 if (data[item].brand === brand){

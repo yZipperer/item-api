@@ -16,7 +16,7 @@
                 "formatted": "$0.72/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffa137.jpeg",
+        "image": "http://localhost:8080/ffa137.jpeg",
         "nutrition": {
             "serving size": "1 medium",
             "calories": "95",
@@ -46,7 +46,7 @@
                 "formatted": "$0.22/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffb138.jpeg",
+        "image": "http://localhost:8080/ffb138.jpeg",
         "nutrition": {
             "serving size": "1 medium",
             "calories": "105",
@@ -76,7 +76,7 @@
                 "formatted": "$2.36/lb"
             }
         },
-        "image": "http://localhost:8080/United States/ffg139.jpeg",
+        "image": "http://localhost:8080/ffg139.jpeg",
         "nutrition": {
             "serving size": "1 cup",
             "calories": "62",
@@ -106,7 +106,7 @@
                 "formatted": "$0.52/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffl140.jpeg",
+        "image": "http://localhost:8080/ffl140.jpeg",
         "nutrition": {
             "serving size": "1 lemon",
             "calories": "17",
@@ -136,7 +136,7 @@
                 "formatted": "$0.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffg141.jpeg",
+        "image": "http://localhost:8080/ffg141.jpeg",
         "nutrition": {
             "serving size": "1/2",
             "calories": "52",
@@ -166,7 +166,7 @@
                 "formatted": "$3.21/lb"
             }
         },
-        "image": "http://localhost:8080/United States/ffc142.jpeg",
+        "image": "http://localhost:8080/ffc142.jpeg",
         "nutrition": {
             "serving size": "1 cup",
             "calories": "77",
@@ -196,7 +196,7 @@
                 "formatted": "$3.34/lb"
             }
         },
-        "image": "http://localhost:8080/United States/ffs143.jpeg",
+        "image": "http://localhost:8080/ffs143.jpeg",
         "nutrition": {
             "serving size": "1 medium",
             "calories": "4",
@@ -226,7 +226,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffp144.jpeg",
+        "image": "http://localhost:8080/ffp144.jpeg",
         "nutrition": {
             "serving size": "1",
             "calories": "452",
@@ -256,7 +256,7 @@
                 "formatted": "$0.32/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffl145.jpeg",
+        "image": "http://localhost:8080/ffl145.jpeg",
         "nutrition": {
             "serving size": "1",
             "calories": "20",
@@ -286,7 +286,7 @@
                 "formatted": "$3.09/lb"
             }
         },
-        "image": "http://localhost:8080/United States/ffa146.jpg",
+        "image": "http://localhost:8080/ffa146.jpg",
         "nutrition": {
             "serving size": "1 cup",
             "calories": "79",
@@ -316,7 +316,7 @@
                 "formatted": "$0.78/each"
             }
         },
-        "image": "http://localhost:8080/United States/ffa147.jpeg",
+        "image": "http://localhost:8080/ffa147.jpeg",
         "nutrition": {
             "serving size": "1 cup",
             "calories": "234",
@@ -346,7 +346,7 @@
                 "formatted": "$1.18/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc148.jpeg",
+        "image": "http://localhost:8080/fcc148.jpeg",
         "nutrition": {
             "serving size": "1/2 cup undrained",
             "servings per container": "3.5",
@@ -377,7 +377,7 @@
                 "formatted": "$1.18/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcb149.png",
+        "image": "http://localhost:8080/fcb149.png",
         "nutrition": {
             "serving size": "1/2 cup undrained",
             "servings per container": "3.5",
@@ -408,7 +408,7 @@
                 "formatted": "$1.76/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp150.jpeg",
+        "image": "http://localhost:8080/fcp150.jpeg",
         "nutrition": {
             "serving size": "1/2 cup",
             "servings per container": "3.5",
@@ -439,7 +439,7 @@
                 "formatted": "$1.00/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcb151.jpeg",
+        "image": "http://localhost:8080/fcb151.jpeg",
         "nutrition": {
             "serving size": "1/2 cup",
             "servings per container": "3.5",
@@ -470,7 +470,7 @@
                 "formatted": "$0.54/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcs152.jpeg",
+        "image": "http://localhost:8080/fcs152.jpeg",
         "nutrition": {
             "serving size": "62 grams",
             "servings per container": "3.5",
@@ -501,7 +501,7 @@
                 "formatted": "$1.58/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp152.jpeg",
+        "image": "http://localhost:8080/fcp152.jpeg",
         "nutrition": {
             "serving size": "1/2 cup",
             "servings per container": "4.5",
@@ -532,7 +532,7 @@
                 "formatted": "$1.00/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcb153.jpg",
+        "image": "http://localhost:8080/fcb153.jpg",
         "nutrition": {
             "serving size": "128 grams",
             "servings per container": "3.5",
@@ -563,7 +563,7 @@
                 "formatted": "$1.00/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcm157.jpeg",
+        "image": "http://localhost:8080/fcm157.jpeg",
         "nutrition": {
             "serving size": "64 grams",
             "servings per container": "6",
@@ -594,7 +594,7 @@
                 "formatted": "$0.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcr158.jpeg",
+        "image": "http://localhost:8080/fcr158.jpeg",
         "nutrition": {
             "serving size": "244 grams",
             "servings per container": "2",
@@ -625,7 +625,7 @@
                 "formatted": "$4.66/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdf160.png",
+        "image": "http://localhost:8080/fdf160.png",
         "nutrition": {
             "serving size": "1/4 cup",
             "servings per container": "151",
@@ -656,7 +656,7 @@
                 "formatted": "$3.42/each"
             }
         },
-        "image": "http://localhost:8080/United States/fds161.jpeg",
+        "image": "http://localhost:8080/fds161.jpeg",
         "nutrition": {
             "serving size": "1 teaspoon",
             "servings per container": "454",
@@ -687,7 +687,7 @@
                 "formatted": "$2.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fds162.jpeg",
+        "image": "http://localhost:8080/fds162.jpeg",
         "nutrition": {
             "serving size": "1 teaspoon",
             "servings per container": "227",
@@ -718,7 +718,7 @@
                 "formatted": "$3.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdo163.jpeg",
+        "image": "http://localhost:8080/fdo163.jpeg",
         "nutrition": {
             "serving size": "1/2 cup",
             "servings per container": "30",
@@ -749,7 +749,7 @@
                 "formatted": "$2.67/each"
             }
         },
-        "image": "http://localhost:8080/United States/fde164.jpeg",
+        "image": "http://localhost:8080/fde164.jpeg",
         "nutrition": {
             "serving size": "1 egg",
             "servings per container": "12",
@@ -780,7 +780,7 @@
                 "formatted": "$2.95/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdc165.jpeg",
+        "image": "http://localhost:8080/fdc165.jpeg",
         "nutrition": {
             "serving size": "1 slice",
             "servings per container": "10",
@@ -811,7 +811,7 @@
                 "formatted": "$3.86/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdm166.png",
+        "image": "http://localhost:8080/fdm166.png",
         "nutrition": {
             "serving size": "1 cup",
             "servings per container": "16",
@@ -842,7 +842,7 @@
                 "formatted": "$2.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdm167.jpeg",
+        "image": "http://localhost:8080/fdm167.jpeg",
         "nutrition": {
             "serving size": "1",
             "servings per container": "8",
@@ -873,7 +873,7 @@
                 "formatted": "$1.08/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdm168.jpeg",
+        "image": "http://localhost:8080/fdm168.jpeg",
         "nutrition": {
             "serving size": "240 milliliters",
             "servings per container": "1",
@@ -904,7 +904,7 @@
                 "formatted": "$2.78/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb169.jpeg",
+        "image": "http://localhost:8080/fbb169.jpeg",
         "nutrition": {
             "serving size": "1 slice",
             "servings per container": "19",
@@ -935,7 +935,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb170.jpeg",
+        "image": "http://localhost:8080/fbb170.jpeg",
         "nutrition": {
             "serving size": "2 slices",
             "servings per container": "10",
@@ -966,7 +966,7 @@
                 "formatted": "$2.28/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb171.png",
+        "image": "http://localhost:8080/fbb171.png",
         "nutrition": {
             "serving size": "45 grams",
             "servings per container": "15",
@@ -997,7 +997,7 @@
                 "formatted": "$2.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb172.jpeg",
+        "image": "http://localhost:8080/fbb172.jpeg",
         "nutrition": {
             "serving size": "40 grams",
             "servings per container": "17",
@@ -1028,7 +1028,7 @@
                 "formatted": "$3.08/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb173.png",
+        "image": "http://localhost:8080/fbb173.png",
         "nutrition": {
             "serving size": "1 roll",
             "servings per container": "6",
@@ -1059,7 +1059,7 @@
                 "formatted": "$2.83/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbr174.png",
+        "image": "http://localhost:8080/fbr174.png",
         "nutrition": {
             "serving size": "1 roll",
             "servings per container": "12",
@@ -1090,7 +1090,7 @@
                 "formatted": "$1.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbr175.jpeg",
+        "image": "http://localhost:8080/fbr175.jpeg",
         "nutrition": {
             "serving size": "1 roll",
             "servings per container": "12",
@@ -1121,7 +1121,7 @@
                 "formatted": "$2.28/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbr176.jpeg",
+        "image": "http://localhost:8080/fbr176.jpeg",
         "nutrition": {
             "serving size": "1 roll",
             "servings per container": "6",
@@ -1152,7 +1152,7 @@
                 "formatted": "$6.58/each"
             }
         },
-        "image": "http://localhost:8080/United States/fwa177.jpeg",
+        "image": "http://localhost:8080/fwa177.jpeg",
         "nutrition": {
             "serving size": "1 bottle",
             "servings per container": "32",
@@ -1183,7 +1183,7 @@
                 "formatted": "$4.38/each"
             }
         },
-        "image": "http://localhost:8080/United States/fwn186.jpeg",
+        "image": "http://localhost:8080/fwn186.jpeg",
         "nutrition": {
             "serving size": "1 bottle",
             "servings per container": "32",
@@ -1214,7 +1214,7 @@
                 "formatted": "$1.08/each"
             }
         },
-        "image": "http://localhost:8080/United States/fwc185.jpeg",
+        "image": "http://localhost:8080/fwc185.jpeg",
         "nutrition": {
             "serving size": "unknown",
             "servings per container": "16",
@@ -1245,7 +1245,7 @@
                 "formatted": "$1.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/fpd178.jpeg",
+        "image": "http://localhost:8080/fpd178.jpeg",
         "nutrition": {
             "serving size": "28 grams",
             "servings per container": "varies",
@@ -1276,7 +1276,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb179.jpeg",
+        "image": "http://localhost:8080/fbb179.jpeg",
         "nutrition": {
             "serving size": "1 slice",
             "servings per container": "22",
@@ -1307,7 +1307,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb180.jpeg",
+        "image": "http://localhost:8080/fbb180.jpeg",
         "nutrition": {
             "serving size": "1 slice",
             "servings per container": "22",
@@ -1338,7 +1338,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbb181.jpeg",
+        "image": "http://localhost:8080/fbb181.jpeg",
         "nutrition": {
             "serving size": "1 bun",
             "servings per container": "8",
@@ -1369,7 +1369,7 @@
                 "formatted": "$1.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fpc182.png",
+        "image": "http://localhost:8080/fpc182.png",
         "nutrition": {
             "serving size": "3 oz",
             "servings per container": "10",
@@ -1400,7 +1400,7 @@
                 "formatted": "$3.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc183.jpeg",
+        "image": "http://localhost:8080/fcc183.jpeg",
         "nutrition": {
             "serving size": "1 bar",
             "servings per container": "6",
@@ -1431,7 +1431,7 @@
                 "formatted": "$0.50/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdy184.png",
+        "image": "http://localhost:8080/fdy184.png",
         "nutrition": {
             "serving size": "1 cup",
             "servings per container": "1",
@@ -1462,7 +1462,7 @@
                 "formatted": "$3.97/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdc187.jpeg",
+        "image": "http://localhost:8080/fdc187.jpeg",
         "nutrition": {
             "serving size": "1 slice",
             "servings per container": "24",
@@ -1493,7 +1493,7 @@
                 "formatted": "$0.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp188.jpeg",
+        "image": "http://localhost:8080/fcp188.jpeg",
         "nutrition": {
             "serving size": "1 container",
             "servings per container": "1",
@@ -1524,7 +1524,7 @@
                 "formatted": "$0.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp189.jpeg",
+        "image": "http://localhost:8080/fcp189.jpeg",
         "nutrition": {
             "serving size": "257 grams",
             "servings per container": "2",
@@ -1555,7 +1555,7 @@
                 "formatted": "$3.28/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcs190.jpeg",
+        "image": "http://localhost:8080/fcs190.jpeg",
         "nutrition": {
             "serving size": "1/3 can",
             "servings per container": "3",
@@ -1586,7 +1586,7 @@
                 "formatted": "$3.84/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdc191.jpeg",
+        "image": "http://localhost:8080/fdc191.jpeg",
         "nutrition": {
             "serving size": "1 ounce, 1/16 package",
             "servings per container": "32",
@@ -1617,7 +1617,7 @@
                 "formatted": "$2.23/each"
             }
         },
-        "image": "http://localhost:8080/United States/fct192.jpeg",
+        "image": "http://localhost:8080/fct192.jpeg",
         "nutrition": {
             "serving size": "45 grams",
             "servings per container": "10",
@@ -1648,7 +1648,7 @@
                 "formatted": "$0.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcw193.jpeg",
+        "image": "http://localhost:8080/fcw193.jpeg",
         "nutrition": {
             "serving size": "41 grams",
             "servings per container": "3.5",
@@ -1679,7 +1679,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcg194.jpeg",
+        "image": "http://localhost:8080/fcg194.jpeg",
         "nutrition": {
             "serving size": "8 crackers",
             "servings per container": "13",
@@ -1710,7 +1710,7 @@
                 "formatted": "$4.68/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcg195.jpeg",
+        "image": "http://localhost:8080/fcg195.jpeg",
         "nutrition": {
             "serving size": "8 crackers",
             "servings per container": "23",
@@ -1741,7 +1741,7 @@
                 "formatted": "$2.94/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp196.jpeg",
+        "image": "http://localhost:8080/fcp196.jpeg",
         "nutrition": {
             "serving size": "15 chips",
             "servings per container": "8",
@@ -1772,7 +1772,7 @@
                 "formatted": "$2.94/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcp197.jpeg",
+        "image": "http://localhost:8080/fcp197.jpeg",
         "nutrition": {
             "serving size": "17 chips",
             "servings per container": "8",
@@ -1803,7 +1803,7 @@
                 "formatted": "$2.94/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcr198.jpeg",
+        "image": "http://localhost:8080/fcr198.jpeg",
         "nutrition": {
             "serving size": "5 crackers",
             "servings per container": "24",
@@ -1834,7 +1834,7 @@
                 "formatted": "$3.67/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc199.jpeg",
+        "image": "http://localhost:8080/fcc199.jpeg",
         "nutrition": {
             "serving size": "3 cookies",
             "servings per container": "16",
@@ -1865,7 +1865,7 @@
                 "formatted": "$2.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc200.jpeg",
+        "image": "http://localhost:8080/fcc200.jpeg",
         "nutrition": {
             "serving size": "30 grams",
             "servings per container": "12",
@@ -1896,7 +1896,7 @@
                 "formatted": "$2.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc201.jpeg",
+        "image": "http://localhost:8080/fcc201.jpeg",
         "nutrition": {
             "serving size": "4 crackers (14 grams)",
             "servings per container": "28",
@@ -1927,7 +1927,7 @@
                 "formatted": "$3.74/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcv202.jpeg",
+        "image": "http://localhost:8080/fcv202.jpeg",
         "nutrition": {
             "serving size": "8 wafers (30 grams)",
             "servings per container": "10",
@@ -1958,7 +1958,7 @@
                 "formatted": "$1.96/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc203.jpeg",
+        "image": "http://localhost:8080/fcc203.jpeg",
         "nutrition": {
             "serving size": "85 pieces (30 grams)",
             "servings per container": "6",
@@ -1989,7 +1989,7 @@
                 "formatted": "$6.92/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdc204.jpeg",
+        "image": "http://localhost:8080/fdc204.jpeg",
         "nutrition": {
             "serving size": "240",
             "servings per container": "unknown",
@@ -2020,7 +2020,7 @@
                 "formatted": "$2.24/each"
             }
         },
-        "image": "http://localhost:8080/United States/fdm205.jpeg",
+        "image": "http://localhost:8080/fdm205.jpeg",
         "nutrition": {
             "serving size": "1/15 package",
             "servings per container": "15",
@@ -2051,7 +2051,7 @@
                 "formatted": "$1.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbm206.jpeg",
+        "image": "http://localhost:8080/fbm206.jpeg",
         "nutrition": {
             "serving size": "1 muffin",
             "servings per container": "6",
@@ -2082,7 +2082,7 @@
                 "formatted": "$3.28/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcc207.jpeg",
+        "image": "http://localhost:8080/fcc207.jpeg",
         "nutrition": {
             "serving size": "1 cup (28 grams)",
             "servings per container": "7",
@@ -2113,7 +2113,7 @@
                 "formatted": "$2.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcd208.jpeg",
+        "image": "http://localhost:8080/fcd208.jpeg",
         "nutrition": {
             "serving size": "27 pieces (28 grams)",
             "servings per container": "6",
@@ -2144,7 +2144,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbc209.jpeg",
+        "image": "http://localhost:8080/fbc209.jpeg",
         "nutrition": {
             "serving size": "3/4 cup (28 grams)",
             "servings per container": "19",
@@ -2175,7 +2175,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbc210.jpeg",
+        "image": "http://localhost:8080/fbc210.jpeg",
         "nutrition": {
             "serving size": "1 cup (41 grams)",
             "servings per container": "17",
@@ -2206,7 +2206,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbc211.jpeg",
+        "image": "http://localhost:8080/fbc211.jpeg",
         "nutrition": {
             "serving size": "39 grams",
             "servings per container": "14",
@@ -2237,7 +2237,7 @@
                 "formatted": "$3.64/each"
             }
         },
-        "image": "http://localhost:8080/United States/fbc212.png",
+        "image": "http://localhost:8080/fbc212.png",
         "nutrition": {
             "serving size": "1 cup (41 grams)",
             "servings per container": "13",
@@ -2268,7 +2268,7 @@
                 "formatted": "$3.06/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsc213.jpeg",
+        "image": "http://localhost:8080/fsc213.jpeg",
         "nutrition": {
             "serving size": "1 ounce",
             "servings per container": "7",
@@ -2299,7 +2299,7 @@
                 "formatted": "$3.06/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsc214.jpeg",
+        "image": "http://localhost:8080/fsc214.jpeg",
         "nutrition": {
             "serving size": "1 ounce",
             "servings per container": "7",
@@ -2330,7 +2330,7 @@
                 "formatted": "$0.87/each"
             }
         },
-        "image": "http://localhost:8080/United States/fst215.jpeg",
+        "image": "http://localhost:8080/fst215.jpeg",
         "nutrition": {
             "serving size": "4.5 grams",
             "servings per container": "6",
@@ -2361,7 +2361,7 @@
                 "formatted": "$5.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/fvm216.jpeg",
+        "image": "http://localhost:8080/fvm216.jpeg",
         "nutrition": {
             "serving size": "59 grams",
             "servings per container": "6",
@@ -2392,7 +2392,7 @@
                 "formatted": "$8.68/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsb217.png",
+        "image": "http://localhost:8080/fsb217.png",
         "nutrition": {
             "serving size": "2 bars (42 grams)",
             "servings per container": "24",
@@ -2423,7 +2423,7 @@
                 "formatted": "$5.84/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsb218.png",
+        "image": "http://localhost:8080/fsb218.png",
         "nutrition": {
             "serving size": "1 bars (24 grams)",
             "servings per container": "16",
@@ -2454,7 +2454,7 @@
                 "formatted": "$5.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsf219.png",
+        "image": "http://localhost:8080/fsf219.png",
         "nutrition": {
             "serving size": "1 pouch (23 grams)",
             "servings per container": "40",
@@ -2485,7 +2485,7 @@
                 "formatted": "$2.78/each"
             }
         },
-        "image": "http://localhost:8080/United States/fsc220.jpeg",
+        "image": "http://localhost:8080/fsc220.jpeg",
         "nutrition": {
             "serving size": "1 pack (39 grams)",
             "servings per container": "8",
@@ -2516,7 +2516,7 @@
                 "formatted": "$2.92/each"
             }
         },
-        "image": "http://localhost:8080/United States/fjp221.jpeg",
+        "image": "http://localhost:8080/fjp221.jpeg",
         "nutrition": {
             "serving size": "1 Tablespoon",
             "servings per container": "26",
@@ -2547,7 +2547,7 @@
                 "formatted": "$0.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fpc222.jpeg",
+        "image": "http://localhost:8080/fpc222.jpeg",
         "nutrition": {
             "serving size": "1 Cup (212 grams)",
             "servings per container": "1",
@@ -2578,7 +2578,7 @@
                 "formatted": "$0.98/each"
             }
         },
-        "image": "http://localhost:8080/United States/fcb223.jpeg",
+        "image": "http://localhost:8080/fcb223.jpeg",
         "nutrition": {
             "serving size": "1 Cup (205 grams)",
             "servings per container": "1",
@@ -2609,7 +2609,7 @@
                 "formatted": "$1.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/flc224.jpeg",
+        "image": "http://localhost:8080/flc224.jpeg",
         "nutrition": {
             "serving size": "1 Package",
             "servings per container": "1",
@@ -2640,7 +2640,7 @@
                 "formatted": "$1.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/flp225.jpeg",
+        "image": "http://localhost:8080/flp225.jpeg",
         "nutrition": {
             "serving size": "1 Package (121 grams)",
             "servings per container": "1",
@@ -2671,7 +2671,7 @@
                 "formatted": "$1.48/each"
             }
         },
-        "image": "http://localhost:8080/United States/flc226.jpeg",
+        "image": "http://localhost:8080/flc226.jpeg",
         "nutrition": {
             "serving size": "1 Package",
             "servings per container": "1",
@@ -2702,7 +2702,7 @@
                 "formatted": "$4.88/each"
             }
         },
-        "image": "http://localhost:8080/United States/fpc227.png",
+        "image": "http://localhost:8080/fpc227.png",
         "nutrition": {
             "serving size": "1/2 pizza (152 grams)",
             "servings per container": "8",
@@ -2737,7 +2737,7 @@
                 "formatted": "¥525/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfcc001.jpg",
+        "image": "http://localhost:8080/Jfcc001.jpg",
         "nutrition": {
             "serving size": "1 piece",
             "servings per container": "10",
@@ -2772,7 +2772,7 @@
                 "formatted": "¥60/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfsp002.jpg",
+        "image": "http://localhost:8080/Jfsp002.jpg",
         "nutrition": {
             "serving size": "",
             "servings per container": "",
@@ -2807,7 +2807,7 @@
                 "formatted": "¥270/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfsb003.jpg",
+        "image": "http://localhost:8080/Jfsb003.jpg",
         "nutrition": {
             "serving size": "1 box",
             "servings per container": "1",
@@ -2842,7 +2842,7 @@
                 "formatted": "¥53/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfcg004.jpg",
+        "image": "http://localhost:8080/Jfcg004.jpg",
         "nutrition": {
             "serving size": "",
             "servings per container": "",
@@ -2877,7 +2877,7 @@
                 "formatted": "¥57/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfcg005.jpg",
+        "image": "http://localhost:8080/Jfcg005.jpg",
         "nutrition": {
             "serving size": "",
             "servings per container": "",
@@ -2912,7 +2912,7 @@
                 "formatted": "¥238/each"
             }
         },
-        "image": "http://localhost:8080/Japan/Jfsc006.jpg",
+        "image": "http://localhost:8080/Jfsc006.jpg",
         "nutrition": {
             "serving size": "",
             "servings per container": "",
