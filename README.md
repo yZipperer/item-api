@@ -353,6 +353,16 @@ Sample Data Layout:
   4. As long as the server is running, you should get the image associated with the product
 
 ## Contributions:
+
   Contributions are welcome, especially for product data. Just open up an issue with what you would like to add.
 
-  To contribute, simply copy and paste one of the latest product outlines in the data.json file. Then, modify it with the product you added. Lastly, add an image to the correct folder.
+  To contribute, locate the data.json file in the data folder.
+  Then, copy and paste one of the latest product entries (at bottom of data.json file). 
+  Modify this to include information on the new product.
+  Then, add a corresponding image in the images folder (make sure the file name and product id match)
+  
+  *You should also make sure the product has not already been added. Simply ctrl+F as search through the data.json file, or check the masterList to make sure the product has not been added.
+
+## Troubleshooting
+
+  If you have any problems in usage or contributing, simply open up an issue with your questions.
