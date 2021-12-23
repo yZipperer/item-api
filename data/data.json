@@ -2,6 +2,7 @@
     {
         "name": "apple",
         "id": "ffa137",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -31,6 +32,7 @@
     {
         "name": "bannana",
         "id": "ffb138",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -60,6 +62,7 @@
     {
         "name": "grape",
         "id": "ffg139",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
@@ -89,6 +92,7 @@
     {
         "name": "lemon",
         "id": "ffl140",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -118,6 +122,7 @@
     {
         "name": "grapefruit",
         "id": "ffg141",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -147,6 +152,7 @@
     {
         "name": "cherry",
         "id": "ffc142",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
@@ -176,6 +182,7 @@
     {
         "name": "strawberry",
         "id": "ffs143",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "1 pound",
@@ -205,6 +212,7 @@
     {
         "name": "pineapple",
         "id": "ffp144",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -234,6 +242,7 @@
     {
         "name": "lime",
         "id": "ffl145",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -263,6 +272,7 @@
     {
         "name": "apricot",
         "id": "ffa146",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "1 lb",
@@ -292,6 +302,7 @@
     {
         "name": "avacado",
         "id": "ffa147",
+        "country": "United States",
         "category": "produce",
         "brand": "unknown",
         "weight": "varies",
@@ -321,6 +332,7 @@
     {
         "name": "Del Monte Fresh Whole Kernel Corn",
         "id": "fcc148",
+        "country": "United States",
         "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "15.25 oz",
@@ -351,6 +363,7 @@
     {
         "name": "Del Monte Green Beans",
         "id": "fcb149",
+        "country": "United States",
         "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "14.5 oz",
@@ -381,6 +394,7 @@
     {
         "name": "Del Monte Sliced Peaches in 100% Juice",
         "id": "fcp150",
+        "country": "United States",
         "category": ["canned", "canned-produce"],
         "brand": "Del Monte",
         "weight": "15 oz",
@@ -411,6 +425,7 @@
     {
         "name": "Bush's Black Beans",
         "id": "fcb151",
+        "country": "United States",
         "category": ["canned", "canned-produce"],
         "brand": "Bush's",
         "weight": "15 oz",
@@ -441,6 +456,7 @@
     {
         "name": "Hunt's Tomato Sauce",
         "id": "fcs152",
+        "country": "United States",
         "category": "canned",
         "brand": "Hunt's",
         "weight": "8 oz",
@@ -471,6 +487,7 @@
     {
         "name": "Dole Pineapple Chunks in 100% Pineapple Juice",
         "id": "fcp152",
+        "country": "United States",
         "category": ["canned", "canned-produce"],
         "brand": "Dole",
         "weight": "20 oz",
@@ -501,6 +518,7 @@
     {
         "name": "Rosarita Traditional Refried Beans",
         "id": "fcb153",
+        "country": "United States",
         "category": "canned",
         "brand": "Rosarita",
         "weight": "16 oz",
@@ -531,6 +549,7 @@
     {
         "name": "Manwich Original Sloppy Joe",
         "id": "fcm157",
+        "country": "United States",
         "category": "canned",
         "brand": "Manwich",
         "weight": "15 oz",
@@ -561,6 +580,7 @@
     {
         "name": "Chef Boyardee Mini Beef Ravioli",
         "id": "fcr158",
+        "country": "United States",
         "category": ["canned", "ravioli"],
         "brand": "Chef Boyardee",
         "weight": "15 oz",
@@ -591,6 +611,7 @@
     {
         "name": "Gold Medal All-Purpose Flour",
         "id": "fdf160",
+        "country": "United States",
         "category": ["dry-goods", "flour"],
         "brand": "Gold Medal",
         "weight": "10 pounds",
@@ -621,6 +642,7 @@
     {
         "name": "C&H Premium Pure Cane Sugar",
         "id": "fds161",
+        "country": "United States",
         "category": ["dry-goods", "sugar"],
         "brand": "C&H",
         "weight": "4 pounds",
@@ -651,6 +673,7 @@
     {
         "name": "C&H Premium Pure Golden Brown Sugar",
         "id": "fds162",
+        "country": "United States",
         "category": ["dry-goods", "sugar"],
         "brand": "C&H",
         "weight": "2 pounds",
@@ -681,6 +704,7 @@
     {
         "name": "Quaker Oats Old Fashioned Oatmeal",
         "id": "fdo163",
+        "country": "United States",
         "category": ["dry-goods", "oats"],
         "brand": "Quaker",
         "weight": "42 ounces",
@@ -711,6 +735,7 @@
     {
         "name": "Eggland's Best Large White Grade A Eggs, 12 Eggs",
         "id": "fde164",
+        "country": "United States",
         "category": ["dairy", "eggs"],
         "brand": "Eggland's Best",
         "weight": "unknown",
@@ -741,6 +766,7 @@
     {
         "name": "Sargento Creamy Sliced Cheddar Cheese, 10 Slices",
         "id": "fdc165",
+        "country": "United States",
         "category": ["dairy", "cheese", "sliced-cheese"],
         "brand": "Sargento",
         "weight": "unknown",
@@ -771,6 +797,7 @@
     {
         "name": "Meadow Gold Whole Milk",
         "id": "fdm166",
+        "country": "United States",
         "category": ["dairy", "milk", "whole-milk"],
         "brand": "Meadow Gold",
         "weight": "1 gallon",
@@ -801,6 +828,7 @@
     {
         "name": "TruMoo Chocolate Whole Milk",
         "id": "fdm167",
+        "country": "United States",
         "category": ["dairy", "milk", "chocolate"],
         "brand": "TruMoo",
         "weight": "1/2 gallon (64 ounces)",
@@ -831,6 +859,7 @@
     {
         "name": "TruMoo 1% Low-Fat Strawberry Milk",
         "id": "fdm168",
+        "country": "United States",
         "category": ["dairy", "milk", "strawberry", "1-percent-milk"],
         "brand": "TruMoo",
         "weight": "1 pint",
@@ -861,6 +890,7 @@
     {
         "name": "Grandma Sycamore's Home-Maid White Bread",
         "id": "fbb169",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "white-bread"],
         "brand": "Grandma Sycamore's",
         "weight": "24 ounces",
@@ -891,6 +921,7 @@
     {
         "name": "Sara Lee White Bread, 20 Slices",
         "id": "fbb170",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "white-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
@@ -921,6 +952,7 @@
     {
         "name": "Great Grains Multigrain Flax Seed Premium Bread",
         "id": "fbb171",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "multigrain-bread"],
         "brand": "Great Grains",
         "weight": "24 ounces",
@@ -951,6 +983,7 @@
     {
         "name": "Franz Buttermilk Bread",
         "id": "fbb172",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "buttermilk-bread"],
         "brand": "Franz",
         "weight": "24 ounces",
@@ -981,6 +1014,7 @@
     {
         "name": "Franz Hoagie Rolls, 6 count",
         "id": "fbb173",
+        "country": "United States",
         "category": ["bakery", "rolls-bread", "hoagie"],
         "brand": "Franz",
         "weight": "16 ounces",
@@ -1011,6 +1045,7 @@
     {
         "name": "Franz Hawaiian Rolls, 12 count",
         "id": "fbr174",
+        "country": "United States",
         "category": ["bakery", "rolls-bread", "hawaiian-bread"],
         "brand": "Franz",
         "weight": "16 ounces",
@@ -1041,6 +1076,7 @@
     {
         "name": "Sara Lee Sweet Hawaiian Rolls, 12 count",
         "id": "fbr175",
+        "country": "United States",
         "category": ["bakery", "rolls-bread", "hawaiian-bread"],
         "brand": "Sara Lee",
         "weight": "16 ounces",
@@ -1071,6 +1107,7 @@
     {
         "name": "Great Grains Gourmet Hoagie Cheddar Cheese Rolls, 6 count",
         "id": "fbr176",
+        "country": "United States",
         "category": ["bakery", "rolls-bread", "hoagie"],
         "brand": "Great Grains",
         "weight": "24 ounces",
@@ -1101,6 +1138,7 @@
     {
         "name": "Aquafina Purified Water, 32 count",
         "id": "fwa177",
+        "country": "United States",
         "category": ["water", "bottled-water", "case-water"],
         "brand": "Aquafina",
         "weight": "16.9 fl oz/bottle",
@@ -1131,6 +1169,7 @@
     {
         "name": "Nestle Pure Life Purified Water, 32 count",
         "id": "fwn186",
+        "country": "United States",
         "category": ["water", "bottled-water", "case-water"],
         "brand": "Nestle",
         "weight": "16.9 fl oz/bottle",
@@ -1161,6 +1200,7 @@
     {
         "name": "Crystal Geyser Alpine Spring Water, 1 Gallon",
         "id": "fwc185",
+        "country": "United States",
         "category": ["water", "bottled-water", "jug-water"],
         "brand": "Crystal Geyser",
         "weight": "1 gallon",
@@ -1191,6 +1231,7 @@
     {
         "name": "Dole Celery Stalk",
         "id": "fpd178",
+        "country": "United States",
         "category": "produce",
         "brand": "Dole",
         "weight": "varies",
@@ -1221,6 +1262,7 @@
     {
         "name": "Sara Lee Butter Bread, 22 Slices",
         "id": "fbb179",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "butter-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
@@ -1251,6 +1293,7 @@
     {
         "name": "Sara Lee Honey Wheat Bread, 22 Slices",
         "id": "fbb180",
+        "country": "United States",
         "category": ["bakery", "sliced-bread", "wheat-bread"],
         "brand": "Sara Lee",
         "weight": "20 ounces",
@@ -1281,6 +1324,7 @@
     {
         "name": "Ball Park Classic White Hot Dog Buns, 8-Pack",
         "id": "fbb181",
+        "country": "United States",
         "category": ["bakery", "rolls-bread"],
         "brand": "Ball Park",
         "weight": "13 ounces",
@@ -1311,6 +1355,7 @@
     {
         "name": "Bolthouse Farms Baby Carrots, 2lb bag",
         "id": "fpc182",
+        "country": "United States",
         "category": "produce",
         "brand": "Bolthouse Farms",
         "weight": "2 pounds",
@@ -1341,6 +1386,7 @@
     {
         "name": "Hershey's Milk Chocolate Candy Bars, 6 Pack",
         "id": "fcc183",
+        "country": "United States",
         "category": ["candy", "bar-candy", "chocolate"],
         "brand": "Hershey's",
         "weight": "1.55 oz/bar",
@@ -1371,6 +1417,7 @@
     {
         "name": "Yoplait Harvest Peach Yogurt, 1 Cup",
         "id": "fdy184",
+        "country": "United States",
         "category": ["dairy", "yogurt"],
         "brand": "Yoplait",
         "weight": "6 ounces",
@@ -1401,6 +1448,7 @@
     {
         "name": "Kraft Singles American Cheese, 24 Slices",
         "id": "fdc187",
+        "country": "United States",
         "category": ["dairy", "sliced-cheese"],
         "brand": "Kraft",
         "weight": "16 ounces",
@@ -1431,6 +1479,7 @@
     {
         "name": "Campbell's SpaghettiOs with Meatballs",
         "id": "fcp188",
+        "country": "United States",
         "category": ["canned", "pasta"],
         "brand": "Campbell's",
         "weight": "15.6 ounces",
@@ -1461,6 +1510,7 @@
     {
         "name": "Chef Boyardee Spaghetti and Meatballs",
         "id": "fcp189",
+        "country": "United States",
         "category": ["canned", "pasta"],
         "brand": "Chef Boyardee",
         "weight": "14.5 ounces",
@@ -1491,6 +1541,7 @@
     {
         "name": "StarKist Solid White Albacore Tuna in Water, 12 Ounces",
         "id": "fcs190",
+        "country": "United States",
         "category": ["canned", "seafood", "tuna"],
         "brand": "StarKist",
         "weight": "12 ounces",
@@ -1521,6 +1572,7 @@
     {
         "name": "Philadelphia Original Cream Cheese, 2 Pack",
         "id": "fdc191",
+        "country": "United States",
         "category": ["dairy", "cheese", "cream-cheese"],
         "brand": "Philadelphia",
         "weight": "16 ounces, 8 ounces/brick",
@@ -1551,6 +1603,7 @@
     {
         "name": "Twizzlers, Strawberry Chewy Candy",
         "id": "fct192",
+        "country": "United States",
         "category": ["candy", "bagged-candy", "strawberry"],
         "brand": "Twizzlers",
         "weight": "16 ounces",
@@ -1581,6 +1634,7 @@
     {
         "name": "Whoppers, Malted Milk Chocolate Balls",
         "id": "fcw193",
+        "country": "United States",
         "category": ["candy", "boxed-candy", "chocolate"],
         "brand": "Whoppers",
         "weight": "5 ounces",
@@ -1611,6 +1665,7 @@
     {
         "name": "Honey Maid Chocolate Graham Crackers",
         "id": "fcg194",
+        "country": "United States",
         "category": ["crackers", "chocolate"],
         "brand": "Honey Maid",
         "weight": "14.4 ounces",
@@ -1641,6 +1696,7 @@
     {
         "name": "Honey Maid Honey Graham Crackers, Family Size",
         "id": "fcg195",
+        "country": "United States",
         "category": "crackers",
         "brand": "Honey Maid",
         "weight": "25.6 ounces",
@@ -1671,6 +1727,7 @@
     {
         "name": "Lay's Classic Potato Chips",
         "id": "fcp196",
+        "country": "United States",
         "category": ["chips", "potato-chip"],
         "brand": "Lay's",
         "weight": "8 ounces",
@@ -1701,6 +1758,7 @@
     {
         "name": "Lay's Salt and Vinegar Potato Chips",
         "id": "fcp197",
+        "country": "United States",
         "category": ["chips", "potato-chip"],
         "brand": "Lay's",
         "weight": "7.75 ounces",
@@ -1731,6 +1789,7 @@
     {
         "name": "RITZ Crackers",
         "id": "fcr198",
+        "country": "United States",
         "category": "crackers",
         "brand": ["Nabisco", "Ritz"],
         "weight": "13.7 ounces",
@@ -1761,6 +1820,7 @@
     {
         "name": "Chips Ahoy! Original Chocolate Chip Cookies, Family Size",
         "id": "fcc199",
+        "country": "United States",
         "category": ["cookies", "chocolate", "chocolate-cookies"],
         "brand": ["Nabisco", "Chips Ahoy!"],
         "weight": "18.2 ounces",
@@ -1791,6 +1851,7 @@
     {
         "name": "Cheez-It Baked Snack Crackers, Original",
         "id": "fcc200",
+        "country": "United States",
         "category": ["crackers", "cheddar-crackers"],
         "brand": "Cheez-It",
         "weight": "12.4 ounces",
@@ -1821,6 +1882,7 @@
     {
         "name": "Kellogg's Club Crackers, Original",
         "id": "fcc201",
+        "country": "United States",
         "category": "crackers",
         "brand": ["Kellogg's", "Club"],
         "weight": "13.7 ounces",
@@ -1851,6 +1913,7 @@
     {
         "name": "Nilla Vanilla Wafer Cookies",
         "id": "fcv202",
+        "country": "United States",
         "category": ["crackers", "vanilla"],
         "brand": ["Nabisco", "Nilla"],
         "weight": "11 ounces",
@@ -1881,6 +1944,7 @@
     {
         "name": "Pepperidge Farm Goldfish Cheddar Crackers",
         "id": "fcc203",
+        "country": "United States",
         "category": ["crackers", "cheddar-crackers"],
         "brand": ["Pepperidge Farm", "Goldfish"],
         "weight": "6.6 ounces",
@@ -1911,6 +1975,7 @@
     {
         "name": "Folgers Classic Roast Ground Coffee",
         "id": "fdc204",
+        "country": "United States",
         "category": ["dry-goods", "dry-coffee", "coffee"],
         "brand": "Folgers",
         "weight": "30.5 ounces",
@@ -1941,6 +2006,7 @@
     {
         "name": "Pillsbury Funfetti Premium Brownie Mix with Oreo Cookie Pieces",
         "id": "fdm205",
+        "country": "United States",
         "category": ["dry-goods", "mixes", "brownies", "brownie-mix"],
         "brand": ["Pillsbury", "Funfetti", "Oreo"],
         "weight": "15.5 ounces",
@@ -1971,6 +2037,7 @@
     {
         "name": "Thomas' Origional Nooks & Crannies English Muffins, 6 Count",
         "id": "fbm206",
+        "country": "United States",
         "category": ["bakery", "muffins", "english-muffins"],
         "brand": "Thomas",
         "weight": "12 ounces",
@@ -2001,6 +2068,7 @@
     {
         "name": "Cheetos Crunch Pop Mix",
         "id": "fcc207",
+        "country": "United States",
         "category": ["chips", "cheddar", "popcorn"],
         "brand": "Cheetos",
         "weight": "7 ounces",
@@ -2031,6 +2099,7 @@
     {
         "name": "Doritos 3D Crunch Chili Cheese Nacho Flavored Chips",
         "id": "fcd208",
+        "country": "United States",
         "category": ["chips", "cheddar", "corn-chip", "chili-cheese"],
         "brand": "Doritos",
         "weight": "6 ounces",
@@ -2061,6 +2130,7 @@
     {
         "name": "Honey Nut Cheerios Cereal, Family Size",
         "id": "fbc209",
+        "country": "United States",
         "category": ["cereal", "honey", "breakfast"],
         "brand": ["General Mills", "Cheerios", "Honey Nut Cheerios"],
         "weight": "19.5 ounces",
@@ -2091,6 +2161,7 @@
     {
         "name": "Cinnamon Toast Crunch Cereal, Family Size",
         "id": "fbc210",
+        "country": "United States",
         "category": ["cereal", "cinnamon", "breakfast"],
         "brand": ["General Mills", "Cinnamon Toast Crunch"],
         "weight": "19.3 ounces",
@@ -2121,6 +2192,7 @@
     {
         "name": "Kellogg's Froot Loops Cereal, Family Size",
         "id": "fbc211",
+        "country": "United States",
         "category": ["cereal", "breakfast"],
         "brand": ["Kellogg's", "Froot Loops"],
         "weight": "19.4 ounces",
@@ -2151,6 +2223,7 @@
     {
         "name": "Cinnamon Toast Crunch Churros Cereal, Family Size",
         "id": "fbc212",
+        "country": "United States",
         "category": ["cereal", "cinnamon", "breakfast"],
         "brand": ["General Mills", "Cinnamon Toast Crunch"],
         "weight": "19.3 ounces",
@@ -2181,6 +2254,7 @@
     {
         "name": "SunChips Harvest Cheeddar Whole Grain Chips",
         "id": "fsc213",
+        "country": "United States",
         "category": ["chips", "cheddar"],
         "brand": "SunChips",
         "weight": "7 ounces",
@@ -2211,6 +2285,7 @@
     {
         "name": "SunChips Garden Salsa Whole Grain Chips",
         "id": "fsc214",
+        "country": "United States",
         "category": "chips",
         "brand": "SunChips",
         "weight": "7 ounces",
@@ -2241,6 +2316,7 @@
     {
         "name": "McCormick Original Taco Seasoning Packet",
         "id": "fst215",
+        "country": "United States",
         "category": "seasoning",
         "brand": "McCormick",
         "weight": "1 ounces",
@@ -2271,6 +2347,7 @@
     {
         "name": "MorningStar Farms Plant Based Meatless Chorizo",
         "id": "fvm216",
+        "country": "United States",
         "category": ["vegan", "vegetarian", "meat-alternative"],
         "brand": "MorningStar Farms",
         "weight": "13.5 ounces",
@@ -2301,6 +2378,7 @@
     {
         "name": "Nature Valley Crunchy Oats 'n Honey Granola Bars, 48 Bars",
         "id": "fsb217",
+        "country": "United States",
         "category": ["snacks", "honey", "oats", "granola", "bar"],
         "brand": "Nature Valley",
         "weight": "1008 grams",
@@ -2331,6 +2409,7 @@
     {
         "name": "Lucky Charms Breakfast Bars, 16 Bars",
         "id": "fsb218",
+        "country": "United States",
         "category": ["snacks", "cereal", "bar"],
         "brand": ["General Mills", "Lucky Charms"],
         "weight": "13.6 ounces",
@@ -2361,6 +2440,7 @@
     {
         "name": "Mott's Medleys Assorted Fruit Snacks Family Size",
         "id": "fsf219",
+        "country": "United States",
         "category": ["snacks", "fruit"],
         "brand": "Mott's",
         "weight": "32 ounces",
@@ -2391,6 +2471,7 @@
     {
         "name": "RITZ Peanut Butter Sandwich Crackers, 8 Pack",
         "id": "fsc220",
+        "country": "United States",
         "category": ["snacks", "crackers", "peanut-butter-crackers"],
         "brand": "RITZ",
         "weight": "11.04 ounces",
@@ -2421,6 +2502,7 @@
     {
         "name": "Smucker's Strawberry Preserves",
         "id": "fjp221",
+        "country": "United States",
         "category": ["preserves", "strawberry", "jar"],
         "brand": "Smucker's",
         "weight": "18 ounces",
@@ -2451,6 +2533,7 @@
     {
         "name": "Chef Boyardee Mini ABC's & 123's with Meatballs",
         "id": "fpc222",
+        "country": "United States",
         "category": ["pasta", "meatballs", "cup", "quick-meal"],
         "brand": "Chef Boyardee",
         "weight": "7.5 ounces",
@@ -2481,6 +2564,7 @@
     {
         "name": "Chef Boyardee Rice with Chicken and Vegetables",
         "id": "fcb223",
+        "country": "United States",
         "category": ["cup", "quick-meal"],
         "brand": "Chef Boyardee",
         "weight": "7.25 ounces",
@@ -2511,6 +2595,7 @@
     {
         "name": "Lunchables Turkey & American Cheese Cracker Stacks",
         "id": "flc224",
+        "country": "United States",
         "category": ["quick-lunch", "quick-meal", "snacks"],
         "brand": "Lunchables",
         "weight": "3.4 ounces",
@@ -2541,6 +2626,7 @@
     {
         "name": "Lunchables Pizza with Peperoni Lunch Kit",
         "id": "flp225",
+        "country": "United States",
         "category": ["quick-lunch", "quick-meal", "snacks", "pizza"],
         "brand": "Lunchables",
         "weight": "4.3 ounces",
@@ -2571,6 +2657,7 @@
     {
         "name": "Lunchables Ham & American Cheese Cracker Stacks",
         "id": "flc226",
+        "country": "United States",
         "category": ["quick-lunch", "quick-meal", "snacks"],
         "brand": "Lunchables",
         "weight": "3.4 ounces",
@@ -2601,6 +2688,7 @@
     {
         "name": "Totino's Party Pizza Pack! 4 Combination Party Pizzas",
         "id": "fpc227",
+        "country": "United States",
         "category": ["quick-lunch", "quick-meal", "quick-dinner", "pizza"],
         "brand": "Totino's",
         "weight": "42.8 ounces",
@@ -2627,6 +2715,216 @@
             "protein": "10 grams"
         },
         "ingredients": "Enriched Flour (wheat flour, niacin, ferrous sulfate, thiamin mononitrate, riboflavin, folic acid), Water, Tomato Puree (water, tomato paste), Imitation Mozzarella Cheese (water, palm oil, rennet casein, modified potato starch, vegetable oil, potato starch, sodium aluminum phosphate, potassium chloride, salt, citric acid, sodium phosphate, sodium citrate, potassium sorbate [preservative], titanium dioxide [artificial color], maltodextrin, magnesium oxide, zinc oxide, riboflavin, Vitamin A palmitate, Vitamin B6, Vitamin B12), Cooked Chicken Pizza Topping Pork Added (sausage made with chicken pork added [mechanically separated chicken, pork, salt, spices, corn maltodextrin, caramelized sugar, dextrose, natural flavors], water, soy protein concentrate, textured vegetable protein [soy flour, caramel color], sodium phosphates), Vegetable Oil, Pepperoni Seasoned Pork, Chicken and Beef Pizza Topping (pork, mechanically separated chicken, water, soy protein isolate, beef, salt, Contains 2 % or less of: pepperoni [pork, mechanically separated chicken, beef, salt, Contains 2% or less of: spices, dextrose, pork stock, lactic acid starter culture, oleoresin of paprika, flavoring, sodium ascorbate, sodium nitrite, BHA, BHT, citric acid], spices, dextrose, oleoresin of paprika, sodium ascorbate, garlic powder, natural flavor, maltodextrin, sodium nitrite, lactic acid starter culture, BHA, BHT, citric acid), Contains less than 2% of: Rehydrated Fat Free Mozzarella Cheese (water, skim milk, cheese cultures, salt, enzymes, citric acid, Vitamin A palmitate, Vitamin B6), Modified Corn Starch, Sugar, Salt, Dried Yeast, Defatted Soy Flour, Dextrose, Spice, Monocalcium Phosphate, Baking Soda, Beet Powder (color), Rehydrated Enzyme Modified Cheese (water, milk, cheese cultures, salt, enzymes ), Citric Acid, Malic Acid, Xanthan Gum, Sorbitan Monostearate, Maltodextrin, TBHQ (preservative), Ascorbic Acid, Natural Flavor."
+    },
+    {
+        "name": "KitKat Chocolate Orange",
+        "id": "Jfcc001",
+        "country": "Japan",
+        "category": ["candy", "chocolate", "orange", "wafer"],
+        "brand": ["Nestlé", "KitKat"],
+        "weight": "105 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "A perfect blend of smooth milk chocolate and refreshing orange flavour that makes for an utterly delicious treat.",
+        "price": {
+            "USD": {
+                "default": "5.24",
+                "formatted": "$5.24/each"
+            },
+            "JPY": {
+                "default": "525",
+                "formatted": "¥525/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfcc001.jpg",
+        "nutrition": {
+            "serving size": "1 piece",
+            "servings per container": "10",
+            "calories": "55 kcal",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Orange Powder, Baking Soda, Cacao Mass, Cocoa Butter, Cocoa Powder, Emulsifier, Fragrance, Lactose, Sugar, Vegetable Fat, Wheat Flour, Whole Milk Powder, Yeast"
+    },
+    {
+        "name": "Yaokin Salty Popcorn",
+        "id": "Jfsp002",
+        "country": "Japan",
+        "category": ["snacks", "popcorn", "corn"],
+        "brand": "Yaokin",
+        "weight": "18 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Salty Popcorn by Yaokin is a small snack pack. Made with natural corn from the USA with crispy texture at its best. A combination of different natures makes a good snack to give you a good appetite. It can easily be one of your all time favourite snacks.",
+        "price": {
+            "USD": {
+                "default": "0.60",
+                "formatted": "$0.60/each"
+            },
+            "JPY": {
+                "default": "60",
+                "formatted": "¥60/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfsp002.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Red Pepper, Amino Acid, Corn, Dextrin, Salt, Seasoning, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Glico Pocky Matcha Chocolate",
+        "id": "Jfsb003",
+        "country": "Japan",
+        "category": ["snacks", "breadsticks", "matcha", "chocolate"],
+        "brand": ["Glico", "Pocky"],
+        "weight": "80 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": " Pocky Matcha Chocolate with mild sweetness and rich flavour brings you the benefits of matcha and also the smell of Japan nature. Pocky chocolate is available with many flavours such as strawberry, almond, coconut and milk. Matcha Chocolate has always been one of the top sellers among Glico’s products.",
+        "price": {
+            "USD": {
+                "default": "2,69",
+                "formatted": "$2.69/each"
+            },
+            "JPY": {
+                "default": "270",
+                "formatted": "¥270/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfsb003.jpg",
+        "nutrition": {
+            "serving size": "1 box",
+            "servings per container": "1",
+            "calories": "190",
+            "fat": "7 grams",
+            "cholesterol": "<5 milligrams",
+            "sodium": "80 milligrams",
+            "potassium": "80 milligrams",
+            "carbohydrates": "29 grams",
+            "protein": "3 grams"
+        },
+        "ingredients": "Wheat Flour, Sugar, Blend of Vegetable Oils(Palm Oil, Hydrogenated Palm Kernel Oil, Hydrogenated Palm Oil, Hydrogenated Rapeseed Oil), Whole Milk Powder, Lactose, Vegetable Oil Shortening(Palm Oil, Hydrogenated Palm Oil), Green Tea Powder, Artificial Flavors, Salt, Yeast, Soy Lecithin, Leavening(Sodium Bicarbonate), Mono- And Diglycerides of Fatty Acids, Beta-Carotene Color, Blue 1 Lake Color. Contains Wheat, Milk and Soybeans May Contain Almond and Coconut"
+    },
+    {
+        "name": "Yaokin Peach Gummy",
+        "id": "Jfcg004",
+        "country": "Japan",
+        "category": ["snacks", "candy", "gummy", "peach"],
+        "brand": "Yaokin",
+        "weight": "28 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The packet of Peach Gummy is full of delicate aroma that remains in your nose for a while. There are 12 mini gummies in each bag and they easily melt with the warmth of the mouth.",
+        "price": {
+            "USD": {
+                "default": "0.53",
+                "formatted": "$0.53/each"
+            },
+            "JPY": {
+                "default": "53",
+                "formatted": "¥53/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfcg004.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Yaokin Green Apple Gummy",
+        "id": "Jfcg005",
+        "country": "Japan",
+        "category": ["snacks", "candy", "gummy", "green-apple"],
+        "brand": "Yaokin",
+        "weight": "28 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "The packet of Apple Gummy is full of delicate aroma when opened. The aroma remains in your nose for a while. There are 12 mini gummies in each bag and they easily melt with the warmth of the mouth.",
+        "price": {
+            "USD": {
+                "default": "0.57",
+                "formatted": "$0.57/each"
+            },
+            "JPY": {
+                "default": "57",
+                "formatted": "¥57/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfcg005.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
+    },
+    {
+        "name": "Calbee Spicy Pizza Potato",
+        "id": "Jfsc006",
+        "country": "Japan",
+        "category": ["snacks", "chips", "pizza"],
+        "brand": "Calbee",
+        "weight": "65 grams",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Spicy Pizza Potato from Calbee is made with thick cut potato slices. It comes with rich emmental and cheddar cheese toppings, habanero and tomato sauce flavour. You can feel lumps of cheese into a crunchy snack at every snacking moment. ",
+        "price": {
+            "USD": {
+                "default": "2.37",
+                "formatted": "$2.37/each"
+            },
+            "JPY": {
+                "default": "238",
+                "formatted": "¥238/each"
+            }
+        },
+        "image": "http://localhost:8080/Japan/Jfsc006.jpg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Concentrated Fruit Juice, Acidulant, Cellulose, Collagen, Fragrance, Glycerin, Potassium, Starch, Sugar, Vegetable Oil"
     }
 
 

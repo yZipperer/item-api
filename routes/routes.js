@@ -8,7 +8,7 @@ const {
 } = require("../controllers/controllers.js");
 
 router.get("/", allData);
-router.get("/food/:country", food);
+router.get("/food/", food);
 router.get("/stats/", stats);
 
 module.exports = router;
