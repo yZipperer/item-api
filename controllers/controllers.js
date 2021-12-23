@@ -98,11 +98,42 @@ exports.food = (req, res) => {
 };
 
 exports.stats = (req, res) => {
-    let result = null;
-    const country = req.query.country || "none";
+    let parseResult = [];
+    let result = statsTemplate;
+    const country = req.query.country;
+    console.log(country)
 
-    if (country === "US") {
-        result = statsTemplate;
+    if (country != undefined) {
+        for (const item in data) {
+            if (data[item].country === codeConversion[country]){
+                parseResult.push(data[item]);
+            } else if (data[item].country.includes(codeConversion[country])){
+                parseResult.push(data[item]);
+            }
+        }
+
+        for (const item in parseResult) {
+            if (Array.isArray(parseResult[item].category) === false){
+                const tempCat = parseResult[item].category;
+                
+                if (result.numByCat[tempCat] === 0){
+                    result.numOfCats += 1;
+                }
+                result.numByCat[tempCat] += 1;
+            } else if (Array.isArray(parseResult[item].category) === true){
+                for (const index in parseResult[item].category){
+                    const tempCat = parseResult[item].category[index];
+                    
+                    if (result.numByCat[tempCat] === 0){
+                        result.numOfCats += 1;
+                    }
+                    result.numByCat[tempCat] += 1;
+                }
+            }
+        }
+        console.log(result.numOfCats, result.numByCat)
+        return res.status(200).json(result);
+    } else {
         for (const item in data) {
             if (Array.isArray(data[item].category) === false){
                 const tempCat = data[item].category;
@@ -122,28 +153,8 @@ exports.stats = (req, res) => {
                 }
             }
         }
-    } else if (country === "JP") {
-        result = statsTemplate;
-        for (const item in data) {
-            if (Array.isArray(data[item].category) === false){
-                const tempCat = data[item].category;
-                
-                if (result.numByCat[tempCat] === 0){
-                    result.numOfCats += 1;
-                }
-                result.numByCat[tempCat] += 1;
-            } else if (Array.isArray(data[item].category) === true){
-                for (const index in data[item].category){
-                    const tempCat = data[item].category[index];
-                    
-                    if (result.numByCat[tempCat] === 0){
-                        result.numOfCats += 1;
-                    }
-                    result.numByCat[tempCat] += 1;
-                }
-            }
-        }
+
+        return res.status(200).json(result);
     }
-    
-    return res.status(200).json(result);
+
 };
