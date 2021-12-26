@@ -9,11 +9,11 @@
   Newly introduced was the idea of multiple countries. Now, this project will include data from multiple countries.
   
   ### By the Numbers:
-    * 95 total items
-    * 88 categories
+    * 96 total items
+    * 89 categories
     * 68 different brands
     * 2 countries
-    * $243.85 worth of products
+    * $252.83 worth of products
     * 119,761 total calories*
 
     *some products may not be accounted for due to unreadable or incomplete nutritional information
@@ -169,6 +169,7 @@
       * cereal
       * breakfast
       * seasoning
+          * extract
       * vegan
       * vegetarian
       * meat-alternative

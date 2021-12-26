@@ -3051,6 +3051,38 @@
             "protein": ""
         },
         "ingredients": "Coarse ground black pepper"
+    },
+    {
+        "name": "McCormick All Natural Pure Vanilla Extract",
+        "id": "fsv229",
+        "country": "United States",
+        "seasonal": "all",
+        "category": ["seasoning", "extract"],
+        "brand": "McCormick",
+        "weight": "2 fluid ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Vanilla extract is at the heart of baking, making your cookies, cakes and pies the stars of your dessert spread! McCormick's all natural vanilla has all the qualities pure vanilla extract should have: a strong, floral-like sweetness with hints of bourbon, rum and dried fruit. We go the extra mile to ensure the pure vanilla taste and aroma is the same in every bottle.",
+        "price": {
+            "USD": {
+                "default": "8.98",
+                "formatted": "$8.98/each"
+            }
+        },
+        "image": "http://localhost:8080/fsv229.jpeg",
+        "nutrition": {
+            "serving size": "",
+            "servings per container": "",
+            "calories": "",
+            "fat": "",
+            "cholesterol": "",
+            "sodium": "",
+            "potassium": "",
+            "carbohydrates": "",
+            "protein": ""
+        },
+        "ingredients": "Vanilla Bean Extractives in Water, and Alcohol."
     }
 
 ]
