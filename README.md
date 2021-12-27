@@ -318,36 +318,39 @@
 
 Sample Data Layout:
 ```
-{
-        "name": "Great Grains Multigrain Flax Seed Premium Bread",
-        "id": "fbb171",
+    {
+        "name": "Planters Mixed Nuts with Peanuts, Almonds, Cashews, Hazelnuts, and Pecans",
+        "id": "fnm230",
         "country": "United States",
-        "category": ["bakery", "sliced-bread", "multigrain-bread"],
-        "brand": "Great Grains",
-        "weight": "24 ounces",
+        "seasonal": "all",
+        "category": ["nuts", "snacks"],
+        "brand": "Planters",
+        "weight": "10.3 ounces",
         "hot": false,
         "cold": false,
         "frozen": false,
-        "description": "MULTIGRAIN w/ Flax Seeds & Omega-3 Premium Wide Pan 5/8\" Sliced Bread is packed with whole grains and Omega-3 and tastes DELICIOUS. HEALTHY MADE DELICIOUS. Naturally Good & All Natural. No high fructose corn syrup. No Trans Fat. 15 Grams of Whole Grains Per Slice. No Cholesterol. 5 Grams of Protien Per Slice. 5 Grams of Fiber Per Slice. 304mg of Omega-3 Per Slice-An Excellent Source. Always Made With Non-GMO Ingredients.",
+        "description": "Planters Mixed Nuts offer a crunchy combination of peanuts, almonds, cashews, hazelnuts and pecans, making them a perfect on-the-go snack to curb your cravings for a crunchy treat. These mixed nuts contain sea salt for a savory flavor that satisfies. Planters mixed nuts are roasted and packed in the USA. Sprinkle these Kosher mixed nuts over a salad, or serve them with soups.",
         "price": {
             "USD": {
-                "default": "2.28",
-                "formatted": "$2.28/each"
+                "default": "4.62",
+                "formatted": "$4.62/each"
             }
         },
-        "image": "http://localhost:8080/fbb171.png",
+        "image": "http://localhost:8080/fnm230.jpeg",
         "nutrition": {
-            "serving size": "45 grams",
-            "servings per container": "15",
-            "calories": "120",
-            "fat": "1.5 grams",
+            "serving size": "1 ounce (28 grams/32 pieces)",
+            "servings per container": "10",
+            "calories": "170",
+            "fat": "15 grams",
             "cholesterol": "0 milligrams",
-            "sodium": "190 milligrams",
-            "potassium": "none",
-            "carbohydrates": "24 grams",
-            "protein": "5 grams"
+            "sodium": "90 milligrams",
+            "potassium": "200 milligrams",
+            "carbohydrates": "6 grams",
+            "sugars": "0 grams",
+            "dietary fiber": "3 grams",
+            "protein": "6 grams"
         },
-        "ingredients": "WATER, WHOLE WHEAT FLOUR, ENRICHED UNBLEACHED FLOUR (WHEAT FLOUR, MALT BARLEY FLOUR, NIACIN, FERROUS SULFATE, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), 9 GRAIN MIX (HARD RED WHEAT, WHITE WHEAT, BARLEY, RYE, OATS, CORN, MILLET, BUCKWHEAT AND FLAX SEED), OAT FIBER, BROWN SUGAR, SOYBEAN OIL, RYE MEAL, FLAX SEEDS, BLACK SESAME SEEDS, WHEAT GLUTEN, MOLASSES, SALT, YEAST, ENZYME, VINEGAR, CULTURED WHEAT FLOUR, CARAMEL COLOR & ASCORBIC ACID (VITAMIN C)."
+        "ingredients": "PEANUTS, ALMONDS, CASHEWS, HAZELNUTS (FILBERTS), PECANS, PEANUT OIL, SEA SALT."
     }
 ```
 

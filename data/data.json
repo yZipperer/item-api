@@ -3117,6 +3117,40 @@
             "protein": "6 grams"
         },
         "ingredients": "PEANUTS, ALMONDS, CASHEWS, HAZELNUTS (FILBERTS), PECANS, PEANUT OIL, SEA SALT."
+    },
+    {
+        "name": "Knorr Garlic & Herb Sauce Mix",
+        "id": "fsm231",
+        "country": "United States",
+        "seasonal": "all",
+        "category": ["sauce", "seasoning", "mix"],
+        "brand": "Knorr",
+        "weight": "1.6 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Our Sauce Mix is fantastic whenever you're looking for a delicious meal topping or simple meals in a pinch. With a wide range of sauce mixes to choose from, we're sure you'll find something to help you transform a simply wonderful dinner into a winning one.",
+        "price": {
+            "USD": {
+                "default": "1.66",
+                "formatted": "$1.66/each"
+            }
+        },
+        "image": "http://localhost:8080/fsm231.jpeg",
+        "nutrition": {
+            "serving size": "1 Tablespoon (8 grams)",
+            "servings per container": "6",
+            "calories": "30",
+            "fat": "0.5 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "380 milligrams",
+            "potassium": "0 milligrams",
+            "carbohydrates": "5 grams",
+            "sugars": "0 grams",
+            "dietary fiber": "0 grams",
+            "protein": "1 grams"
+        },
+        "ingredients": "Maltodextrin, Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Corn Starch, Salt, Hydrolyzed Corn Protein, Garlic Powder, Butter (Cream, Salt), Whey Protein Concentrate, High Oleic Sunflower Oil, Corn Syrup*, Herbs and Spices, Natural Flavor, Lemon Juice*, Sodium Caseinate (Milk), Soybean Oil, Annato Extract (Color), Sulfites (used to protect quality), *Dehydrated"
     }
 
 ]
