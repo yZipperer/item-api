@@ -3151,6 +3151,40 @@
             "protein": "1 grams"
         },
         "ingredients": "Maltodextrin, Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Corn Starch, Salt, Hydrolyzed Corn Protein, Garlic Powder, Butter (Cream, Salt), Whey Protein Concentrate, High Oleic Sunflower Oil, Corn Syrup*, Herbs and Spices, Natural Flavor, Lemon Juice*, Sodium Caseinate (Milk), Soybean Oil, Annato Extract (Color), Sulfites (used to protect quality), *Dehydrated"
+    },
+    {
+        "name": "Pepperidge Farm Milano Double Dark Chocolate Cookies",
+        "id": "fcc232",
+        "country": "United States",
+        "seasonal": "all",
+        "category": ["snacks", "cookies", "chocolate", "chocolate-cookies"],
+        "brand": "Pepperidge Farm",
+        "weight": "7.5 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Delicate, sweet and oh, so indulgent, Milano cookies are that special treat your day needs - your me-time must-have. Pepperidge Farm Milano Double Dark Chocolate Cookies have twice as much rich dark chocolate as our classic version between crisp baked cookies. Get ready to enjoy 15 delicious cookies in every bag.",
+        "price": {
+            "USD": {
+                "default": "3.18",
+                "formatted": "$3.18/each"
+            }
+        },
+        "image": "http://localhost:8080/fcc232.jpeg",
+        "nutrition": {
+            "serving size": "2 cookies",
+            "servings per container": "8",
+            "calories": "140",
+            "fat": "7 grams",
+            "cholesterol": "5 milligrams",
+            "sodium": "35 milligrams",
+            "potassium": "70 milligrams",
+            "carbohydrates": "17 grams",
+            "sugars": "9 grams",
+            "dietary fiber": "<1 grams",
+            "protein": "1 grams"
+        },
+        "ingredients": "Made From: Semi Sweet Chocolate (Sugar, Chocolate, Chocolate Processed With Alkali, Cocoa Butter, Milkfat, Soy Lecithin, Vanilla Extract), Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Vegetable Oils (Palm And/Or Soybean And Hydrogenated Soybean), Eggs, Contains 2% Or Less Of: Cornstarch, Salt, Baking Soda, Soy Lecithin, Natural Flavor, Nonfat Milk. Contains: Egg, Wheat, Milk, Soy."
     }
 
 ]
