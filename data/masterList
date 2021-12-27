@@ -76,16 +76,19 @@ Categories:
 - cereal
 - seasoning
     - extract
+    - seasoning-mix
 - vegan
 - vegetarian
 - meat-alternative
 - snacks
+    - nuts
     - popcorn
     - chips
         - corn-chip
         - potato-chip
-- granola
+    - granola
 - bar
+- sauce
 - jar
 - cup
 - preserves
@@ -166,6 +169,8 @@ Brands:
     - Pocky
 - Yaokin
 - Calbee
+- Planters
+- Knorr
 
 Items:
 - apple
@@ -275,6 +280,7 @@ Items:
 - Nilla Vanilla Wafer Cookies
 
 - Pepperidge Farm Goldfish Cheddar Crackers
+- Pepperidge Farm Milano Double Dark Chocolate Cookies
 
 - Folgers Classic Roast Ground Coffee
 
@@ -306,6 +312,10 @@ Items:
 - Mott's Medleys Assorted Fruit Snacks Family Size
 
 - Smucker's Strawberry Preserves
+
+- Planters Mixed Nuts with Peanuts, Almonds, Cashews, Hazelnuts, and Pecans
+
+- Knorr Garlic & Herb Sauce Mix
 
 - Lunchables Turkey & American Cheese Cracker Stacks
 - Lunchables Pizza with Peperoni Lunch Kit

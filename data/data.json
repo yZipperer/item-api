@@ -3123,7 +3123,7 @@
         "id": "fsm231",
         "country": "United States",
         "seasonal": "all",
-        "category": ["sauce", "seasoning", "mix"],
+        "category": ["sauce", "seasoning", "seasoning-mix"],
         "brand": "Knorr",
         "weight": "1.6 ounces",
         "hot": false,
