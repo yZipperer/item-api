@@ -3083,6 +3083,40 @@
             "protein": ""
         },
         "ingredients": "Vanilla Bean Extractives in Water, and Alcohol."
+    },
+    {
+        "name": "Planters Mixed Nuts with Peanuts, Almonds, Cashews, Hazelnuts, and Pecans",
+        "id": "fnm230",
+        "country": "United States",
+        "seasonal": "all",
+        "category": ["nuts", "snacks"],
+        "brand": "Planters",
+        "weight": "10.3 ounces",
+        "hot": false,
+        "cold": false,
+        "frozen": false,
+        "description": "Planters Mixed Nuts offer a crunchy combination of peanuts, almonds, cashews, hazelnuts and pecans, making them a perfect on-the-go snack to curb your cravings for a crunchy treat. These mixed nuts contain sea salt for a savory flavor that satisfies. Planters mixed nuts are roasted and packed in the USA. Sprinkle these Kosher mixed nuts over a salad, or serve them with soups.",
+        "price": {
+            "USD": {
+                "default": "4.62",
+                "formatted": "$4.62/each"
+            }
+        },
+        "image": "http://localhost:8080/fnm230.jpeg",
+        "nutrition": {
+            "serving size": "1 ounce (28 grams/32 pieces)",
+            "servings per container": "10",
+            "calories": "170",
+            "fat": "15 grams",
+            "cholesterol": "0 milligrams",
+            "sodium": "90 milligrams",
+            "potassium": "200 milligrams",
+            "carbohydrates": "6 grams",
+            "sugars": "0 grams",
+            "dietary fiber": "3 grams",
+            "protein": "6 grams"
+        },
+        "ingredients": "PEANUTS, ALMONDS, CASHEWS, HAZELNUTS (FILBERTS), PECANS, PEANUT OIL, SEA SALT."
     }
 
 ]
